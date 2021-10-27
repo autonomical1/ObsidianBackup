@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/11.1 - The Representatives and Senators.md",
-            "mode": "preview"
+            "file": "AP Government/AP Government Readings.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/11.1 - The Representatives and Senators.md",
+                "file": "AP Government/AP Government Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/11.1 - The Representatives and Senators.md",
+                "file": "AP Government/AP Government Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "f0f88973b18bdf05",
   "lastOpenFiles": [
+    "AP Government/AP Government Readings.md",
     "AP Government/Readings/11.1 - The Representatives and Senators.md",
     "AP Government/Readings/11.2 - Congressional Elections.md",
     "Test.md"
