@@ -1,13 +1,13 @@
 {
   "main": {
-    "id": "88d2a7c05010b79f",
+    "id": "9c69e5927a615407",
     "type": "split",
     "children": [
       {
-        "id": "8809f6c64542b026",
+        "id": "f0f88973b18bdf05",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -101,6 +101,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8809f6c64542b026",
-  "lastOpenFiles": []
+  "active": "f0f88973b18bdf05",
+  "lastOpenFiles": [
+    "Test.md"
+  ]
 }
