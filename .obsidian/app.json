@@ -1,5 +1,6 @@
 {
   "spellcheck": true,
   "strictLineBreaks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
