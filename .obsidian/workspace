@@ -6,6 +6,7 @@
       {
         "id": "f0f88973b18bdf05",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -72,8 +73,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,16 +82,20 @@
             "id": "884b1d4df703e659",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AP Government/AP Government Readings.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "b7d48e85ef8f2bbd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "29220b8b257c254e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -106,7 +109,6 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f0f88973b18bdf05",
   "lastOpenFiles": [
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
