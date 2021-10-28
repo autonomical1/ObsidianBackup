@@ -14,6 +14,39 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "663730dbb696f1ea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2412ef13e8a8c5b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/11.2 - Congressional Elections.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b848a7e310936cf5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/11.1 - The Representatives and Senators.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
