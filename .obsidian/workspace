@@ -6,7 +6,6 @@
       {
         "id": "f0f88973b18bdf05",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,42 +72,40 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "884b1d4df703e659",
+            "id": "3d56d888bf06cf11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "b7d48e85ef8f2bbd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "29220b8b257c254e",
+            "id": "311f0b62824575e1",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
+  "active": "f0f88973b18bdf05",
   "lastOpenFiles": [
     "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
     "AP Government/Readings/11.2 - Congressional Elections.md",
