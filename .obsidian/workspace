@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "AP Government/Readings/13.2 - Congressional Elections.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Government/Readings/13.2 - Congressional Elections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Government/Readings/13.2 - Congressional Elections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
+    "AP Government/Readings/13.2 - Congressional Elections.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
     "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
@@ -115,7 +116,6 @@
     "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
     "2021-10-28.md",
     "11.3 - How Congress is Organized to Make Policy.md",
-    "AP Government/Readings/11.3 - How Congress is Organized to Make Policy.md",
-    "Test.md"
+    "AP Government/Readings/11.3 - How Congress is Organized to Make Policy.md"
   ]
 }
