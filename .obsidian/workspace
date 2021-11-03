@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f88973b18bdf05",
+        "id": "99e40c11b17d1e86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
-            "mode": "preview"
+            "file": "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "file": "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "file": "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,11 +105,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f0f88973b18bdf05",
+  "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
+    "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
+    "AP Government/AP Government Readings.md",
     "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
     "AP Government/Readings/11.2 - Congressional Elections.md",
-    "AP Government/AP Government Readings.md",
     "AP Government/Readings/11.1 - The Representatives and Senators.md",
     "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
     "2021-10-28.md",
