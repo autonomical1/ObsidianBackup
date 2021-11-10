@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "9c69e5927a615407",
+    "id": "fcea43fdb02c3d58",
     "type": "split",
     "children": [
       {
-        "id": "f0f88973b18bdf05",
+        "id": "702d3ff29168eee5",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -101,7 +101,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f0f88973b18bdf05",
+  "active": "702d3ff29168eee5",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "AP Government/Readings/11.1 - The Representatives and Senators.md",
