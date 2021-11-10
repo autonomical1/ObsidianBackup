@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "9c69e5927a615407",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f88973b18bdf05",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9554246291fc2212",
+    "type": "split",
+    "children": [
+      {
+        "id": "189118b27f1cd547",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a339a509b5bb69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6f803c20ebbdb67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ca2763505c30126",
+    "type": "split",
+    "children": [
+      {
+        "id": "00903699799a1460",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4238d95c251b6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "884b1d4df703e659",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7d48e85ef8f2bbd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f0f88973b18bdf05",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "AP Government/Readings/11.1 - The Representatives and Senators.md",
+    "AP Government/AP Government Readings.md",
+    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+    "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
+    "AP Government/Readings/11.2 - Congressional Elections.md",
+    "2021-10-28.md",
+    "11.3 - How Congress is Organized to Make Policy.md",
+    "AP Government/Readings/11.3 - How Congress is Organized to Make Policy.md",
+    "Test.md"
+  ]
+}
