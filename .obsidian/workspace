@@ -7,8 +7,11 @@
         "id": "702d3ff29168eee5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/12.1 - The Presidents.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ca2763505c30126",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP Government/Readings/12.1 - The Presidents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP Government/Readings/12.1 - The Presidents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,12 +108,12 @@
   },
   "active": "702d3ff29168eee5",
   "lastOpenFiles": [
+    "AP Government/Readings/12.1 - The Presidents.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/13.2 - Federal Expenditures.md",
     "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
     "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
     "AP Government/Readings/12.2 - Presidential Powers.md",
-    "AP Government/Readings/12.1 - The Presidents.md",
     "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
     "AP Government/Readings/2.1 - The Origins of the Constitution.md",
     "conflict-files-obsidian-git.md",
