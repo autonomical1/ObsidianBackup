@@ -6,7 +6,7 @@
 
 [[12.2 - Presidential Powers]]
 
-[[12.3 - Running the Governme]]
+[[12.3 - Running the Government - The Chief Executive]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
