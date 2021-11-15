@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/WED 2021-11-15.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/WED 2021-11-15.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/WED 2021-11-15.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,6 +107,7 @@
   },
   "active": "702d3ff29168eee5",
   "lastOpenFiles": [
+    "Untitled.md",
     "Literature/WED 2021-11-15.md",
     "AP Government/Readings/12.2 - Presidential Powers.md",
     "AP Government/AP Government Readings.md",
@@ -116,7 +116,6 @@
     "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
     "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
     "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
-    "AP Government/Readings/2.1 - The Origins of the Constitution.md",
-    "conflict-files-obsidian-git.md"
+    "AP Government/Readings/2.1 - The Origins of the Constitution.md"
   ]
 }
