@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Literature/WED 2021-11-15.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Literature/WED 2021-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Literature/WED 2021-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +107,8 @@
   },
   "active": "702d3ff29168eee5",
   "lastOpenFiles": [
-    "Untitled.md",
     "Literature/WED 2021-11-15.md",
+    "Literature/Literature WEDs.md",
     "AP Government/Readings/12.2 - Presidential Powers.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/12.1 - The Presidents.md",
