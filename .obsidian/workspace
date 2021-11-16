@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "702d3ff29168eee5",
   "lastOpenFiles": [
+    "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
     "AP Government/AP Government Readings.md",
     "Literature/WED 2021-11-15.md",
     "Literature/Literature WEDs.md",
@@ -114,7 +115,6 @@
     "AP Government/Readings/12.1 - The Presidents.md",
     "AP Government/Readings/13.2 - Federal Expenditures.md",
     "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
-    "AP Government/Readings/12.3 - Running the Government - The Chief Executive.md",
     "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
     "AP Government/Readings/2.1 - The Origins of the Constitution.md"
   ]
