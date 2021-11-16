@@ -1,3 +1,6 @@
 - Queen Victoria
 	- 1837-1901
-	- set a standard for "lady-like" behaviour
+	- set a standard for "lady-like" behavior
+	- Known for: 
+		- **Prudery**: any bodily topic was taboo
+		- 
