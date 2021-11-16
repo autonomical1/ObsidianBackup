@@ -3,4 +3,4 @@
 	- set a standard for "lady-like" behavior
 	- Known for: 
 		- **Prudery**: any bodily topic was taboo
-		- 
+			- couldn't talk about birth, pregnancy, excretions, sexuality
