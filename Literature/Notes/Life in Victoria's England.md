@@ -1,1 +1,3 @@
 - Queen Victoria
+	- 1837-1901
+	- set a standard for "lady-like" behaviour
