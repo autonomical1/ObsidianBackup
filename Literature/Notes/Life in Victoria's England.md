@@ -5,4 +5,5 @@
 		- **Prudery**: any bodily topic was taboo
 			- couldn't talk about birth, pregnancy, excretions, sexuality, any other 'forbidden' subjects
 			- Mainly applied to women (particularly around men)
-			- 
+
+		- known as "legless angle"
