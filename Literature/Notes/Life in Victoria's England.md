@@ -7,3 +7,5 @@
 			- Mainly applied to women (particularly around men)
 
 		- known as "legless angels"
+			- angels: no knowledge of the world (purity)
+			- legless: couldn't show any n
