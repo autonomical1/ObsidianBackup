@@ -8,4 +8,5 @@
 
 		- known as "legless angels"
 			- angels: no knowledge of the world (purity)
-			- legless: couldn't show any n
+			- legless: couldn't show any body from the bust down
+			- 
