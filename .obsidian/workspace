@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Literature WEDs.md",
+            "file": "Literature/Literature Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Literature WEDs.md",
+                "file": "Literature/Literature Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Literature WEDs.md",
+                "file": "Literature/Literature Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +108,9 @@
   },
   "active": "702d3ff29168eee5",
   "lastOpenFiles": [
+    "Literature/Literature Notes.md",
     "Literature/Literature WEDs.md",
     "Vocab - 2021/11/21.md",
-    "Literature/Literature Notes.md",
     "Literature/Notes/Life in Victoria's England.md",
     "AP Government/AP Government Readings.md",
     "Literature/WEDs/WED 2021-11-17.md",
