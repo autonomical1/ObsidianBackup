@@ -23,6 +23,8 @@
 
 [[12.6 - Power from the People - The Public Presidency]]
 
+[[12.7 - The President and the Press]]
+
 # Chapter 13
 [[13.1 - Federal Revenue and Borrowing]]
 
