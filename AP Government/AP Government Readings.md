@@ -21,6 +21,8 @@
 
 [[12.5 - The President and National Security Policy]]
 
+[[12.6 - Power from the People - The Public Presidency]]
+
 # Chapter 13
 [[13.1 - Federal Revenue and Borrowing]]
 
