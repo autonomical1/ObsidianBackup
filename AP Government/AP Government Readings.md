@@ -19,6 +19,8 @@
 
 [[12.4 - Presidential Leadership of Congress - The Politics of Shared Powers]]
 
+[[12.5 - The President and National Security Policy]]
+
 # Chapter 13
 [[13.1 - Federal Revenue and Borrowing]]
 

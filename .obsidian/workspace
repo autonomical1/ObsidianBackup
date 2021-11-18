@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "12.5 - The President and National Security Policy.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "12.5 - The President and National Security Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "12.5 - The President and National Security Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "702d3ff29168eee5",
   "lastOpenFiles": [
+    "12.5 - The President and National Security Policy.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/12.4 - Presidential Leadership of Congress - The Politics of Shared Powers.md",
     "Literature/Vocab 2021-11-17.md",
@@ -116,7 +117,6 @@
     "Vocab - 2021/11/21.md",
     "Literature/Notes/Life in Victoria's England.md",
     "Literature/WEDs/WED 2021-11-17.md",
-    "Literature/WEDs/WED 2021-11-15.md",
-    "Literature/WEDs/WED 2021-11-16.md"
+    "Literature/WEDs/WED 2021-11-15.md"
   ]
 }
