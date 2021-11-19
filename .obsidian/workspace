@@ -7,8 +7,11 @@
         "id": "6bea9cdd0934f447",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/2.1 - The Origins of the Constitution.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP Government/Readings/2.1 - The Origins of the Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP Government/Readings/2.1 - The Origins of the Constitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +108,15 @@
   },
   "active": "6bea9cdd0934f447",
   "lastOpenFiles": [
+    "AP Government/Readings/2.1 - The Origins of the Constitution.md",
     "AP Government/AP Government.md",
+    "AP Government/AP Government Notes.md",
     "Literature/Literature.md",
     "Literature/Literature Notes.md",
     "Literature/Notes/Work 2021-11-19.md",
     "Literature/Notes/WED 2021-11-19.md",
     "Literature/Literature WEDs.md",
     "Literature/WEDs/Vocab 2021-11-17.md",
-    "AP Government/Readings/12.7 - The President and the Press.md",
-    "AP Government/Readings/12.6 - Power from the People - The Public Presidency.md",
-    "AP Government/Readings/12.5 - The President and National Security Policy.md"
+    "AP Government/Readings/12.7 - The President and the Press.md"
   ]
 }
