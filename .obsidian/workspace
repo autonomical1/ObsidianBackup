@@ -7,11 +7,8 @@
         "id": "6bea9cdd0934f447",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Work 2021-11-19.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work 2021-11-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work 2021-11-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,8 +103,8 @@
   },
   "active": "6bea9cdd0934f447",
   "lastOpenFiles": [
-    "Work 2021-11-19.md",
     "Literature/Literature Notes.md",
+    "Literature/Notes/Work 2021-11-19.md",
     "Literature/Notes/WED 2021-11-19.md",
     "Literature/Literature WEDs.md",
     "Literature/WEDs/Vocab 2021-11-17.md",
