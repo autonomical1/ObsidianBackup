@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "14.1 - The Bureaucrats.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "14.1 - The Bureaucrats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "14.1 - The Bureaucrats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "6bea9cdd0934f447",
   "lastOpenFiles": [
+    "14.1 - The Bureaucrats.md",
     "AP Government/AP Government Readings.md",
     "AP Government/AP Government Notes.md",
     "Literature/WEDs/WED 2021-11-29.md",
@@ -116,7 +117,6 @@
     "Literature/Literature Notes.md",
     "AP Government/Readings/13.2 - Federal Expenditures.md",
     "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
-    "AP Government/Readings/12.7 - The President and the Press.md",
-    "AP Government/Readings/12.6 - Power from the People - The Public Presidency.md"
+    "AP Government/Readings/12.7 - The President and the Press.md"
   ]
 }
