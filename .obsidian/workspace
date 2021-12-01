@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Notes/Vocab 2021-11-30.md",
+            "file": "Literature/Literature.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Notes/Vocab 2021-11-30.md",
+                "file": "Literature/Literature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Notes/Vocab 2021-11-30.md",
+                "file": "Literature/Literature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,14 +107,14 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
-    "Literature/Notes/Vocab 2021-11-30.md",
-    "Literature/Notes/A Christmas Carol.md",
+    "Literature/Literature.md",
+    "Literature/Literature Notes.md",
     "Literature/Notes/Work 2021-11-19.md",
-    "Literature/Notes/Vocab 2021-11-17.md",
+    "Literature/Notes/Stave 1 Vocab.md",
+    "Literature/Notes/Stave 2 Vocab.md",
+    "Literature/Notes/A Christmas Carol.md",
     "Literature/Notes/Life in Victoria's England.md",
     "Literature/Literature WEDs.md",
-    "Literature/Literature Notes.md",
-    "Literature/Literature.md",
     "Literature/WEDs/WED 2021-12-1.md",
     "Literature/WEDs/WED 2021-11-29.md"
   ]
