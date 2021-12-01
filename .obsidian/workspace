@@ -7,11 +7,8 @@
         "id": "6bea9cdd0934f447",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/WEDs/WED 2021-11-16.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/WEDs/WED 2021-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/WEDs/WED 2021-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +103,15 @@
   },
   "active": "6bea9cdd0934f447",
   "lastOpenFiles": [
+    "Literature/WEDs/WED 2021-12-1.md",
+    "Literature/WEDs/WED 2021-11-29.md",
+    "Literature/WEDs/WED 2021-11-17.md",
     "Literature/WEDs/WED 2021-11-16.md",
     "Literature/WEDs/WED 2021-11-15.md",
     "Literature/WEDs/Vocab 2021-11-17.md",
     "AP Government/AP Government.md",
     "AP Government/AP Government Readings.md",
     "AP Government/AP Government Notes.md",
-    "AP Government/Readings/14.1 - The Bureaucrats.md",
-    "Literature/Literature WEDs.md",
-    "Literature/WEDs/WED 2021-12-1.md",
-    "Literature/Literature Notes.md"
+    "AP Government/Readings/14.1 - The Bureaucrats.md"
   ]
 }
