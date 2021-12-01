@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/WEDs/Vocab 2021-11-17.md",
+            "file": "A Christmas Carol - Stave 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/WEDs/Vocab 2021-11-17.md",
+                "file": "A Christmas Carol - Stave 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/WEDs/Vocab 2021-11-17.md",
+                "file": "A Christmas Carol - Stave 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "6bea9cdd0934f447",
   "lastOpenFiles": [
+    "A Christmas Carol - Stave 1.md",
     "Literature/WEDs/Vocab 2021-11-17.md",
     "Literature/Literature Notes.md",
     "Literature/Literature.md",
@@ -116,7 +117,6 @@
     "Literature/WEDs/WED 2021-11-17.md",
     "Literature/WEDs/WED 2021-11-16.md",
     "Literature/WEDs/WED 2021-11-15.md",
-    "AP Government/AP Government.md",
-    "AP Government/AP Government Readings.md"
+    "AP Government/AP Government.md"
   ]
 }
