@@ -352,13 +352,3 @@ Whether these creatures faded into mist, or mist enshrouded them, he could not t
 **
 
 **Scrooge closed the window, and examined the door by which the Ghost had entered.  It was double-locked, as he had locked it with his own hands, and the bolts were undisturbed.  He tried to say "Humbug!" but stopped at the first syllable.  And being, from the emotion he had undergone, or the fatigues of the day, or his glimpse of the Invisible World, or the dull conversation of the Ghost, or the lateness of the hour, much in need of repose; went straight to bed, without undressing, and fell asleep upon the instant.**
-
-[**Stave 2: _The First of the Three Spirits_**](http://www.stormfax.com/2dickens.htm)
-
-![](https://www.stormfax.com/hobul.gif)
-
-[![](https://www.stormfax.com/top.gif)](https://www.stormfax.com/1dickens.htm#top)
-
-![](https://www.stormfax.com/note_icn.gif)**Please read our [Legal](http://www.stormfax.com/legal6.htm) Notice and our [Privacy](http://www.stormfax.com/privacy6.htm) Statement.**
-
-            **Copyright ©1996-2021 STORMFAX**
