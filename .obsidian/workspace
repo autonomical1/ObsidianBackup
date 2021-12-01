@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6bea9cdd0934f447",
+        "id": "fa1aa36807c18ccf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Notes/Vocab 2021-11-30.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Notes/Vocab 2021-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature/Notes/Vocab 2021-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,26 +100,12 @@
             }
           }
         ]
-      },
-      {
-        "id": "7a93a3667e06790c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa1aa36807c18ccf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6bea9cdd0934f447",
+  "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
     "Literature/Notes/Vocab 2021-11-30.md",
     "Literature/Notes/A Christmas Carol.md",
