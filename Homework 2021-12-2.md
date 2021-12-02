@@ -1,0 +1,1 @@
+Do you think Patrick Stewart accuratly portrayed Scrooge's reactions throughout the past episodes

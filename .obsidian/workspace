@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Literature Notes.md",
+            "file": "Homework 2021-12-2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Literature Notes.md",
+                "file": "Homework 2021-12-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Literature Notes.md",
+                "file": "Homework 2021-12-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "Homework 2021-12-2.md",
     "Literature/Literature Notes.md",
     "Literature/Literature WEDs.md",
     "AP Government/AP Government Readings.md",
@@ -115,7 +116,6 @@
     "Links/Literature.md",
     "Literature/Notes/Stave 2 Vocab.md",
     "Literature/Notes/Work 2021-11-19.md",
-    "Literature/Notes/Stave 1 Vocab.md",
-    "Literature/Notes/A Christmas Carol.md"
+    "Literature/Notes/Stave 1 Vocab.md"
   ]
 }
