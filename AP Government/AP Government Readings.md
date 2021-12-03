@@ -35,4 +35,4 @@
 
 [[14.2 - How the Federal Bureaucracy is Organized]]
 
-[[14.4 - Bureaucracies as Regul]]
+[[14.4 - Bureaucracies as Regulators]]
