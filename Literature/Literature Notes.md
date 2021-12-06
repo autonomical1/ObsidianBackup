@@ -6,4 +6,4 @@
 
 [[Stave 2 Vocab]]
 
-[[Homework 2021-12-2]]t
+[[Homework 2021-12-2]]
