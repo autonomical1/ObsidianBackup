@@ -4,7 +4,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
-    "intragovernmental"
+    "intragovernmental",
+    "petrification"
   ],
   "pdfExportSettings": {
     "pageSize": "Letter",
