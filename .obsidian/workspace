@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Literature WEDs.md",
+            "file": "Literature/Literature Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Literature WEDs.md",
+                "file": "Literature/Literature Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Literature WEDs.md",
+                "file": "Literature/Literature Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "Literature/Literature Notes.md",
     "Literature/Literature WEDs.md",
     "AP Government/Readings/14.5 - Controlling the Bureaucracy.md",
     "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
@@ -115,7 +116,6 @@
     "AP Government/AP Government Readings.md",
     "AP Government/AP Government Notes.md",
     "Literature/Notes/Homework 2021-12-2.md",
-    "Literature/Literature Notes.md",
     "Links/Literature.md"
   ]
 }
