@@ -1,0 +1,12 @@
+- Queen Victoria
+	- 1837-1901
+	- set a standard for "lady-like" behavior
+	- Known for: 
+		- **Prudery**: any bodily topic was taboo
+			- couldn't talk about birth, pregnancy, excretions, sexuality, any other 'forbidden' subjects
+			- Mainly applied to women (particularly around men)
+
+		- known as "legless angels"
+			- angels: no knowledge of the world (purity)
+			- legless: couldn't show any body from the bust down
+			- chemise, pantalettes, stockings, corset, corset cover, petticoats, hoopskirt
