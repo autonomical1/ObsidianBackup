@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "fcea43fdb02c3d58",
+    "id": "9c69e5927a615407",
     "type": "split",
     "children": [
       {
-        "id": "fa1aa36807c18ccf",
+        "id": "99e40c11b17d1e86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
+            "file": "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#APGov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,31 +68,31 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
+                "file": "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "884b1d4df703e659",
+            "id": "3d56d888bf06cf11",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
+                "file": "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7d48e85ef8f2bbd",
+            "id": "311f0b62824575e1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -105,17 +105,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fa1aa36807c18ccf",
+  "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
-    "AP Government/AP Government Readings.md",
-    "Literature/Notes/Homework 2021-12-2.md",
-    "Literature/Literature Notes.md",
-    "Literature/Literature WEDs.md",
-    "AP Government/AP Government Notes.md",
     "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
-    "Links/Literature.md",
-    "Literature/Notes/Stave 2 Vocab.md",
-    "Literature/Notes/Work 2021-11-19.md"
+    "AP Government/AP Government Readings.md",
+    "AP Government/Readings/14.1 - The Bureaucrats.md",
+    "AP Government/Readings/13.2 - Federal Expenditures.md",
+    "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md",
+    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+    "AP Government/Readings/11.2 - Congressional Elections.md",
+    "AP Government/Readings/11.1 - The Representatives and Senators.md",
+    "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
+    "2021-10-28.md"
   ]
 }

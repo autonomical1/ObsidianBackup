@@ -4,10 +4,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
-    "intragovernmental",
-    "storyline"
+    "intragovernmental"
   ],
-  "attachmentFolderPath": "Attachments",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
