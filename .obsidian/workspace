@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ca2763505c30126",
@@ -102,15 +103,15 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
-    "Your Very Own Ghost Writing Assignment.md",
+    "Links/Literature.md",
+    "Literature/WEDs/WED 2021-11-19.md",
+    "AP Government/AP Government Readings.md",
+    "Literature/Notes/Your Very Own Ghost Writing Assignment.md",
     "Literature/Literature Notes.md",
     "AP Government/Readings/14.5 - Controlling the Bureaucracy.md",
-    "AP Government/AP Government Readings.md",
     "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
     "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
     "AP Government/Readings/14.1 - The Bureaucrats.md",
-    "Literature/Notes/Classwork 2021-12-6.md",
-    "Literature/Notes/Life in Victoria's England.md",
-    "Literature/Notes/Stave 3.md"
+    "Literature/Notes/Classwork 2021-12-6.md"
   ]
 }
