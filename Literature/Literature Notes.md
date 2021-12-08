@@ -9,3 +9,5 @@
 [[Homework 2021-12-2]]
 
 [[Classwork 2021-12-6]]
+
+[[Your Very Own Ghost Writing Assignment]]
