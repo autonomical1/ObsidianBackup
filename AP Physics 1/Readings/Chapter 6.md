@@ -32,3 +32,8 @@
 
 # 6.5
 
+## Circular Orbits: Orbital Speed and Orbital Period
+- easiest orbit to analyze is circular orbit
+- 2(pi)r (sqrt)r/G(m)(earth)
+
+# 
