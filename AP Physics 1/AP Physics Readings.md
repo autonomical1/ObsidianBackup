@@ -2,3 +2,4 @@
 
 [[6.2 - An object moving in a circle is acceleration even if its speed is constant]]
 
+[[Chapter 6]]
