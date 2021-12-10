@@ -3,3 +3,11 @@
 - Gravitational forces are partly responsible for holding Earth together.
 
 # 6.2
+- **uniform circular motion**: when an object goes moves in circular motion at a constant speed
+- **centripetal acceleration**: center seeking; acceleration is pointed towards the middle of the circular motion
+## Analyzing Motion in a circle
+- (delta)(theta) = (delta)s / r
+- if the time interval between points 1 and 2 is short, theta is small
+- nonuniform circular motion works well with a(cent) =  v^2 / r
+
+
