@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Physics 1/Readings/Chapter 6.md",
+            "file": "Literature/Literature Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 6.md",
+                "file": "Literature/Literature Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 6.md",
+                "file": "Literature/Literature Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +107,15 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
-    "AP Physics 1/Readings/Chapter 6.md",
-    "6.6 - Apparent Weight and what it means to be weightless.md",
+    "Literature/Literature Notes.md",
     "AP Physics 1/AP Physics Readings.md",
+    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
+    "AP Physics 1/Readings/Chapter 6.md",
+    "AP Physics 1/Readings/6.6 - Apparent Weight and what it means to be weightless.md",
     "AP Physics 1/Readings/6.5 - Newton's law of universal gravitation begins to explain the orbits of planets and satellites.md",
     "AP Physics 1/Readings/6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to the concept of field.md",
     "AP Physics 1/Readings/6.3 - For an object in uniform circular motion, the net force exerted on the object points toward the center of the circle.md",
     "AP Physics 1/Readings/6.2 - An object moving in a circle is acceleration even if its speed is constant.md",
-    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
-    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
-    "AP Government/Readings/11.2 - Congressional Elections.md"
+    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md"
   ]
 }
