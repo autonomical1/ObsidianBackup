@@ -10,4 +10,10 @@
 - if the time interval between points 1 and 2 is short, theta is small
 - nonuniform circular motion works well with a(cent) =  v^2 / r
 
+# 6.3
+- centripetal acc. depends on the radius of the curve and the speed
+- any kind of force provides the acceleration in circular motion
+
+# 6.4
+- 
 
