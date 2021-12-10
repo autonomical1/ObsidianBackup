@@ -4,5 +4,6 @@
 
 [[6.3 - For an object in uniform circular motion, the net force exerted on the object points toward the center of the circle]]
 
-[[6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to ]]
+[[6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to the concept of field]]
+
 [[Chapter 6]]
