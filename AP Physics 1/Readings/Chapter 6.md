@@ -36,4 +36,4 @@
 - easiest orbit to analyze is circular orbit
 - 2(pi)r (sqrt)r/G(m)(earth)
 
-# 
+# 6.6
