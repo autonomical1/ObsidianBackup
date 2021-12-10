@@ -2,4 +2,5 @@
 
 [[6.2 - An object moving in a circle is acceleration even if its speed is constant]]
 
+[[6.3 - For an object in uniform circular motion, the net force exerted on the o]]
 [[Chapter 6]]
