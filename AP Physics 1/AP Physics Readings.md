@@ -1,1 +1,1 @@
-[[6.1 -  Gravitation is a force of universal importance; add circular motion and you start explan]]
+[[6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets]]
