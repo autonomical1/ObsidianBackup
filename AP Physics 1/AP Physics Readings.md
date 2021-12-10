@@ -8,4 +8,6 @@
 
 [[6.5 - Newton's law of universal gravitation begins to explain the orbits of planets and satellites]]
 
+[[6.6 - Apparent Weight and what it means to be weightless]]
+
 [[Chapter 6]]
