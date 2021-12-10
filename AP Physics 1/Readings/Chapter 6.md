@@ -37,3 +37,5 @@
 - 2(pi)r (sqrt)r/G(m)(earth)
 
 # 6.6
+- **apparent weightlessness**: no normal force
+	- there is still a gravitational force so they can't be weightless
