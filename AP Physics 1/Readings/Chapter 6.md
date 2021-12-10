@@ -15,5 +15,20 @@
 - any kind of force provides the acceleration in circular motion
 
 # 6.4
-- 
+- Newton knew that the Moon orbits the Earth at near constant speed
+
+## Law of Universal Gravitation
+- g = (a constant) / r^2
+- this goes to:
+	- G*M1*M2 / r^2
+- also could be known as "the inverse-square law of gravitation"
+
+## Finding the Value of G and the Mass of the Earth
+- G * M(earth) * m(you) / r^2(earth)
+- **Cavendish Experiment**: gravitational force of the large sphere on the small sphere makes the wooden rod rotate
+
+## Fields are a useful way to model fundamental forces
+- **fields**: associate a value of some physical quantity to every point in space
+
+# 6.5
 

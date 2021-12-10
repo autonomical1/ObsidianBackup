@@ -6,4 +6,5 @@
 
 [[6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to the concept of field]]
 
+[[6.5 - Newton's law of universal gravitation]]
 [[Chapter 6]]
