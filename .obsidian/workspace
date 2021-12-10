@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
-            "mode": "preview"
+            "file": "AP Physics 1/Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "file": "AP Physics 1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "file": "AP Physics 1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "AP Physics 1/Untitled.md",
     "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
     "AP Government/Readings/11.2 - Congressional Elections.md",
     "AP Government/Readings/12.1 - The Presidents.md",
@@ -115,7 +116,6 @@
     "AP Government/Readings/11.1 - The Representatives and Senators.md",
     "AP Government/AP Government Readings.md",
     "Literature/Notes/Your Very Own Ghost Writing Assignment.md",
-    "Literature/Literature Notes.md",
-    "Links/Literature.md"
+    "Literature/Literature Notes.md"
   ]
 }
