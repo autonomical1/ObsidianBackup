@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Notes/Christmas Carol Themes.md",
+            "file": "Stave 4 Vocab.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Notes/Christmas Carol Themes.md",
+                "file": "Stave 4 Vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Notes/Christmas Carol Themes.md",
+                "file": "Stave 4 Vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +107,15 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "Stave 4 Vocab.md",
+    "Literature/Literature Notes.md",
+    "Literature/Literature WEDs.md",
     "Literature/Notes/Christmas Carol Themes.md",
     "Literature/Notes/Stave 4.md",
     "Literature/Notes/Stave 3.md",
     "Literature/Notes/Stave 2 Vocab.md",
     "Literature/Notes/Stave 1 Vocab.md",
     "AP Physics 1/AP Physics Readings.md",
-    "Literature/Literature Notes.md",
-    "Literature/Notes/Quiz 2021-12-10.md",
-    "AP Physics 1/Readings/Chapter 6.md",
-    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md"
+    "Literature/Notes/Quiz 2021-12-10.md"
   ]
 }
