@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stave 4 Vocab.md",
+            "file": "Literature/Notes/Christmas Carol Themes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stave 4 Vocab.md",
+                "file": "Literature/Notes/Christmas Carol Themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stave 4 Vocab.md",
+                "file": "Literature/Notes/Christmas Carol Themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,10 +107,10 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
-    "Stave 4 Vocab.md",
-    "Literature/Literature Notes.md",
-    "Literature/Literature WEDs.md",
     "Literature/Notes/Christmas Carol Themes.md",
+    "Literature/Literature Notes.md",
+    "Literature/Notes/Stave 4 Vocab.md",
+    "Literature/Literature WEDs.md",
     "Literature/Notes/Stave 4.md",
     "Literature/Notes/Stave 3.md",
     "Literature/Notes/Stave 2 Vocab.md",
