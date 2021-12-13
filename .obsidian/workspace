@@ -7,11 +7,8 @@
         "id": "fa1aa36807c18ccf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Literature/Literature Notes.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Literature Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Literature Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +102,15 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "Literature/Notes/Stave 4.md",
+    "Literature/Notes/Stave 3.md",
+    "Literature/Notes/Stave 2 Vocab.md",
+    "Literature/Notes/Stave 1 Vocab.md",
+    "AP Physics 1/AP Physics Readings.md",
+    "Literature/Notes/Christmas Carol Themes.md",
     "Literature/Literature Notes.md",
     "Literature/Notes/Quiz 2021-12-10.md",
     "AP Physics 1/Readings/Chapter 6.md",
-    "AP Physics 1/AP Physics Readings.md",
-    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
-    "AP Physics 1/Readings/6.6 - Apparent Weight and what it means to be weightless.md",
-    "AP Physics 1/Readings/6.5 - Newton's law of universal gravitation begins to explain the orbits of planets and satellites.md",
-    "AP Physics 1/Readings/6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to the concept of field.md",
-    "AP Physics 1/Readings/6.3 - For an object in uniform circular motion, the net force exerted on the object points toward the center of the circle.md",
-    "AP Physics 1/Readings/6.2 - An object moving in a circle is acceleration even if its speed is constant.md"
+    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md"
   ]
 }
