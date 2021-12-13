@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quiz 2021-12-10.md",
-            "mode": "source"
+            "file": "AP Physics 1/Readings/Chapter 6.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quiz 2021-12-10.md",
+                "file": "AP Physics 1/Readings/Chapter 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quiz 2021-12-10.md",
+                "file": "AP Physics 1/Readings/Chapter 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,11 +107,11 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "AP Physics 1/Readings/Chapter 6.md",
+    "AP Physics 1/AP Physics Readings.md",
     "Quiz 2021-12-10.md",
     "Literature/Literature Notes.md",
-    "AP Physics 1/AP Physics Readings.md",
     "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
-    "AP Physics 1/Readings/Chapter 6.md",
     "AP Physics 1/Readings/6.6 - Apparent Weight and what it means to be weightless.md",
     "AP Physics 1/Readings/6.5 - Newton's law of universal gravitation begins to explain the orbits of planets and satellites.md",
     "AP Physics 1/Readings/6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to the concept of field.md",
