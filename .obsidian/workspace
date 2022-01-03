@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Notes/Stave 4 Vocab.md",
+            "file": "Literature/Literature Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Notes/Stave 4 Vocab.md",
+                "file": "Literature/Literature Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Notes/Stave 4 Vocab.md",
+                "file": "Literature/Literature Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +107,8 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
-    "Literature/Notes/Stave 4 Vocab.md",
     "Literature/Literature Notes.md",
+    "Literature/Notes/Stave 4 Vocab.md",
     "Literature/Literature WEDs.md",
     "Literature/WEDs/Stave 4 Questions.md",
     "Literature/Notes/Homework 2021-12-2.md",
