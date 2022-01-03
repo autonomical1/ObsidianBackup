@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Literature Notes.md",
+            "file": "Writing the Times.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Literature Notes.md",
+                "file": "Writing the Times.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Literature Notes.md",
+                "file": "Writing the Times.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +107,7 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "Writing the Times.md",
     "Literature/Literature Notes.md",
     "Literature/Notes/Stave 4 Vocab.md",
     "Literature/Literature WEDs.md",
@@ -115,7 +116,6 @@
     "Literature/Notes/Christmas Carol Themes.md",
     "Literature/Notes/Stave 4.md",
     "Literature/Notes/Stave 3.md",
-    "Literature/Notes/Stave 2 Vocab.md",
-    "Literature/Notes/Stave 1 Vocab.md"
+    "Literature/Notes/Stave 2 Vocab.md"
   ]
 }
