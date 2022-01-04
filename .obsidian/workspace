@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "15.2 - The Structure of the Federal Judicial System.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "15.2 - The Structure of the Federal Judicial System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "15.2 - The Structure of the Federal Judicial System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
+    "15.2 - The Structure of the Federal Judicial System.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/13.2 - Federal Expenditures.md",
     "conflict-files-obsidian-git.md",
@@ -116,7 +117,6 @@
     "AP Government/Readings/12.6 - Power from the People - The Public Presidency.md",
     "Literature/WEDs/WED 2021-12-1.md",
     "Literature/Notes/Writing the Times.md",
-    "Literature/Notes/Quiz 2021-12-10.md",
-    "AP Government/Readings/15.1 - The Nature of the Judicial System.md"
+    "Literature/Notes/Quiz 2021-12-10.md"
   ]
 }
