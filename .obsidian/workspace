@@ -7,8 +7,12 @@
         "id": "fa1aa36807c18ccf",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Literature/Notes/Writing the Times.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/Notes/Writing the Times.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature/Notes/Writing the Times.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
