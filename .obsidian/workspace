@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
+            "file": "Literature/Notes/Quiz 2021-12-10.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
+                "file": "Literature/Notes/Quiz 2021-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
+                "file": "Literature/Notes/Quiz 2021-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,15 +107,15 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
+    "Literature/Notes/Quiz 2021-12-10.md",
     "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
-    "AP Government/AP Government Readings.md",
     "AP Government/AP Government Notes.md",
-    "Literature/Literature Notes.md",
-    "Literature/Literature WEDs.md",
-    "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
-    "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
-    "AP Government/Readings/14.1 - The Bureaucrats.md",
-    "AP Government/Readings/13.2 - Federal Expenditures.md",
-    "AP Government/Readings/13.1 - Federal Revenue and Borrowing.md"
+    "AP Government/Readings/11.2 - Congressional Elections.md",
+    "AP Government/Readings/11.4 - The Congressional Process and Decision Making.md",
+    "AP Physics 1/AP Physics Readings.md",
+    "Literature/Notes/Christmas Carol Themes.md",
+    "AP Physics 1/Readings/6.3 - For an object in uniform circular motion, the net force exerted on the object points toward the center of the circle.md",
+    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
+    "AP Government/Readings/12.5 - The President and National Security Policy.md"
   ]
 }
