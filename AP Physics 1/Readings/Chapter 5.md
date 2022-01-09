@@ -38,4 +38,4 @@
 	- depends on the kinds of surfaces in contact
 
 #### Rolling Friction
-- **rolling friction**: 
+- always opposes the motion of a rolling objec
