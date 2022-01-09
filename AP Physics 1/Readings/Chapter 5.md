@@ -5,4 +5,5 @@
 	- always opposes motion
 
 # 5-2
-- resists sliding of o
+- resists sliding of one object past another
+- **static friction force**:
