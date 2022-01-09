@@ -20,4 +20,5 @@
 - Fₙ (normal force) is perpendicular to the surface
 - Fₛ,ₘₐₓ = µₛFₙ
 	- Fₛ,ₘₐₓ - the maximum force of static friction depends on...
-	- 
+	- µₛ - the coefficient of static friction (which depends on the properties of the two surfaces in contact)...
+	- F
