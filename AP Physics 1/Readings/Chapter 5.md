@@ -16,4 +16,5 @@
 # 5-3
 - Fₛ is the notation for static friction
 	- parallel to the surfaces in contact
-- Fₛ,ₘₐₓ is the notation for the max amount of static friction. To overcome this, Fₐₚₚ must be greater than F
+- Fₛ,ₘₐₓ is the notation for the max amount of static friction. To overcome this, Fₐₚₚ must be greater than Fₛ,ₘₐₓ
+- Fₙ (normal force) is perpendicular to tohe
