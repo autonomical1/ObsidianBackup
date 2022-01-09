@@ -48,4 +48,4 @@
 - Take into account the kinetic and static friction forces
 
 # 5-5
-- 
+- **fluid resistance:** 
