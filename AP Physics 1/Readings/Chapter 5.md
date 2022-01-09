@@ -38,4 +38,5 @@
 	- depends on the kinds of surfaces in contact
 
 #### Rolling Friction
-- always opposes the motion of a rolling objec
+- always opposes the motion of a rolling object
+- Fᵣ = µᵣFₙ
