@@ -26,4 +26,4 @@
 	- Fₙ - and the normal force pressing the object against a surface
 
 #### Measuring the Coefficient of Static Friction
-- 
+- sum of the external forces on the block in each direct
