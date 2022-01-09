@@ -59,4 +59,6 @@
 
 #### Drag force on larger objects
 - F<sub>drag</sub> = cv<sup>2</sup>
-	- F<sub>drag</sub> - mag
+	- F<sub>drag</sub> - magnitude of the drag force on a larger object moving at a faster speed
+	- c - constant that depends on the properties of the object and fluid
+	- v
