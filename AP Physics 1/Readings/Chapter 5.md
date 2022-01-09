@@ -35,4 +35,7 @@
 	- proportional to how hard 2 surfaces are pushed together
 	- modeled as being independent of how fast the 2 objects slide past each other as well as independent of the area of contact b/w the objects
 - µₖ -  **coefficient of kinetic friction**
-	- depends on the kid
+	- depends on the kinds of surfaces in contact
+
+#### Rolling Friction
+- 
