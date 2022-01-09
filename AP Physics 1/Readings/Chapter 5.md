@@ -40,3 +40,6 @@
 #### Rolling Friction
 - always opposes the motion of a rolling object
 - Fᵣ = µᵣFₙ
+- Coefficient of rolling friction can be a very small number
+
+###
