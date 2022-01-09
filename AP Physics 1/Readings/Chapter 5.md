@@ -52,4 +52,5 @@
 - **drag force**: force that resists motion through a liquid or gas (air)
 
 #### Drag force on microscopic objects
-- <sub>s</sub>
+- F<sub>drag</sub> = bv
+	- F<sub>drag</sub>
