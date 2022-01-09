@@ -48,4 +48,5 @@
 - Take into account the kinetic and static friction forces
 
 # 5-5
-- **fluid resistance:** 
+- **fluid resistance:** opposition of motion created by a fluid (liquid/gas)
+- 
