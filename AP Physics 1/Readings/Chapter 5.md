@@ -6,4 +6,6 @@
 
 # 5-2
 - resists sliding of one object past another
-- **static friction force**: when a force is applied to make an o
+- **static friction force**: when a force is applied to make an object slide, but it doesn't move
+- **kinetic friction force**: when an object is moving
+- 
