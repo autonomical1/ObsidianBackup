@@ -25,4 +25,5 @@
 		- direction is parallel to the contact surface
 	- Fₙ - and the normal force pressing the object against a surface
 
-$
+#### Measuring the Coefficient of Static Friction
+- 
