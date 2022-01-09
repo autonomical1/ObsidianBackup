@@ -10,4 +10,5 @@
 - **kinetic friction force**: when an object is moving
 - result from microscopic irregularities in the surface
 - **macroscopic**: physical objects are measurable and can be seen by the unaided eye
-- friction resulte
+- friction results from electrostatic interactions
+- 
