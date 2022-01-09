@@ -44,4 +44,8 @@
 
 # 5-4
 - First, draw a free-body diagram for each obj. of interest
-- Then, use the FBD to write a N2L equation for eacfh Obec
+- Then, use the FBD to write a N2L equation for each obj. of interest
+- Take into account the kinetic and static friction forces
+
+# 5-5
+- 
