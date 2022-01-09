@@ -54,4 +54,7 @@
 #### Drag force on microscopic objects
 - F<sub>drag</sub> = bv
 	- F<sub>drag</sub> - magnitude of drag force on a small object moving at a slow speed
-	- b - constant that depends on the pro
+	- b - constant that depends on the properties of the object and fluid
+	- v -  speed of the object relative to the fluid
+
+####
