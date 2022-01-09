@@ -9,4 +9,5 @@
 - **static friction force**: when a force is applied to make an object slide, but it doesn't move
 - **kinetic friction force**: when an object is moving
 - result from microscopic irregularities in the surface
-- **macroscopic**: physical o
+- **macroscopic**: physical objects are measurable and can be seen by the unaided eye
+- friction resulte
