@@ -49,4 +49,5 @@
 
 # 5-5
 - **fluid resistance:** opposition of motion created by a fluid (liquid/gas)
-- 
+- **drag force**: force that resists motion through a liquid or gas (air)
+- -
