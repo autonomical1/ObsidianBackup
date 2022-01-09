@@ -14,4 +14,4 @@
 	- these are a fundamental force - repulsion between electrons
 
 # 5-3
-- F
+- Fₛ is the notation for 
