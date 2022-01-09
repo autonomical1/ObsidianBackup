@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
+            "file": "AP Physics 1/AP Physics Readings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
+                "file": "AP Physics 1/AP Physics Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
+                "file": "AP Physics 1/AP Physics Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +108,15 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaning the motion of planets.md",
     "AP Physics 1/AP Physics Readings.md",
+    "AP Physics 1/Readings/Chapter 6.md",
+    "AP Physics 1/Readings/6.6 - Apparent Weight and what it means to be weightless.md",
+    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaining the motion of planets.md",
     "6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaining the motion of planets.md",
     "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/13.2 - Federal Expenditures.md",
     "conflict-files-obsidian-git.md",
-    "Literature/WEDs/WED 2021-11-17.md",
-    "Literature/Literature Notes.md",
-    "AP Government/Readings/12.6 - Power from the People - The Public Presidency.md"
+    "Literature/WEDs/WED 2021-11-17.md"
   ]
 }
