@@ -26,4 +26,5 @@
 	- Fₙ - and the normal force pressing the object against a surface
 
 #### Measuring the Coefficient of Static Friction
-- sum of the external forces on the block in each direct
+- sum of the external forces on the block in each direction should be equal to the mass * acceleration
+- 01
