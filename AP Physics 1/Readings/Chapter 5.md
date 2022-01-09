@@ -13,7 +13,7 @@
 - friction results from electrostatic interactions
 	- these are a fundamental force - repulsion between electrons
 
-# 5-3
+#### Properties of Static Friction
 - Fₛ is the notation for static friction
 	- parallel to the surfaces in contact
 - Fₛ,ₘₐₓ is the notation for the max amount of static friction. To overcome this, Fₐₚₚ must be greater than Fₛ,ₘₐₓ
@@ -28,3 +28,4 @@
 		- described by an inequality
 		- direction is parallel to the contact surface
 	- Fₙ - and the normal force pressing the object against a surface
+
