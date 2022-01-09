@@ -19,4 +19,5 @@
 - Fₛ,ₘₐₓ is the notation for the max amount of static friction. To overcome this, Fₐₚₚ must be greater than Fₛ,ₘₐₓ
 - Fₙ (normal force) is perpendicular to the surface
 - Fₛ,ₘₐₓ = µₛFₙ
+	- Fₛ,ₘₐₓ - the maximum force of static friction depends on...
 	- 
