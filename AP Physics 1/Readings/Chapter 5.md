@@ -42,4 +42,5 @@
 - Fᵣ = µᵣFₙ
 - Coefficient of rolling friction can be a very small number
 
-###
+# 5-4
+- First, draw a 
