@@ -11,4 +11,6 @@
 - result from microscopic irregularities in the surface
 - **macroscopic**: physical objects are measurable and can be seen by the unaided eye
 - friction results from electrostatic interactions
-- 
+	- these are a fundamental force - repulsion between electrons
+
+# 
