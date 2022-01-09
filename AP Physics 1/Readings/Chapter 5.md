@@ -32,4 +32,5 @@
 # 5-3
 #### Magnitude of the Kinetic Friction Force
 - Fₖ -  force of kinetic friction
-	- proportional to the normal force that one object exerts on the other permendu
+	- proportional to how hard 2 surfaces are pushed together
+	- 
