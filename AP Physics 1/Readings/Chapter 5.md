@@ -58,4 +58,5 @@
 	- v -  speed of the object relative to the fluid
 
 #### Drag force on larger objects
-- F<sub>drag</
+- F<sub>drag</sub> = cv<sup>2</sup>
+	- F<sub>drag</sub> - mag
