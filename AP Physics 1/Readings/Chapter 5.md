@@ -21,5 +21,6 @@
 - Fₛ,ₘₐₓ = µₛFₙ
 	- Fₛ,ₘₐₓ - the maximum force of static friction depends on...
 	- µₛ - the coefficient of static friction (which depends on the properties of the two surfaces in contact)...
+		- described by an inequality
 	- Fₙ - and the normal force pressing the object against a surface
 - 
