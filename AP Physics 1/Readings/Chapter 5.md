@@ -16,4 +16,4 @@
 # 5-3
 - Fₛ is the notation for static friction
 	- parallel to the surfaces in contact
-- 
+- Fₛ,ₘₐₓ is the notation for the max amount of static friction  
