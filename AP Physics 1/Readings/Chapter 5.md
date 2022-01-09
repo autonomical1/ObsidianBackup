@@ -57,4 +57,5 @@
 	- b - constant that depends on the properties of the object and fluid
 	- v -  speed of the object relative to the fluid
 
-####
+#### Drag force on larger objects
+- F<sub>drag</
