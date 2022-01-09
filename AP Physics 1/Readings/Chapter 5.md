@@ -18,13 +18,13 @@
 	- parallel to the surfaces in contact
 - Fₛ,ₘₐₓ is the notation for the max amount of static friction. To overcome this, Fₐₚₚ must be greater than Fₛ,ₘₐₓ
 - Fₙ (normal force) is perpendicular to the surface
-- Fₛ,ₘₐₓ = µₛFₙ
+
+
+#### Measuring the Coefficient of Static Friction
+- sum of the external forces on the block in each direction should be equal to the mass * acceleration
+-  Fₛ,ₘₐₓ = µₛFₙ
 	- Fₛ,ₘₐₓ - the maximum force of static friction depends on...
 	- µₛ - the coefficient of static friction (which depends on the properties of the two surfaces in contact)...
 		- described by an inequality
 		- direction is parallel to the contact surface
 	- Fₙ - and the normal force pressing the object against a surface
-
-#### Measuring the Coefficient of Static Friction
-- sum of the external forces on the block in each direction should be equal to the mass * acceleration
-- 01
