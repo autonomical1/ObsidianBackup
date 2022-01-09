@@ -43,4 +43,5 @@
 - Coefficient of rolling friction can be a very small number
 
 # 5-4
-- First, draw a 
+- First, draw a free-body diagram for each obj. of interest
+- Then, use the FBD to write a N2L equation for eacfh Obec
