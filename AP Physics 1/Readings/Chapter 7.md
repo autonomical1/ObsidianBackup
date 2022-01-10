@@ -27,4 +27,4 @@
 - no work is done on an object when its displacement is 0
 
 #### Work by Forces Not Parallel to Displacement, and Negative Work
-- 
+- W = Fd * cos 
