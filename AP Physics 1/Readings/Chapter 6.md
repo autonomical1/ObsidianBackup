@@ -35,7 +35,7 @@
 
 ## Circular Orbits: Orbital Speed and Orbital Period
 - easiest orbit to analyze is circular orbit
-- 2(pi)r (sqrt)r/G(m)(earth)
+- 2(pi)r √ r/G
 
 # 6.6
 - **apparent weightlessness**: no normal force
