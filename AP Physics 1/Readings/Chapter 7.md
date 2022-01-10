@@ -22,4 +22,5 @@
 	- d = magnitude of displacement
 - unit for work is the **joule**
 	- 1 J = 1 N * 1 M
-	- 
+
+#### Muscles and Doing Work
