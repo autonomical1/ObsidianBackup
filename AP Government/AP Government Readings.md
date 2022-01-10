@@ -45,4 +45,4 @@
 
 [[15.2 - The Structure of the Federal Judicial System]]
 
-[[15.3 - The Courts as Policymakers]]]
+[[15.3 - The Courts as Policymakers]]
