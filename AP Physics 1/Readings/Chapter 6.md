@@ -18,7 +18,7 @@
 - Newton knew that the Moon orbits the Earth at near constant speed
 
 #### Law of Universal Gravitation
-- g = (a constant) / r^2
+- g = (a constant) / r<sup>2</sup>
 - this goes to:
 	- GM<sub>1</sub>M<sub>2</sub> / r<sup>2</sup>
 - also could be known as "the inverse-square law of gravitation"
