@@ -32,4 +32,4 @@
 	- F = Magnitude of force *F*
 	- d = Magnitude of displacement *d*
 	- cos θ = angle between directions of *F* and *d* 
-		- this is only can
+		- this is only calculating the y-direction since work only applies in one direction
