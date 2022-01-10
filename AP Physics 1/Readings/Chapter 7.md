@@ -16,5 +16,5 @@
 
 
 # 7-2
-- W = Fd
+- W = F<sub>app</sub>d
 	- W = work done on an object by a constant force *F* 
