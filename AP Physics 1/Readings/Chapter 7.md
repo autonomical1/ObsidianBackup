@@ -16,4 +16,5 @@
 
 
 # 7-2
-- 
+- W = Fd
+	- W = work done on an object by a constant force 
