@@ -27,4 +27,5 @@
 - no work is done on an object when its displacement is 0
 
 #### Work by Forces Not Parallel to Displacement, and Negative Work
-- W = Fd * cos 
+- W = Fd * cos θ
+	- W = work done on an object by a force F that points at an angle θ to the object's displacement 
