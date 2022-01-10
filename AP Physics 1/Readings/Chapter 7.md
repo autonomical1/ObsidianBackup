@@ -49,7 +49,10 @@
 - W<sub>net</sub> = (∑F<sub>x</sub>)(Δx)
 - K = ½ mv<sup>2</sup> 
 - when an object gets a displacement, the work done on it by the net force equals the change in the obj. kinetic energy
+
 #### The meaning of the Work-Energy Theorem for an Object
 - **WORK-ENERGY THEOREM**: ΔE = ΔW
 - an object's kinetic energy equals the work that was done to accelerate it from rest to its present speed
-#### 
+
+#### Net Work and Net Force
+- work done by net
