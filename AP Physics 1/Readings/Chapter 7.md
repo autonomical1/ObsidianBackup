@@ -55,4 +55,5 @@
 - an object's kinetic energy equals the work that was done to accelerate it from rest to its present speed
 
 #### Net Work and Net Force
-- work done by net
+- work done by net force is the sum of the work done by all the forces
+- W<sub>net</sub> 
