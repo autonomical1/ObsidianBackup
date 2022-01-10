@@ -47,4 +47,4 @@
 - v<sub>fx</sub><sup>2</sup> = v<sub>ix</sub><sup>2</sup> + 2a<sub>x</sub>(Δx)
 	- v<sub>fx</sub><sup>2</sup> = x<sub>f</sub> because v<sub>fx</sub> is equal to +v<sub>f</sub> 
 - W<sub>net</sub> = (∑F<sub>x</sub>)(Δx)
-- 
+- K = ½
