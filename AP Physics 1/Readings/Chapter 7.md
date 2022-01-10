@@ -37,4 +37,4 @@
 
 #### Calculating Work done by multiple forces
 - *total work*: sum of work done by all forces
-- **Tension Force**: 
+- **Tension Force**: W<sub>tension</sub> 
