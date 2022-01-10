@@ -44,4 +44,4 @@
 
 # 7-3
 - there is a general relationship between ΔW and Δv
-- v<sub>fx</sub><sup>2</sup> = v<sub>ix</sub><sup
+- v<sub>fx</sub><sup>2</sup> = v<sub>ix</sub><sup>2</sup> + 2a<sub>x</sub>(Δx)
