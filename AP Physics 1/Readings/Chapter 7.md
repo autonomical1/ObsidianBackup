@@ -48,3 +48,5 @@
 	- v<sub>fx</sub><sup>2</sup> = x<sub>f</sub> because v<sub>fx</sub> is equal to +v<sub>f</sub> 
 - W<sub>net</sub> = (∑F<sub>x</sub>)(Δx)
 - K = ½ mv<sup>2</sup> 
+- when an object gets a displacement, the work done on it by the net force equals the change in the obj. kinetic energy
+- 
