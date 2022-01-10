@@ -20,4 +20,6 @@
 	- W = work done on an object by a constant force *F<sub>app</sub>* 
 	- F<sub>app</sub> = magnitude of **CONSTANT** force F
 	- d = magnitude of displacement
-- 
+- unit for work is the **joule**
+	- 1 J = 1 N * 1 M
+	- 
