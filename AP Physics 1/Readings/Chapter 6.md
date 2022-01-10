@@ -24,7 +24,7 @@
 - also could be known as "the inverse-square law of gravitation"
 
 #### Finding the Value of G and the Mass of the Earth
-- G * M(earth) * m(you) / r^2(earth)
+- G * M<sub>earth</sub> * m<sub>b</sub> / r<sub>earth</sub> 
 - **Cavendish Experiment**: gravitational force of the large sphere on the small sphere makes the wooden rod rotate
 
 ## Fields are a useful way to model fundamental forces
