@@ -18,3 +18,4 @@
 # 7-2
 - W = F<sub>app</sub>d
 	- W = work done on an object by a constant force *F<sub>app</sub>* 
+	- F<sub>app</sub> = magnitude of 
