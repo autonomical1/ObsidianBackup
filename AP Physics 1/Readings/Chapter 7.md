@@ -40,4 +40,4 @@
 - **Tension Force**: W<sub>tension</sub> = *F*<sub>T</sub>d cos θ<sub>T</sub>
 - **Gravitational Force**: since cos 90° = 0, W<sub>gravity</sub> = 0
 - **Normal Force**: since cos 90° = 0, W<sub>N</sub> = 0
-- **Kinetic Friction Force**: W<sub>friction</sub>
+- **Kinetic Friction Force**: W<sub>friction</sub> = F<sub>k</sub>d cos 180° = -F<sub>k</sub>d
