@@ -12,4 +12,4 @@
 - **kinetic energy**: energy that an object has due to its motion
 - **potential energy**: energy associated with a reversible change in shape
 	- rubber ball
-- 
+- **internal energy**: energy stored within a system, sometimes in 
