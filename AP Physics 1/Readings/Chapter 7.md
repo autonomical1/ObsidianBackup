@@ -43,4 +43,4 @@
 - **Kinetic Friction Force**: W<sub>friction</sub> = F<sub>k</sub>d cos 180° = -F<sub>k</sub>d
 
 # 7-3
-- there is a general relationship 
+- there is a general relationship between ΔW and the Δv
