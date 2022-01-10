@@ -66,4 +66,7 @@
 - Solve
 	- use W = Fd * cos θ
 - Reflect
-	- Check whether numbers have reasonable numbers and 
+	- Check whether numbers have reasonable numbers and good units
+
+# 7-5
+- 
