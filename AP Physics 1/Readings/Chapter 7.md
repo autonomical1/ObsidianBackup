@@ -51,4 +51,5 @@
 - when an object gets a displacement, the work done on it by the net force equals the change in the obj. kinetic energy
 #### The meaning of the Work-Energy Theorem for an Object
 - **WORK-ENERGY THEOREM**: ΔE = ΔW
-- an object's kinetic energy equals the work 
+- an object's kinetic energy equals the work that was done to accelerate it from rest to its present speed
+#### 
