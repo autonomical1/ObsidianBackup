@@ -65,4 +65,5 @@
 	- decide what unknown quantity the problem is asking to determine
 - Solve
 	- use W = Fd * cos θ
-	- 
+- Reflect
+	- Check whether numbers have reasonable numbers and 
