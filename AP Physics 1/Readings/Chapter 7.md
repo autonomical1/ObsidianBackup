@@ -8,4 +8,5 @@
 - open system can exchange both energy and matter
 - **closed, isolated systems**: no energy or matter is transferred to, or from the system, and there are no interactions b/w objects in the system or outside the system
 - **law of conservation of energy**: energy can be converted from one type or another, but can not be created or destroyed
-- **work**: transfer of energy from one object or system to another through a mechanical processthat happens when a foce is exerted on an 
+- **work**: transfer of energy from one object or system to another through a mechanical process that happens when a force is exerted on an object or system
+- **kinetic energy**: energy 
