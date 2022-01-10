@@ -38,4 +38,4 @@
 #### Calculating Work done by multiple forces
 - *total work*: sum of work done by all forces
 - **Tension Force**: W<sub>tension</sub> = *F*<sub>T</sub>d cos θ<sub>T</sub>
-- **Gravitational Force**: since cos 90
+- **Gravitational Force**: since cos 90°
