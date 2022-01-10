@@ -56,4 +56,5 @@
 
 #### Net Work and Net Force
 - work done by net force is the sum of the work done by all the forces
-- W<sub>net</sub> 
+- W<sub>net</sub> = difference between the final K and initial K
+- 
