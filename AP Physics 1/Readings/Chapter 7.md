@@ -63,4 +63,6 @@
 	- draw a picture of the situation that shows the object's displacement
 	- draw direction of each force carefully
 	- decide what unknown quantity the problem is asking to determine
+- Solve
+	- use W = Fd * cos θ
 	- 
