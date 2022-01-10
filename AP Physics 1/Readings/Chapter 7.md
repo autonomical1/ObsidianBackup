@@ -24,3 +24,5 @@
 	- 1 J = 1 N * 1 M
 
 #### Muscles and Doing Work
+- no work is done on an object when its displacement is 0
+- 
