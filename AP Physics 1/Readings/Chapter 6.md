@@ -20,7 +20,7 @@
 #### Law of Universal Gravitation
 - g = (a constant) / r^2
 - this goes to:
-	- G*M1<M2 / r^2
+	- GM<sub>1</sub>M<sub>2</sub> / r<sup>2</sup>
 - also could be known as "the inverse-square law of gravitation"
 
 #### Finding the Value of G and the Mass of the Earth
