@@ -28,15 +28,15 @@
 - G = 6.67 * 10<sup>-11</sup> 
 - **Cavendish Experiment**: gravitational force of the large sphere on the small sphere makes the wooden rod rotate
 
-## Fields are a useful way to model fundamental forces
+#### Fields are a useful way to model fundamental forces
 - **fields**: associate a value of some physical quantity to every point in space
 
-# 6.5
+# 6-5
 
-## Circular Orbits: Orbital Speed and Orbital Period
+#### Circular Orbits: Orbital Speed and Orbital Period
 - easiest orbit to analyze is circular orbit
 - 2(pi)r * √r/G<sub>earth</sub>
 
-# 6.6
+# 6-6
 - **apparent weightlessness**: no normal force
 	- there is still a gravitational force so they can't be weightless
