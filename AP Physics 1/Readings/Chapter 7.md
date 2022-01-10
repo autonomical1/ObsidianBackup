@@ -60,4 +60,7 @@
 
 # 7-4
 - Set up
-	- draw a picture of the situation that shows the object's displa
+	- draw a picture of the situation that shows the object's displacement
+	- draw direction of each force carefully
+	- decide what unknown quantity the problem is asking to determine
+	- 
