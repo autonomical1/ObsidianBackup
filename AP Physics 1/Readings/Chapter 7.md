@@ -32,4 +32,5 @@
 	- F = Magnitude of force *F*
 	- d = Magnitude of displacement *d*
 	- cos θ = angle between directions of *F* and *d* 
-- negative work: removal
+- negative work: transferring energy out of the object
+	- ex.: lifting a pen is doing positive work,
