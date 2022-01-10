@@ -5,4 +5,4 @@
 - **energy**: defined as a scalar quantity used to measure the state or motion of an object or system
 	- all energy is conserved, but quantities are not always equal
 - closed systems are often used to limit the factors that can affect the results of a specific problem or experiment
-- 
+- open system can exchange b
