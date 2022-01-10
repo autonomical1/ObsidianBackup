@@ -36,4 +36,5 @@
 	- ex.: lifting a pen is doing positive work, lowering a pen does negative work
 
 #### Calculating Work done by multiple forces
-- total work is work done 
+- *total work*: sum of work done by all forces
+- 
