@@ -31,4 +31,5 @@
 	- W = work done on an object by a force F that points at an angle θ to the object's displacement *d*
 	- F = Magnitude of force *F*
 	- d = Magnitude of displacement *d*
-	- cos θ = 
+	- cos θ = angle between directions of *F* and *d* 
+		- this is only can
