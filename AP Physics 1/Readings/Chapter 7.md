@@ -34,4 +34,6 @@
 	- cos θ = angle between directions of *F* and *d* 
 - negative work: transferring energy out of the object
 	- ex.: lifting a pen is doing positive work, lowering a pen does negative work
-- 
+
+#### Calculating Work done by multiple forces
+- total work is work done 
