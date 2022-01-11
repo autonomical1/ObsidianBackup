@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+            "file": "AP Government/Readings/15.6 - The Courts and Public Policy - A Historical Review.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "file": "AP Government/Readings/15.6 - The Courts and Public Policy - A Historical Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+                "file": "AP Government/Readings/15.6 - The Courts and Public Policy - A Historical Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +108,15 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
-    "AP Government/Readings/11.2 - Congressional Elections.md",
-    "AP Government/Readings/11.1 - The Representatives and Senators.md",
-    "AP Government/Readings/2.1 - The Origins of the Constitution.md",
+    "AP Government/Readings/15.6 - The Courts and Public Policy - A Historical Review.md",
     "AP Government/AP Government Readings.md",
-    "AP Physics 1/AP Physics Readings.md",
-    "AP Physics 1/Readings/Chapter 8.md",
-    "AP Physics 1/Readings/Chapter 7.md",
-    "AP Physics 1/Readings/Chapter 6.md",
-    "AP Physics 1/Readings/Chapter 5.md"
+    "AP Government/Readings/15.5 - The Courts as Policymakers.md",
+    "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
+    "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
+    "AP Government/Readings/14.5 - Controlling the Bureaucracy.md",
+    "AP Government/Readings/14.4 - Bureaucracies as Regulators.md",
+    "AP Government/Readings/14.2 - How the Federal Bureaucracy is Organized.md",
+    "AP Government/Readings/14.1 - The Bureaucrats.md",
+    "AP Government/Readings/13.2 - Federal Expenditures.md"
   ]
 }
