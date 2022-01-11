@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/15.5 - The Courts as Policymakers.md",
+            "file": "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/15.5 - The Courts as Policymakers.md",
+                "file": "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/15.5 - The Courts as Policymakers.md",
+                "file": "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +108,15 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "AP Government/Readings/15.5 - The Courts as Policymakers.md",
+    "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
     "AP Government/AP Government Readings.md",
+    "Literature/Literature WEDs.md",
+    "Literature/Literature Notes.md",
+    "AP Government/Readings/15.5 - The Courts as Policymakers.md",
     "AP Physics 1/Readings/Chapter 7.md",
     "AP Physics 1/Readings/Chapter 5.md",
     "AP Physics 1/AP Physics Readings.md",
     "AP Physics 1/Readings/Chapter 6.md",
-    "AP Physics 1/Readings/6.6 - Apparent Weight and what it means to be weightless.md",
-    "AP Physics 1/Readings/6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaining the motion of planets.md",
-    "6.1 -  Gravitation is a force of universal importance; add circular motion and you start explaining the motion of planets.md",
-    "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md"
+    "AP Physics 1/Readings/6.6 - Apparent Weight and what it means to be weightless.md"
   ]
 }
