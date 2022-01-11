@@ -47,6 +47,6 @@
 
 [[15.5 - The Courts as Policymaker]]
 
-[[15.6 - The Courts and ]]
+[[15.6 - The Courts and Public Policy - A Historical Review]]
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "15.6 - The Courts and Public Policy - A Historical Review.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "15.6 - The Courts and Public Policy - A Historical Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "15.6 - The Courts and Public Policy - A Historical Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
+    "15.6 - The Courts and Public Policy - A Historical Review.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/15.5 - The Courts as Policymakers.md",
     "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
@@ -116,7 +117,6 @@
     "Literature/Literature Notes.md",
     "AP Physics 1/Readings/Chapter 7.md",
     "AP Physics 1/Readings/Chapter 5.md",
-    "AP Physics 1/AP Physics Readings.md",
-    "AP Physics 1/Readings/Chapter 6.md"
+    "AP Physics 1/AP Physics Readings.md"
   ]
 }
