@@ -76,4 +76,6 @@
 - W-E theorem for non-objects (systems) gives ΔE<sub>total</sub> including internal and potential
 - Point of contact of force is not more then no work is done on system by that force
 - U<sub>s</sub> = ½ kx<sup>2</sup> 
-- 
+
+# 7-6
+- Work done by consrevative forces depend on X<sub>f</sub> and X<sub>i</su
