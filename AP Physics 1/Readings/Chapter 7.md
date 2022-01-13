@@ -78,4 +78,5 @@
 - U<sub>s</sub> = ½ kx<sup>2</sup> 
 
 # 7-6
-- Work done by consrevative forces depend on X<sub>f</sub> and X<sub>i</su
+- Work done by conservative forces depend on X<sub>f</sub> and X<sub>i</sub>l only not path taken
+	- Ex: F<sub>g</sub> and F<
