@@ -79,4 +79,5 @@
 
 # 7-6
 - Work done by conservative forces depend on X<sub>f</sub> and X<sub>i</sub>l only not path taken
-	- Ex: F<sub>g</sub> and F<
+	- Ex: F<sub>g</sub> and F<sub>s</sub>
+- nonconservative force: any force that does nonzero W
