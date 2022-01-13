@@ -74,4 +74,5 @@
 #### The Work-Energy theorem is not just for Objects
 - forces perpendicular to displacement always do 0 work
 - W-E theorem for non-objects (systems) gives ΔE<sub>total</sub> including internal and potential
-- Point of contact of force is not more then no rk is done on system by that forf
+- Point of contact of force is not more then no work is done on system by that force
+- U<sub>s</sub> = 
