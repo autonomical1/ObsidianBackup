@@ -70,4 +70,5 @@
 
 # 7-5
 - Work-energy theorem works for motion along a curved path and in cases where the forces are not constant and can be extended to describe systems as well as objects
-- W<sub>net</sub> = K<sub>f</sub> - 
+- W<sub>net</sub> = K<sub>f</sub> - K<sub>i</sub>
+- 
