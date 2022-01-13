@@ -46,3 +46,8 @@
 [[15.2 - The Structure of the Federal Judicial System]]
 
 [[15.5 - The Courts as Policymakers]]
+
+[[15.6 - The Courts and Public Policy - A Historical Review]]
+
+[[15.7 - Understanding the Courts]]
+
