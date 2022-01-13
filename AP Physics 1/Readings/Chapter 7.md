@@ -72,4 +72,5 @@
 - Work-energy theorem works for motion along a curved path and in cases where the forces are not constant and can be extended to describe systems as well as objects
 - W<sub>net</sub> = K<sub>f</sub> - K<sub>i</sub>
 #### The Work-Energy theorem is not just for Objects
-- work: force 
+- forces perpendicular to displacement always do 0 work
+- W-E theorem for n
