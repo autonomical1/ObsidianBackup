@@ -2,7 +2,7 @@
 [[2.1 - The Origins of the Constitution]]
 
 # Chapter 4
-[[4.0 - Politics in Action ]]
+[[4.0 - Politics in Action - Free Speech on Campus]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
