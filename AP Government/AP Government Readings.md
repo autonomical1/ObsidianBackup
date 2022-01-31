@@ -2,7 +2,7 @@
 [[2.1 - The Origins of the Constitution]]
 
 # Chapter 4
-[[4.0 - ]]
+[[4.0 - Politics in Action ]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
