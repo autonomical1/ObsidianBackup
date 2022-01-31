@@ -1,7 +1,7 @@
 # 8-1
 - **Mechanical Energy**: energy related to motion
 - energy is conserved in any system
-- energy transferred into or out of a s
+- energy transferred into or out of a sustem (when the system is not closed and isolated) can change the 
 # 8-2
 # 8-3
 # 8-4
