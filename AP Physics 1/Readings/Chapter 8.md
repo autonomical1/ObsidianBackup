@@ -10,7 +10,8 @@
 	- 	change in potential energy and change in kinetic energy must equal 0 in a closed system
 - total mech. energy is a property of a system, not a single object
 - total energy - sum of kinetic, potential, and internal energies (always conserved)
-- for an open system, energy transfers into/out of a system arre equal 
+- for an open system, energy transfers into/out of a system arre equal to the change in energy of a system
+- if the onloy interactions in a closed isolated system are conservative, then the total mechangi
 # 8-3
 # 8-4
 # 8-5
