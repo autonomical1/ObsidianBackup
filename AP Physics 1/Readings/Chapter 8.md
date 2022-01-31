@@ -12,7 +12,7 @@
 - total energy - sum of kinetic, potential, and internal energies (always conserved)
 - for an open system, energy transfers into/out of a system are equal to the change in energy of a system
 - if the only interactions in a closed, isolated system are conservative, then the total mechanical energy E of the system is constant. The values of K and U change, but K + U is constant
-- if nonconservative interations occur inside a closed, isolatio
+- if nonconservative interations occur inside a closed, isolated system, the total mechanical energy of the system cfhanges. the change in total mechanical energy is qual and opposite to the change in internal energy s
 # 8-3
 # 8-4
 # 8-5
