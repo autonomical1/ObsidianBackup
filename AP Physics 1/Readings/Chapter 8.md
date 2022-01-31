@@ -16,6 +16,7 @@
 # 8-3
 - the kinds of problems that are best solved using the law of conservation of energy are the ones which an object moves from one place to another under an unbalanced force
 - law of conservation of energy simplifies solving problems bc energy is a scalar quantity
-- drawing a diagram is esse
+- drawing a diagram is essential to show which forces work on the object
 # 8-4
+- power is the amount of energy transfer
 # 8-5
