@@ -8,7 +8,8 @@
 - K<sub>i</sub> + U<sub>i</sub> = K<sub>f</sub> + U<sub>f</sub>
 - ΔK + ΔU = 0
 	- 	change in potential energy and change in kinetic energy must equal 0 in a closed system
-- total mech. energy is a property of a system
+- total mech. energy is a property of a system, not a single object
+- total energy - sum of kine
 # 8-3
 # 8-4
 # 8-5
