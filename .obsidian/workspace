@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "fcea43fdb02c3d58",
+    "id": "9c69e5927a615407",
     "type": "split",
     "children": [
       {
-        "id": "fa1aa36807c18ccf",
+        "id": "99e40c11b17d1e86",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Physics 1/Readings/Chapter 7.md",
+            "file": "AP Government/AP Government Readings.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#APGov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,31 +69,31 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 7.md",
+                "file": "AP Government/AP Government Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "884b1d4df703e659",
+            "id": "3d56d888bf06cf11",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 7.md",
+                "file": "AP Government/AP Government Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7d48e85ef8f2bbd",
+            "id": "311f0b62824575e1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -106,17 +106,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fa1aa36807c18ccf",
+  "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "AP Physics 1/Readings/Chapter 7.md",
-    "AP Physics 1/Readings/Chapter 5.md",
-    "AP Physics 1/Readings/Chapter 6.md",
-    "AP Physics 1/Readings/Chapter 8.md",
-    "conflict-files-obsidian-git.md",
-    "AP Physics 1/AP Physics Readings.md",
     "AP Government/AP Government Readings.md",
+    "AP Physics 1/Readings/Chapter 8.md",
+    "AP Physics 1/Readings/Chapter 7.md",
+    "AP Physics 1/Readings/Chapter 6.md",
+    "AP Physics 1/Readings/Chapter 5.md",
+    "AP Physics 1/AP Physics Readings.md",
+    "AP Government/Readings/15.7 - Understanding the Courts.md",
     "AP Government/Readings/15.5 - The Courts as Policymakers.md",
-    "AP Physics 1/Readings/6.4 - Newton's law of universal gravitation explains the orbit of the Moon, and introduces us to the concept of field.md",
-    "AP Physics 1/Readings/6.5 - Newton's law of universal gravitation begins to explain the orbits of planets and satellites 1.md"
+    "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md",
+    "AP Government/Readings/15.1 - The Nature of the Judicial System.md"
   ]
 }
