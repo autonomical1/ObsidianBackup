@@ -1,7 +1,8 @@
 # 8-1
 - **Mechanical Energy**: energy related to motion
 - energy is conserved in any system
-- energy transferred into or out of a sustem (when the system is not closed and isolated) can change the ΔK, ΔU<sub>g</sub>, 
+- energy transferred into or out of a sustem (when the system is not closed and isolated) can change the ΔK, ΔU<sub>g</sub>, or ΔE<sub>internal</sub>
+- For an isolated, closed system, conservat
 # 8-2
 # 8-3
 # 8-4
