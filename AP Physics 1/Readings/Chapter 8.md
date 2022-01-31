@@ -23,3 +23,4 @@
 - power delivered to an object is related to the speed of the object and the magnitude and direction of the force exerted on the object that is doing the work causing the energy transfer
 	- P = Fv
 # 8-5
+- When analyzing situations in which an object does not remain close to the surface of the earth, 
