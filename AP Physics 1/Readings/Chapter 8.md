@@ -11,7 +11,8 @@
 - total mech. energy is a property of a system, not a single object
 - total energy - sum of kinetic, potential, and internal energies (always conserved)
 - for an open system, energy transfers into/out of a system arre equal to the change in energy of a system
-- if the onloy interactions in a closed isolated system are conservative, then the total mechangi
+- if the onloy interactions in a closed isolated system are conservative, then the total mechanical energy E of the system is constant. The values of K and U change, but K + U is constant
+- 
 # 8-3
 # 8-4
 # 8-5
