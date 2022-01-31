@@ -14,6 +14,6 @@
 - if the only interactions in a closed, isolated system are conservative, then the total mechanical energy E of the system is constant. The values of K and U change, but K + U is constant
 - if nonconservative interactions occur inside a closed, isolated system, the total mechanical energy of the system changes. the change in total mechanical energy is qual and opposite to the change in internal energy since the total energy of a closed, isolated system is constant.
 # 8-3
-- 
+- the kinds of problems that are best solved using the law of conservation of energy are the
 # 8-4
 # 8-5
