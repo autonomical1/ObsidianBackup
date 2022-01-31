@@ -15,6 +15,7 @@
 - if nonconservative interactions occur inside a closed, isolated system, the total mechanical energy of the system changes. the change in total mechanical energy is qual and opposite to the change in internal energy since the total energy of a closed, isolated system is constant.
 # 8-3
 - the kinds of problems that are best solved using the law of conservation of energy are the ones which an object moves from one place to another under an unbalanced force
-- 
+- law of conservation of energy simplifies solving problems bc energy is a scalar quantity
+- drawing a diagram is esse
 # 8-4
 # 8-5
