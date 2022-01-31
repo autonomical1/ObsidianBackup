@@ -19,5 +19,7 @@
 - drawing a diagram is essential to show which forces work on the object
 # 8-4
 - power is the amount of energy transferred from one object or system to another, or converted from one type to another per unit of time
-- power delivered to an object is related to the speed of the object and the magnitude and direction of the force exerted on the object 
+	- P = W
+- power delivered to an object is related to the speed of the object and the magnitude and direction of the force exerted on the object that is doing the work causing the energy transfer
+	- P = Fv
 # 8-5
