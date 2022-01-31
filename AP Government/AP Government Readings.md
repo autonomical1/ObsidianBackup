@@ -4,7 +4,7 @@
 # Chapter 4
 [[4.0 - Politics in Action - Free Speech on Campus]]
 
-[[4.1 - The Bill of]]
+[[4.1 - The Bill of Rights]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]

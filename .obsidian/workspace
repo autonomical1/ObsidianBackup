@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "4.1 - The Bill of Rights.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "4.1 - The Bill of Rights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "4.1 - The Bill of Rights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
+    "4.1 - The Bill of Rights.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/4.0 - Politics in Action - Free Speech on Campus.md",
     "AP Physics 1/Readings/Chapter 8.md",
@@ -116,7 +117,6 @@
     "AP Physics 1/Readings/Chapter 5.md",
     "AP Physics 1/AP Physics Readings.md",
     "AP Government/Readings/15.7 - Understanding the Courts.md",
-    "AP Government/Readings/15.5 - The Courts as Policymakers.md",
-    "AP Government/Readings/15.2 - The Structure of the Federal Judicial System.md"
+    "AP Government/Readings/15.5 - The Courts as Policymakers.md"
   ]
 }
