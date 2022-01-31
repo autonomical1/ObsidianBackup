@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.0 - Politics in Action - Free Speech on Campus.md",
+            "file": "AP Government/AP Government Readings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.0 - Politics in Action - Free Speech on Campus.md",
+                "file": "AP Government/AP Government Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.0 - Politics in Action - Free Speech on Campus.md",
+                "file": "AP Government/AP Government Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,8 +108,8 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "4.0 - Politics in Action - Free Speech on Campus.md",
     "AP Government/AP Government Readings.md",
+    "AP Government/Readings/4.0 - Politics in Action - Free Speech on Campus.md",
     "AP Physics 1/Readings/Chapter 8.md",
     "AP Physics 1/Readings/Chapter 7.md",
     "AP Physics 1/Readings/Chapter 6.md",
