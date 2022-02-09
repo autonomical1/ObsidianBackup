@@ -7,7 +7,7 @@
 [[4.1 - The Bill of Rights]]
 
 # Chapter 5 
-[[5.1 - The Struggle for ]]
+[[5.1 - The Struggle for Equality]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
