@@ -9,6 +9,8 @@
 # Chapter 5 
 [[5.1 - The Struggle for Equality]]
 
+[[5.2 - African American's Civil Rights]]
+
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
