@@ -26,4 +26,4 @@
 - When analyzing situations in which an object does not remain close to the surface of the earth, GPE must be used (the NLUG one)
 - using NLUG, GPE of 2 obj. is always - or 0.
 - 0 when the objects are infinitely far apart
-- escape speed - speed at which a projectile must be launched from
+- escape speed - speed at which a projectile must be launched from a planet or moon so that it never falls back to the world from which it was launched
