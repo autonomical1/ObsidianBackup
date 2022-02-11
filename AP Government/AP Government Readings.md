@@ -11,7 +11,7 @@
 
 [[5.2 - African American's Civil Rights]]
 
-[[5.3 - The Rights of Other Minority Grou]]
+[[5.3 - The Rights of Other Minority Groups]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
