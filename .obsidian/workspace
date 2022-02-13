@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/5.2 - African American's Civil Rights.md",
+            "file": "AP Government/AP Government Readings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/5.2 - African American's Civil Rights.md",
+                "file": "AP Government/AP Government Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/5.2 - African American's Civil Rights.md",
+                "file": "AP Government/AP Government Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +108,15 @@
   },
   "active": "99e40c11b17d1e86",
   "lastOpenFiles": [
-    "AP Government/Readings/5.2 - African American's Civil Rights.md",
     "AP Government/AP Government Readings.md",
+    "AP Government/AP Government Notes.md",
+    "AP Government/Readings/5.2 - African American's Civil Rights.md",
     "AP Government/Readings/5.1 - The Struggle for Equality.md",
     "AP Physics 1/Readings/Chapter 8.md",
     "AP Government/Readings/4.1 - The Bill of Rights.md",
     "AP Government/Readings/4.0 - Politics in Action - Free Speech on Campus.md",
     "AP Physics 1/Readings/Chapter 7.md",
     "AP Physics 1/Readings/Chapter 6.md",
-    "AP Physics 1/Readings/Chapter 5.md",
-    "AP Physics 1/AP Physics Readings.md"
+    "AP Physics 1/Readings/Chapter 5.md"
   ]
 }
