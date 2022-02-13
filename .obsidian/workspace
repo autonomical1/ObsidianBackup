@@ -7,8 +7,12 @@
         "id": "be7059c1a7e1ca9b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AP Physics 1/Readings/Chapter 8.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP Physics 1/Readings/Chapter 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP Physics 1/Readings/Chapter 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +109,10 @@
   },
   "active": "be7059c1a7e1ca9b",
   "lastOpenFiles": [
+    "AP Physics 1/Readings/Chapter 8.md",
+    "AP Physics 1/Readings/Chapter 7.md",
+    "AP Physics 1/AP Physics Readings.md",
+    "Links/AP Government.md",
     "conflict-files-obsidian-git.md",
     "Literature/Notes/Homework 2021-12-2.md"
   ]
