@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
+            "file": "AP Government/Readings/5.1 - The Struggle for Equality.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
+                "file": "AP Government/Readings/5.1 - The Struggle for Equality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
+                "file": "AP Government/Readings/5.1 - The Struggle for Equality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,15 +108,15 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
-    "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
+    "AP Government/Readings/5.1 - The Struggle for Equality.md",
     "AP Government/AP Government Readings.md",
+    "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
     "5.3 - The Rights of Other Minority Groups.md",
     "5.1 - The Struggle for Equality.md",
     "AP Physics 1/Readings/Chapter 8.md",
     "AP Physics 1/Readings/Chapter 7.md",
     "AP Physics 1/Readings/Chapter 5.md",
     "AP Physics 1/Readings/Chapter 6.md",
-    "conflict-files-obsidian-git.md",
-    "AP Physics 1/AP Physics Readings.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
