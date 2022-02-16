@@ -13,6 +13,9 @@
 
 [[5.3 - The Rights of Other Minority Groups]]
 
+# Chapter 8
+[[8.1 - ]]
+
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
