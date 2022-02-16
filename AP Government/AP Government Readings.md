@@ -14,7 +14,7 @@
 [[5.3 - The Rights of Other Minority Groups]]
 
 # Chapter 8
-[[8.1 - ]]
+[[8.1 -  The Meaning of P]]
 
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
