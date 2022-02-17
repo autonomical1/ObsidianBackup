@@ -19,7 +19,8 @@
 - the object model will fit well before and after a collison, not during collision itself
 - 2 kinds of forces can be exerted, internal and external
 - ΣF<sub>a</sub> + ΣF<sub>b</sub> = m<sub>a</sub>a<sub>a</sub> + m<sub>b</sub>a<sub>b</sub>
-- ΣFΔt = 
+- ΣFΔt = Δp<sub>total</sub>
+	- *** IMPULSE MOMENTUM THEOREM***
 # 9.4
 # 9.5
 # 9.6
