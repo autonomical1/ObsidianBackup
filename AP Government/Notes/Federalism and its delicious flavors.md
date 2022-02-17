@@ -1,4 +1,7 @@
 - **Federalism**: constitutional arrangement in which power is distributed between a central government and subdivisional governments (states) 
 	- power shared between state and federal governments
 	- Constitution designates certain powers to be federal and some to states
-	- exists oppsed to unitary system: powers solely in national government
+	- exists opposed to *unitary system*: powers rest solely in national government
+- Reasons for Federalism
+	- Customizability and Responsiveness
+		- Brutus
