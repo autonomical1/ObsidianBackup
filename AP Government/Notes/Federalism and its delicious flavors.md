@@ -1,1 +1,3 @@
-**Federalism**: constitutional arrangement in which power is distributed between a central government and subdivisional governments (states) 
+- **Federalism**: constitutional arrangement in which power is distributed between a central government and subdivisional governments (states) 
+	- power shared between state and federal governments
+	- Constitution designates certain pow
