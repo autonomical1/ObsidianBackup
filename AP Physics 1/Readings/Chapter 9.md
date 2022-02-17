@@ -36,7 +36,8 @@
 - moving object has much less mass than the object at rest
 	- V<sub>f</sub> = 0
 - in an elastic collision the forces between the colliding objects are conservative. Both momentum and mechanical energy are constant in an inelastic collision.
--  and inelastic collision is 1 in which there are non conservative 
+- An inelastic collision is one in which there are nonconservative forces between the colliding objects so that some of the initial kinetic energy is turned directly into internal energy. 
+- 
 # 9.5
 # 9.6
 # 9.7
