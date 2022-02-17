@@ -33,6 +33,9 @@
 	- M<sub>a</sub> + M<sub>b</sub> can be replaced with M<sub>a</sub>
 - both objects have the same mass
 	- V<sub>f</sub> = V<sub>ai</sub>/2
+- moving object has much less mass than the object at rest
+	- V<sub>f</sub> = 0
+
 # 9.5
 # 9.6
 # 9.7
