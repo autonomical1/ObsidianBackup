@@ -8,7 +8,8 @@
 - p = mv
 	- **Linear momentum** of an object
 	- proportional to objects velocity and mass
-	- 
+- Linear momentum of an object or system is a vector
+- 
 # 9.3
 # 9.4
 # 9.5
