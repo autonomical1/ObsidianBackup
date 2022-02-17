@@ -26,7 +26,7 @@
 # 9.4
 - **elastic collision**: internal forces inside a system are conservative
 	- both total momentum and mechanical energy are constant
-	- all initial KE required 
+- m<sub>a</sub>v<sub>a
 # 9.5
 # 9.6
 # 9.7
