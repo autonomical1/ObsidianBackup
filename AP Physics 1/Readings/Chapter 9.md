@@ -31,7 +31,8 @@
 #### Special Cases of Completely Inelastic
 - Moving object has much greater mass than the object at rest
 	- M<sub>a</sub> + M<sub>b</sub> can be replaced with M<sub>a</sub>
-- 2
+- both objects have the same mass
+	- V<sub>f</sub> = V<sub>ai</sub>/2
 # 9.5
 # 9.6
 # 9.7
