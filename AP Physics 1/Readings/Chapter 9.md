@@ -35,7 +35,7 @@
 	- V<sub>f</sub> = V<sub>ai</sub>/2
 - moving object has much less mass than the object at rest
 	- V<sub>f</sub> = 0
-
+- in an elastic collision the forces between the colliding objects are conservative. Both can momentum and mechanical energy are constant inelastic collision opening parentheses
 # 9.5
 # 9.6
 # 9.7
