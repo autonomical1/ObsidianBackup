@@ -8,4 +8,7 @@
 		- allows state governments to respond quicker to local needs
 	- Laboratory Effect:
 		- states can try laws to see if they work before adopting on a national level
-	- Prevents Ty
+	- Prevents Tyranny
+		- this is due to the separation of powers
+- Eras of Federalism
+	- **Dual Federalism**:
