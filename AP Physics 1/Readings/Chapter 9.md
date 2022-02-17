@@ -4,7 +4,7 @@
 - **Law of Conservation of Momentum**: P<sub>f</sub> = P<sub>i</sub>
 - The idea of momentum is useful in situations where 2+ objects interact with each other
 # 9.2
-- 
+- ΣF = ma can be used to model how 
 # 9.3
 # 9.4
 # 9.5
