@@ -14,4 +14,5 @@
 	- **Dual Federalism**: "layer cake federalism"
 		- clearly enumerated powers between federal and state governments and sovereignty in equal spheres
 		- occurred from the *1790s - 1930s*
-	-  **Cooperative Federalism
+	-  **Cooperative Federalism**: "marble cake federalism"
+		- National and state governments share functions and collaborate on major national prio
