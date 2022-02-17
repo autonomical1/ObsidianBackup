@@ -49,4 +49,4 @@
 # 9.7
 - the center of mass for a system of objects is a weighted average at the positions of the individual objects
 - the total momentum of the system equals the system's total mass multiplied by the velocity of the center of mass
-- if there is a net external force on t....tes as though all of the mass of the 
+- if there is a net external force on the system, the center of mass accelerates as though all of the 
