@@ -15,4 +15,6 @@
 		- clearly enumerated powers between federal and state governments and sovereignty in equal spheres
 		- occurred from the *1790s - 1930s*
 	-  **Cooperative Federalism**: "marble cake federalism"
-		- National and state governments share functions and collaborate on major national prio
+		- National and state governments share functions and collaborate on major national priorities
+		- occurred from the *1930s - 1960s*
+	- Creative F
