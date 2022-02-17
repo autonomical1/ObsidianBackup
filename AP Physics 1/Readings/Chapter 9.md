@@ -45,5 +45,6 @@
 # 9.6
 - the change in momentum of an object during a collision equals the force exerted on the object during the collision multiplied by the contact time
 	- the length of time that the object touches another during the collision
-- 
+- the same change in momentum can be produced by a large force exerted for a short time or by a large force exerted for a longer time
 # 9.7
+- 
