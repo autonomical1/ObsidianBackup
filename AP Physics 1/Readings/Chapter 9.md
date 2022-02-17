@@ -24,7 +24,8 @@
 - In a system of objects, internal forces are forces that one object in the system exerts on another object in the system. External forces are forces exerted on objects in the system by other outside forces
 - if ΣF<sub>ext</sub> = 0, p<sub>total</sub> = constant
 # 9.4
-- elastic collision: 
+- **elastic collision**: internal forces inside a system are conservative
+	
 # 9.5
 # 9.6
 # 9.7
