@@ -16,6 +16,8 @@
 # Chapter 8
 [[8.1 -  The Meaning of Party]]
 
+[[8.2 - ]]
+
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
