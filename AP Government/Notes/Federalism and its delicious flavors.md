@@ -17,4 +17,6 @@
 	-  **Cooperative Federalism**: "marble cake federalism"
 		- National and state governments share functions and collaborate on major national priorities
 		- occurred from the *1930s - 1960s*
-	- Creative F
+	- Creative Federalism: "picket fence federalism"
+		- overloaded cooperation and crosscutting regulations
+		- occurr
