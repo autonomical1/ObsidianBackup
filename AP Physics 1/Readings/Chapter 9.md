@@ -26,7 +26,9 @@
 # 9.4
 - **elastic collision**: internal forces inside a system are conservative
 	- both total momentum and mechanical energy are constant
-- m<sub>a</sub>v<sub>ai</sub> = (m<sub>a</sub> + m<sub>b</sub>)V<sub>f</s
+#### COMPLETELY INELASTIC
+- m<sub>a</sub>v<sub>ai</sub> = (m<sub>a</sub> + m<sub>b</sub>)V<sub>f</sub>
+#### Special 
 # 9.5
 # 9.6
 # 9.7
