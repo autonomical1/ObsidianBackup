@@ -40,5 +40,7 @@
 - In a completely inelastic collision the colliding object sticks together. momentum is constant, but the maximum amount of kinetic energy possible is converted to internal energy
 - final kinetic energy in a completely inelastic collision is the minimum kinetic energy required to conserve momentum for any type of collision that system may undergo
 # 9.5
+- a collision is elastic if kinetic energy is completely restored and linear momentum is constant
+- if a moving object has a head on coll....th the 2nd stationary object how the 
 # 9.6
 # 9.7
