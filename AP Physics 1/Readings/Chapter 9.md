@@ -17,7 +17,8 @@
 
 #### System of several objects : internal and external forces
 - the object model will fit well before and after a collison, not during collision itself
-- 2 kinds of forces can be exerted, inte
+- 2 kinds of forces can be exerted, internal and external
+- ΣF<sub>a</sub> + ΣF<sub>b</sub>
 # 9.4
 # 9.5
 # 9.6
