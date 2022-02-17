@@ -5,5 +5,7 @@
 - Reasons for Federalism
 	- Customizability and Responsiveness
 		- Brutus I: Federal government can't respond to the needs of the people
-		- allows state governments to respolnd quicker to local needs
-		- 
+		- allows state governments to respond quicker to local needs
+	- Laboratory Effect:
+		- states can try laws to see if they work before adopting on a national level
+	- Prevents Ty
