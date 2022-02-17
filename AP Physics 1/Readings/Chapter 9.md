@@ -28,7 +28,9 @@
 	- both total momentum and mechanical energy are constant
 #### COMPLETELY INELASTIC
 - m<sub>a</sub>v<sub>ai</sub> = (m<sub>a</sub> + m<sub>b</sub>)V<sub>f</sub>
-#### Special 
+#### Special Cases of Completely Inelastic
+- Moving object has much greater mass than the object at rest
+	- M<sub>a
 # 9.5
 # 9.6
 # 9.7
