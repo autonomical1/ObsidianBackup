@@ -21,7 +21,7 @@
 - ΣF<sub>a</sub> + ΣF<sub>b</sub> = m<sub>a</sub>a<sub>a</sub> + m<sub>b</sub>a<sub>b</sub>
 - ΣFΔt = Δp<sub>total</sub>
 	- ***IMPULSE MOMENTUM THEOREM***
-- In a system of objects, internal forece are forces that one object in the system oexerts on an
+- In a system of objects, internal forces are forces that one object in the system exerts on another object in the system. External fordces are foreces exerted on object sin the system by other outside forces
 # 9.4
 # 9.5
 # 9.6
