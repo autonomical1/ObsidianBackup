@@ -16,7 +16,8 @@
 - **Total Momentum**: momentum of a system of objects, just after the action
 
 #### System of several objects : internal and external forces
-- the object model wil lfit well before and after a colison
+- the object model will fit well before and after a collison, not during collision itself
+- 2 kinds of forces can be exerted, inte
 # 9.4
 # 9.5
 # 9.6
