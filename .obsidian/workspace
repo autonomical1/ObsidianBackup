@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "fcea43fdb02c3d58",
+    "id": "4c7d869d853ce2a5",
     "type": "split",
     "children": [
       {
-        "id": "fa1aa36807c18ccf",
+        "id": "be7059c1a7e1ca9b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8.2 - The Party in the Electorate.md",
+            "file": "AP Physics 1/Readings/Chapter 9.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9554246291fc2212",
+    "id": "7b4a951f08601d59",
     "type": "split",
     "children": [
       {
-        "id": "189118b27f1cd547",
+        "id": "d1dae8ca27e05cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "72a339a509b5bb69",
+            "id": "65ef884f62400927",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "a6f803c20ebbdb67",
+            "id": "115c809d0d4735d1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "#APGov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,67 +56,65 @@
     "width": 300
   },
   "right": {
-    "id": "6ca2763505c30126",
+    "id": "89152b165dda2e85",
     "type": "split",
     "children": [
       {
-        "id": "00903699799a1460",
+        "id": "d467510fb3ad009f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4238d95c251b6e",
+            "id": "809263a32dc61338",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "74de9808b9a04686",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8.2 - The Party in the Electorate.md",
+                "file": "AP Physics 1/Readings/Chapter 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "884b1d4df703e659",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "8.2 - The Party in the Electorate.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7d48e85ef8f2bbd",
+            "id": "fd1ceb1bceaf974f",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Physics 1/Readings/Chapter 9.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "fa1aa36807c18ccf",
+  "active": "be7059c1a7e1ca9b",
   "lastOpenFiles": [
-    "8.2 - The Party in the Electorate.md",
-    "AP Government/AP Government Readings.md",
     "AP Physics 1/Readings/Chapter 9.md",
-    "AP Physics 1/AP Physics Readings.md",
+    "AP Physics 1/Readings/Chapter 8.md",
     "AP Physics 1/Readings/Chapter 7.md",
-    "AP Government/Readings/8.1 -  The Meaning of Party.md",
-    "AP Government/AP Government Notes.md",
-    "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
-    "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
-    "AP Government/Readings/5.2 - African American's Civil Rights.md"
+    "AP Physics 1/AP Physics Readings.md",
+    "Links/AP Government.md",
+    "conflict-files-obsidian-git.md",
+    "Literature/Notes/Homework 2021-12-2.md"
   ]
 }
