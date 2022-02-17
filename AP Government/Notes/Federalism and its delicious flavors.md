@@ -1,0 +1,1 @@
+**Federalism**: constitutional arrangement in which power is disc

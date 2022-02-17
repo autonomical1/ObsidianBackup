@@ -1,1 +1,1 @@
-[[Federalism and its delicious flavors]]
+[[Federalism and Its Delicious Flavors]]
