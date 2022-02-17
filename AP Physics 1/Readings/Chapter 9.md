@@ -12,8 +12,9 @@
 - If 2 obj/sys at rest push away from each other, each acquires an equal amount of momentum in opp. directions (if no other ΣFs applied)
 - If 2 obj of different masses have the same magnitude of momentum, the object with the smaller mass has more KE than the larger
 - Collisions are short, strong interactions between 2 objects or systems
-- 
 # 9.3
+- **Total Momentum**: momentum of a system of objects, just after the action
+- 
 # 9.4
 # 9.5
 # 9.6
