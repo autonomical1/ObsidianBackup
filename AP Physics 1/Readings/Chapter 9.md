@@ -9,7 +9,7 @@
 	- **Linear momentum** of an object
 	- proportional to objects velocity and mass
 - Linear momentum of an object or system is a vector
-- 
+- If 2 obj/sys at rest push away from eachother, each acquires an additional
 # 9.3
 # 9.4
 # 9.5
