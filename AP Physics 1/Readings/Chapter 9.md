@@ -11,7 +11,7 @@
 - Linear momentum of an object or system is a vector
 - If 2 obj/sys at rest push away from eachother, each acquires an equal amount of momentum in opp. directions (if no other ΣFs applied)
 - If 2 obj of different masses have the same magnitude of momentym, the object with the smaller mass has more KE than the larger
-- 
+- Cikkusi
 # 9.3
 # 9.4
 # 9.5
