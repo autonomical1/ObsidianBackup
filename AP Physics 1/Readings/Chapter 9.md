@@ -14,7 +14,9 @@
 - Collisions are short, strong interactions between 2 objects or systems
 # 9.3
 - **Total Momentum**: momentum of a system of objects, just after the action
-#### 
+
+#### System of several objects : internal and external forces
+- the object model wil lfit well before and after a colison
 # 9.4
 # 9.5
 # 9.6
