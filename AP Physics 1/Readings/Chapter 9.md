@@ -25,7 +25,8 @@
 - if ΣF<sub>ext</sub> = 0, p<sub>total</sub> = constant
 # 9.4
 - **elastic collision**: internal forces inside a system are conservative
-	
+	- both total momentum and mechanical energy are constant
+	- all initial KE required 
 # 9.5
 # 9.6
 # 9.7
