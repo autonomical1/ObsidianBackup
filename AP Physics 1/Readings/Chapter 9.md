@@ -30,7 +30,8 @@
 - m<sub>a</sub>v<sub>ai</sub> = (m<sub>a</sub> + m<sub>b</sub>)V<sub>f</sub>
 #### Special Cases of Completely Inelastic
 - Moving object has much greater mass than the object at rest
-	- M<sub>a
+	- M<sub>a</sub> + M<sub>b</sub> can be replaced with M<sub>a</sub>
+- 2
 # 9.5
 # 9.6
 # 9.7
