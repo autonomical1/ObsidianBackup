@@ -5,7 +5,9 @@
 - The idea of momentum is useful in situations where 2+ objects interact with each other
 # 9.2
 - ΣF = ma can be used to model how velocities can change
-- 
+- FΔt = mΔv
+	- Impulse-Momentum Theorem
+-=
 # 9.3
 # 9.4
 # 9.5
