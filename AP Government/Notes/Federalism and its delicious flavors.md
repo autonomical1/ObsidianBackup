@@ -20,4 +20,5 @@
 	- **Creative Federalism**: "picket fence federalism"
 		- overloaded cooperation and crosscutting regulations
 		- occurred from the *1960s to 1980s*
-	- **New Federalism**: further dev
+	- **New Federalism**: further devolution of power from national to state government, deregulation but also increased difference of states to fulfill.
+		- 
