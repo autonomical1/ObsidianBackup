@@ -4,4 +4,6 @@
 	- exists opposed to *unitary system*: powers rest solely in national government
 - Reasons for Federalism
 	- Customizability and Responsiveness
-		- Brutus
+		- Brutus I: Federal government can't respond to the needs of the people
+		- allows state governments to respolnd quicker to local needs
+		- 
