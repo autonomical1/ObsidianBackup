@@ -12,5 +12,6 @@
 		- this is due to the separation of powers
 - Eras of Federalism
 	- **Dual Federalism**: "layer cake federalism"
-	- clearly enumerated powers between federal and state governments and sovereignty in equal spheres
-	- 
+		- clearly enumerated powers between federal and state governments and sovereignty in equal spheres
+		- occurred from the *1790s - 1930s*
+	-  **Cooperative Federalism
