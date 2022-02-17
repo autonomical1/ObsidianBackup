@@ -2,9 +2,9 @@
 - When 2 objects interact with each other, they can be modeled using **momentum**
 	- vector
 - **Law of Conservation of Momentum**: P<sub>f</sub> = P<sub>i</sub>
-- The idea of momentu
-
+- The idea of momentum is useful in situations where 2+ objects interact with each other
 # 9.2
+- 
 # 9.3
 # 9.4
 # 9.5
