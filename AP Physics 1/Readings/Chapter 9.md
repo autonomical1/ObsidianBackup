@@ -47,4 +47,6 @@
 	- the length of time that the object touches another during the collision
 - the same change in momentum can be produced by a large force exerted for a short time or by a large force exerted for a longer time
 # 9.7
-- 
+- the center of mass for a system of objects is a weighted average at the positions of the individual objects
+- the total momentum of the system equals the system's total mass multiplied by the velocity of the center of mass
+- if there is a net external force on t....tes as though all of the mass of the 
