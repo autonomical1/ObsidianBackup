@@ -5,9 +5,10 @@
 - The idea of momentum is useful in situations where 2+ objects interact with each other
 # 9.2
 - ΣF = ma can be used to model how velocities can change
-- FΔt = mΔv
-	- Impulse-Momentum Theorem
--=
+- p = mv
+	- **Linear momentum** of an object
+	- proportional to objects velocity and mass
+	- 
 # 9.3
 # 9.4
 # 9.5
