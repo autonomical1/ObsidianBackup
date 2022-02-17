@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "8.2 - The Party in the Electorate.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "8.2 - The Party in the Electorate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "8.2 - The Party in the Electorate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +108,7 @@
   },
   "active": "fa1aa36807c18ccf",
   "lastOpenFiles": [
+    "8.2 - The Party in the Electorate.md",
     "AP Government/AP Government Readings.md",
     "AP Physics 1/Readings/Chapter 9.md",
     "AP Physics 1/AP Physics Readings.md",
@@ -116,7 +117,6 @@
     "AP Government/AP Government Notes.md",
     "AP Government/Readings/15.1 - The Nature of the Judicial System.md",
     "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
-    "AP Government/Readings/5.2 - African American's Civil Rights.md",
-    "AP Government/Readings/5.1 - The Struggle for Equality.md"
+    "AP Government/Readings/5.2 - African American's Civil Rights.md"
   ]
 }
