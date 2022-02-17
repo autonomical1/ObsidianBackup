@@ -43,5 +43,7 @@
 - a collision is elastic if kinetic energy is completely restored and linear momentum is constant
 - if a moving object has a head on collision with the second, stationary object, how the objects move after collision depends on the ratio of masses between the two objects
 # 9.6
+- the change in momentum of an object during a collision equals the force exerted on the object during the collision multiplied by the contact time
+	- the length of time that the object touches another during the collision
 - 
 # 9.7
