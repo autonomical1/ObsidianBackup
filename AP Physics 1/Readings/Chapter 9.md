@@ -1,5 +1,5 @@
 # 9.1
-- When 2 objects interact with each other, they can be modeled using **momentum** \de
+- When 2 objects interact with each other, they can be modeled using **momentum** (denoted as )
 - 
 # 9.2
 # 9.3
