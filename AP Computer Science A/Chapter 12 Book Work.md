@@ -20,6 +20,7 @@
 
 ```java
 public abstract class Poem {
+	private int lines;
 
 	public abstract int numLines();
 
@@ -28,7 +29,9 @@ public abstract class Poem {
 	public void printRhythm() {
 		String str = "";
 
-		for (int i = 0; i <))
+		for (int i = 0; i < getSyllables(i); i++) {
+			if (i =)
+		}
 	}
 }
 
