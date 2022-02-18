@@ -30,7 +30,11 @@ public abstract class Poem {
 		String str = "";
 
 		for (int i = 0; i < getSyllables(i); i++) {
-			if (i =)
+			if (i == getSyllables(i) - 1) {
+				str += "ta";
+			} else {
+				
+			}
 		}
 	}
 }
