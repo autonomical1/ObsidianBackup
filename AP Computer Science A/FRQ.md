@@ -5,7 +5,10 @@ public boolean simulate() {
 	int maxHopDist = 0;
 	for (int i = 0; i < maxHops; i++) {
 		int hopDist = hopDistance();
-		maxHopDist += hopDist)
+		maxHopDist += hopDist;
+		if (maxHopDist >= goalDistance) {
+			return true;
+		} else if (maxHopDist)
 	}
 }
 
