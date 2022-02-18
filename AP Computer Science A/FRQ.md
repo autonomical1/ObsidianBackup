@@ -22,4 +22,6 @@ public boolean simulate() {
 4a) 
 
 ```java
-public static int getColumn```
+public static int getColumn (int[][] arr2D; int c) {
+	int[] returnable = new int[arr]
+```
