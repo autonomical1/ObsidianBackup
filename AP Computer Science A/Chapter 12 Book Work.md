@@ -47,5 +47,7 @@ public abstract class Poem {
 14)
 
 ```java
-public boolean sameDistance (Place p1, Place p2, pl)
+public boolean sameDistance (Place p1, Place p2, Place p3) {
+	return p1.distance(p2) == p1.distance(p3);
+}
 ```
