@@ -17,7 +17,6 @@
 3d) F
 
 5)
-
 ```java
 public abstract class Poem {
 	private int lines;
@@ -38,11 +37,10 @@ public abstract class Poem {
 
 			str += "\n";
 		}
-		
+
+		System.out.println(str);
 	}
 }
-
-
 ```
 
 14)
