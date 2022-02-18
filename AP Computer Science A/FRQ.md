@@ -30,7 +30,10 @@ public static int[] getColumn (int[][] arr2D; int c) {
 
 	return returnable;
 }
+```
 
+4b)
+```java
 public static boolean isLatin(int[][] square) { 
 	if (containsDuplicates(square[0])) { return false; } 
 	for (int r = 1; r < square.length; r++) { 
@@ -38,5 +41,8 @@ public static boolean isLatin(int[][] square) {
 	} 
 
 	for (int c = 0; c < square[0].length; c++) {
-		if (!hasAllValues(square[0], getColumn(square, c))) { return false; } } return true; }
+		if (!hasAllValues(square[0], getColumn(square, c))) { return false; } 
+	} 
+	return true; 
+}
 ```
