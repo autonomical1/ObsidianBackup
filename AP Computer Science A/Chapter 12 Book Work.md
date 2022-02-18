@@ -20,6 +20,10 @@
 
 ```java
 public abstract class Poem {
+	public abstract int numLines();
+
+	public abstract int getSyllables(int k);
+
 	
 }
 
