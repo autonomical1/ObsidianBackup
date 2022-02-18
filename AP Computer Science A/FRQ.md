@@ -23,5 +23,8 @@ public boolean simulate() {
 
 ```java
 public static int getColumn (int[][] arr2D; int c) {
-	int[] returnable = new int[arr]
+	int[] returnable = new int[arr2D.length];
+	for (int i = 0; i < arr2D.length; i++) {
+		
+	}
 ```
