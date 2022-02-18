@@ -18,3 +18,8 @@ public boolean simulate() {
 ```
 
 1b) 
+
+4a) 
+
+```java
+public static int getColumn```
