@@ -8,8 +8,13 @@ public boolean simulate() {
 		maxHopDist += hopDist;
 		if (maxHopDist >= goalDistance) {
 			return true;
-		} else if (maxHopDist)
+		} else if (maxHopDist < 0) {
+			return false;
+		}
+		return false;
 	}
 }
 
 ```
+
+1b) 
