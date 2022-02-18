@@ -33,9 +33,12 @@ public abstract class Poem {
 			if (i == getSyllables(i) - 1) {
 				str += "ta";
 			} else {
-				
+				str += "ta-";
 			}
+
+			str += "\n";
 		}
+		
 	}
 }
 
