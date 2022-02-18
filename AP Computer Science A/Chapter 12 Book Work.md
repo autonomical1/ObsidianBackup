@@ -46,3 +46,6 @@ public abstract class Poem {
 
 14)
 
+```java
+public boolean sameDistance (Place p1, Place p2, pl)
+```
