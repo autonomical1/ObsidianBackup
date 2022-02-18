@@ -24,7 +24,11 @@ public abstract class Poem {
 
 	public abstract int getSyllables(int k);
 
-	
+	public void printRhythm() {
+		String str = "";
+
+		
+	}
 }
 
 
