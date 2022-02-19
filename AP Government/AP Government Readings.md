@@ -19,6 +19,10 @@
 [[8.2 - The Party in the Electorate]]
 
 [[8.3 - The Party Organizations - From the Grass Roots to Washington]]
+
+[[8.4 - The Party in Government  - Promises and Party]]
+
+[[8.5 - ]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
