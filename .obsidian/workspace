@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "8.5 - Party Eras in American History.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "8.5 - Party Eras in American History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "8.5 - Party Eras in American History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +109,7 @@
   },
   "active": "be7059c1a7e1ca9b",
   "lastOpenFiles": [
+    "8.5 - Party Eras in American History.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/8.4 - The Party in Government  - Promises and Party.md",
     "AP Government/Readings/8.3 - The Party Organizations - From the Grass Roots to Washington.md",
@@ -117,7 +118,6 @@
     "AP Physics 1/Readings/Chapter 9.md",
     "AP Physics 1/AP Physics Readings.md",
     "AP Government/AP Government Notes.md",
-    "AP Physics 1/Readings/Chapter 8.md",
-    "AP Government/Notes/Federalism and Its Delicious Flavors.md"
+    "AP Physics 1/Readings/Chapter 8.md"
   ]
 }
