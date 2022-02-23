@@ -1,1 +1,1 @@
- Mi película favorita es "Alvin and the Chipmunks". La película es de comedia, y es muy divertidad.  Ha final feliz, y es el pelicula de dibujos animados. 
+ Mi película favorita es "Alvin and the Chipmunks". La película es de comedia, y es muy divertidad.  Ha final feliz, y la pelicula es de dibujos animados. 
