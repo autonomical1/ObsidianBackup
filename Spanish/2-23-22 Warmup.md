@@ -1,1 +1,1 @@
-La televisión y el cine está muy importante porque 
+La televisión y el cine está muy importante porque es un parte 
