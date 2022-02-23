@@ -1,1 +1,1 @@
-La televisión y el cine está muy importante porque es un parte 
+La televisión y el cine está muy importante porque es un parte de cultura. Esté es porqu
