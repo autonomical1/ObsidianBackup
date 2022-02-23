@@ -23,6 +23,8 @@
 [[8.4 - The Party in Government  - Promises and Party]]
 
 [[8.5 - Party Eras in American History]]
+
+[[8.6 - Third Parties - Their Impact on American Politics ]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
