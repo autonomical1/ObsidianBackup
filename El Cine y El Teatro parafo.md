@@ -1,1 +1,1 @@
- Mi favorita pelíucla es Alvin and the Chipm Es el 
+ Mi favorita pelíucla es Alvin and the Chipmunks. Es el 
