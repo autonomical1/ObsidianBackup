@@ -1,1 +1,1 @@
- Mi favorita pelíucla es Alvin and the Chipmunks. Es el muy divertidad. Es la película de comedia. FIna 
+ Mi favorita pelíucla es Alvin and the Chipmunks. Es el muy divertidad. Es la película de comedia. Final feliz, y es el pelicula de dibujos animados. 
