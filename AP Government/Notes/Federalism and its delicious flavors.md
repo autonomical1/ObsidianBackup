@@ -1,0 +1,24 @@
+- **Federalism**: constitutional arrangement in which power is distributed between a central government and subdivisional governments (states) 
+	- power shared between state and federal governments
+	- Constitution designates certain powers to be federal and some to states
+	- exists opposed to *unitary system*: powers rest solely in national government
+- Reasons for Federalism
+	- Customizability and Responsiveness
+		- Brutus I: Federal government can't respond to the needs of the people
+		- allows state governments to respond quicker to local needs
+	- Laboratory Effect:
+		- states can try laws to see if they work before adopting on a national level
+	- Prevents Tyranny
+		- this is due to the separation of powers
+- Eras of Federalism
+	- **Dual Federalism**: "layer cake federalism"
+		- clearly enumerated powers between federal and state governments and sovereignty in equal spheres
+		- occurred from the *1790s - 1930s*
+	-  **Cooperative Federalism**: "marble cake federalism"
+		- National and state governments share functions and collaborate on major national priorities
+		- occurred from the *1930s - 1960s*
+	- **Creative Federalism**: "picket fence federalism"
+		- overloaded cooperation and crosscutting regulations
+		- occurred from the *1960s to 1980s*
+	- **New Federalism**: further devolution of power from national to state government, deregulation but also increased difference of states to fulfill.
+		- occurred from *1981 - present*

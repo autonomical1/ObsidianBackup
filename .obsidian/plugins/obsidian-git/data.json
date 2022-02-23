@@ -9,7 +9,7 @@
   "disablePopups": true,
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
-  "updateSubmodules": true,
+  "updateSubmodules": false,
   "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
