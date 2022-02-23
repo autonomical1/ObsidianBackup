@@ -1,1 +1,1 @@
-La televisión y el cine está muy importante porque es un parte de cultura. Esté es porque permite
+La televisión y el cine está muy importante porque es un parte de cultura. Esté es porque tú permites 
