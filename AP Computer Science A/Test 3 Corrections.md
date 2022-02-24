@@ -21,7 +21,9 @@ public ArrayList<String> extract (ArrayList<String> list) {
 	int i = 0;
 
 	while (i < list.size()) {
-		}
+		String temp = list.get(i);
+		if (temp.length <= 5)
+	}
 }
 
 ```
