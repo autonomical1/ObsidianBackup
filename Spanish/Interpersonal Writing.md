@@ -4,4 +4,4 @@ Asunto: Tu película favorita
 
 Hola Ryan:
 
-¿Comó estas? Estoy bueno. Yo quiero preguntarte sobre tu película favorita. Mi película favorita es Alvin y las Ardillas. Los caracteres principales son Dave, y tres ardillas: Alvin, Simon, y Theodore. Alvin es muy exitado y 
+¿Comó estas? Estoy bueno. Yo quiero preguntarte sobre tu película favorita. Mi película favorita es Alvin y las Ardillas. Es Los caracteres principales son Dave, y tres ardillas: Alvin, Simon, y Theodore. Alvin es muy excitado y 
