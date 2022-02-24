@@ -1,3 +1,3 @@
 8.
 	Correct: F 
-	 The array cannot hold 
+		Explanation: The array must hold a boolean not 
