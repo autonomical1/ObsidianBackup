@@ -6,4 +6,5 @@
 	Explanation: Since the arraylist is holding string values, it cannot hold the type with higher hierarchy
 20.
 	Correct: A
-	Explanation: 
+	Explanation: It initializes an array without filling it with null or default values.
+23.
