@@ -1,1 +1,3 @@
-8. F - 
+8.
+	Correct: F 
+	 The array cannot hold 
