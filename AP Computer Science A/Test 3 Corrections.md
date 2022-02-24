@@ -16,6 +16,7 @@
 
 28.
 ```java
-	
+public ArrayList<String> extract (ArrayList<String> list) {
+	ArrayList<String}
 
 ```
