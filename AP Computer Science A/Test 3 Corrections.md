@@ -22,7 +22,9 @@ public ArrayList<String> extract (ArrayList<String> list) {
 
 	while (i < list.size()) {
 		String temp = list.get(i);
-		if (temp.length <= 5)
+		if (temp.length <= 5) {
+			temp 
+		}
 	}
 }
 
