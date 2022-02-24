@@ -17,6 +17,8 @@
 28.
 ```java
 public ArrayList<String> extract (ArrayList<String> list) {
-	ArrayList<String}
+	ArrayList<String> newList = new ArrayList<String>();
+	while 
+}
 
 ```
