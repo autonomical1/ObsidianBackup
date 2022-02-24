@@ -4,4 +4,4 @@ Asunto: Tu película favorita
 
 Hola Ryan,
 
-¿Comó estas? Soy bueno. Yo quer
+¿Comó estas? Soy bueno. Yo 
