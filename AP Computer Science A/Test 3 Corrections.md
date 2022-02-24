@@ -18,7 +18,10 @@
 ```java
 public ArrayList<String> extract (ArrayList<String> list) {
 	ArrayList<String> newList = new ArrayList<String>();
-	while 
+	int i = 0;
+
+	while (i < list.size()) {
+		}
 }
 
 ```
