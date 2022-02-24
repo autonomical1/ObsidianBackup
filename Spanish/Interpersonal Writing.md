@@ -4,4 +4,4 @@ Asunto: Tu película favorita
 
 Hola Ryan:
 
-¿Comó estas? Estoy bueno. Yo quiero preguntarte sobre tu película favorita. Mi película favorita es Alvin y las Ardillas. Los caracteres 
+¿Comó estas? Estoy bueno. Yo quiero preguntarte sobre tu película favorita. Mi película favorita es Alvin y las Ardillas. Los caracteres principales son Alvi
