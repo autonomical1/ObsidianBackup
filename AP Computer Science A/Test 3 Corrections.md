@@ -4,3 +4,6 @@
 9.
 	Correct: F
 	Explanation: Since the arraylist is holding string values, it cannot hold the type with higher hierarchy
+20.
+	Correct: A
+	Explanation: 
