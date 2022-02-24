@@ -2,6 +2,6 @@ Para: ryan.mendiondo@outlook.com
 De: neel.mittal101@gmail.com
 Asunto: Tu película favorita
 
-Hola Ryan,
+Hola Ryan:
 
 ¿Comó estas? Soy bueno. Yo querido pedir 
