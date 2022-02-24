@@ -12,4 +12,4 @@
 	
 23.
 	Correct: C
-	Explanation: 
+	Explanation: Since the first line gets the index of the first value with fish in it, it
