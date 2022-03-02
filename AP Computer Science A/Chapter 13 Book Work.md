@@ -30,6 +30,9 @@ it would never
 18)
 ```java
 public int sequence(int n) {
+	if (n <= 1) {
+		return 1;
+	}
 
 }
 ```
