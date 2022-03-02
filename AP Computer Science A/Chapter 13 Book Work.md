@@ -22,5 +22,6 @@ public int findMin(int[] list, int n) {
 ```
 5)
 a, b, g
+7)
+it would never
 9)
-it would never, 
