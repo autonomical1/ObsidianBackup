@@ -4,4 +4,5 @@
 		return product(a, b-1) + a;
 	}
 ```
-2)
+2) 18
+3) 
