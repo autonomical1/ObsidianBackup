@@ -27,4 +27,9 @@ it would never
 9)
 030
 11) 8
-18) 
+18)
+```java
+public int sequence(int n) {
+
+}
+```
