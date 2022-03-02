@@ -8,7 +8,7 @@
 18
 3)
 VEHA UNF
-4
+4)
 ```java
 public int findMin(int[] list, int n) {
 	int min = 0;
@@ -20,3 +20,4 @@ public int findMin(int[] list, int n) {
 	}
 }
 ```
+5)
