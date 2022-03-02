@@ -5,4 +5,3 @@
 	}
 ```
 2)
-mysterySum(5) => mysterySum(4) + 3 => 
