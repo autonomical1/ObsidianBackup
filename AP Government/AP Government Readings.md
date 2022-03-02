@@ -26,7 +26,10 @@
 
 [[8.6 - Third Parties - Their Impact on American Politics ]]
 
-[[9.1 - ]]
+# Chapter 9
+[[9.1 - The Nomination Game]]
+
+[[9.2 - The Campaign Game ]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
