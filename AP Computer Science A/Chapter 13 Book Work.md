@@ -11,8 +11,9 @@ VEHA UNF
 4
 ```java
 public int findMin(int[] list, int n) {
+	int min = 0;
 	if (n = 1) {
-		return 0;
+		return min;
 	} else {
 		
 	}
