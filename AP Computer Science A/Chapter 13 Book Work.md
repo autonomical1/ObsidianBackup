@@ -14,8 +14,7 @@ public int findMin(int[] list, int n) {
 	int min = 0;
 	if (n = 1) {
 		min = list[0];
-	} else {
-		
+	} else if (list[n] < list[n10])
 	}
 }
 ```
