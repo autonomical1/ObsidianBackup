@@ -32,6 +32,8 @@ it would never
 public int sequence(int n) {
 	if (n <= 1) {
 		return 1;
+	} else {
+		
 	}
 
 }
