@@ -33,8 +33,7 @@ public int sequence(int n) {
 	if (n <= 1) {
 		return 1;
 	} else {
-		
+		return sequence(n-1) / (1/n);
 	}
-
 }
 ```
