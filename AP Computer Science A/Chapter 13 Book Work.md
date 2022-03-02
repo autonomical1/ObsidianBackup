@@ -4,6 +4,7 @@
 		return product(a, b-1) + a;
 	}
 ```
-2) 18
+18
 3) VEHA UNF
-4) ``````
+4
+``````
