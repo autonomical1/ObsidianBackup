@@ -10,5 +10,7 @@
 VEHA UNF
 4
 ```java
-public int findMin(int[] )
+public int findMin(int[] list, int n) {
+	if (i)
+}
 ```
