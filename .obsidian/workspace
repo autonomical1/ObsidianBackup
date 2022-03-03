@@ -7,12 +7,8 @@
         "id": "bacab06418eae5df",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AP Government/AP Government Readings.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +103,7 @@
   },
   "active": "bacab06418eae5df",
   "lastOpenFiles": [
+    "Untitled.md",
     "AP Government/AP Government Readings.md",
     "Spanish/Interpersonal Writing.md",
     "AP Government/Readings/9.3 - Money and Campaigning.md",
@@ -117,7 +112,6 @@
     "AP Government/Readings/9.2 - The Campaign Game.md",
     "AP Government/Readings/9.1 - The Nomination Game.md",
     "AP Government/Readings/8.6 - Third Parties - Their Impact on American Politics.md",
-    "AP Government/Readings/8.5 - Party Eras in American History.md",
-    "AP Government/Readings/8.4 - The Party in Government  - Promises and Party.md"
+    "AP Government/Readings/8.5 - Party Eras in American History.md"
   ]
 }
