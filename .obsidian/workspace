@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "9.3 - Money and Campaigning.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "9.3 - Money and Campaigning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "9.3 - Money and Campaigning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +109,7 @@
   },
   "active": "bacab06418eae5df",
   "lastOpenFiles": [
+    "9.3 - Money and Campaigning.md",
     "AP Government/AP Government Readings.md",
     "AP Government/AP Government Notes.md",
     "Spanish/El Cine y El Teatro parafo.md",
@@ -117,7 +118,6 @@
     "AP Government/Readings/9.1 - The Nomination Game.md",
     "AP Government/Readings/8.6 - Third Parties - Their Impact on American Politics.md",
     "AP Government/Readings/8.5 - Party Eras in American History.md",
-    "AP Government/Readings/8.4 - The Party in Government  - Promises and Party.md",
-    "AP Government/Readings/8.3 - The Party Organizations - From the Grass Roots to Washington.md"
+    "AP Government/Readings/8.4 - The Party in Government  - Promises and Party.md"
   ]
 }
