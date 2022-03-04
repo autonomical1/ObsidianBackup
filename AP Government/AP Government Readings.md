@@ -31,7 +31,9 @@
 
 [[9.2 - The Campaign Game ]]
 
-[[9.3 - Money and Campaigning ]]
+[[9.3 - Money and Campaigning]]
+
+[[9.4 - The Impact of Campaigns]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
