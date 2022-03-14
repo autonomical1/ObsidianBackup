@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bacab06418eae5df",
+        "id": "65a48a6162b35fac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "9.5 -  Whether to Vote - A Citizen's First Choice.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "9.5 -  Whether to Vote - A Citizen's First Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "9.5 -  Whether to Vote - A Citizen's First Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bacab06418eae5df",
+  "active": "65a48a6162b35fac",
   "lastOpenFiles": [
+    "9.5 -  Whether to Vote - A Citizen's First Choice.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/9.4 - The Impact of Campaigns.md",
     "AP Government/Readings/2.1 - The Origins of the Constitution.md",
@@ -117,7 +118,6 @@
     "Spanish/Interpersonal Writing.md",
     "AP Government/Readings/9.3 - Money and Campaigning.md",
     "Spanish/El Cine y El Teatro parafo.md",
-    "AP Government/Readings/9.2 - The Campaign Game.md",
-    "AP Government/Readings/9.1 - The Nomination Game.md"
+    "AP Government/Readings/9.2 - The Campaign Game.md"
   ]
 }
