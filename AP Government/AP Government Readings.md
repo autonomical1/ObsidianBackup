@@ -35,7 +35,7 @@
 
 [[9.4 - The Impact of Campaigns]]
 
-[[]]
+[[9.5 -  Whether to Vote: A Citizen's First Choice]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 
