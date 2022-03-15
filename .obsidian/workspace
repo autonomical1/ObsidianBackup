@@ -7,9 +7,17 @@
         "id": "bacab06418eae5df",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "4dcf1b30a77d182a",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "9.4 - The Impact of Campaigns.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.4 - The Impact of Campaigns.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.4 - The Impact of Campaigns.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +115,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bacab06418eae5df",
+  "active": "4dcf1b30a77d182a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "9.4 - The Impact of Campaigns.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/2.1 - The Origins of the Constitution.md",
@@ -117,7 +126,6 @@
     "Spanish/Interpersonal Writing.md",
     "AP Government/Readings/9.3 - Money and Campaigning.md",
     "Spanish/El Cine y El Teatro parafo.md",
-    "AP Government/Readings/9.2 - The Campaign Game.md",
-    "AP Government/Readings/9.1 - The Nomination Game.md"
+    "AP Government/Readings/9.2 - The Campaign Game.md"
   ]
 }
