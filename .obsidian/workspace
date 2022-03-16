@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bacab06418eae5df",
+        "id": "f070c69adfc4a8b6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/9.1 - The Nomination Game.md",
+            "file": "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "4dcf1b30a77d182a",
+        "id": "721d99e25608c0fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/9.1 - The Nomination Game.md",
+                "file": "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/9.1 - The Nomination Game.md",
+                "file": "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bacab06418eae5df",
+  "active": "f070c69adfc4a8b6",
   "lastOpenFiles": [
-    "AP Government/Readings/9.1 - The Nomination Game.md",
-    "AP Government/Readings/9.2 - The Campaign Game.md",
+    "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
     "AP Government/Readings/9.4 - The Impact of Campaigns.md",
+    "AP Government/Readings/9.3 - Money and Campaigning.md",
+    "AP Government/Readings/9.2 - The Campaign Game.md",
     "AP Government/AP Government Readings.md",
+    "AP Government/Readings/9.1 - The Nomination Game.md",
     "conflict-files-obsidian-git.md",
     "9.4 - The Impact of Campaigns.md",
     "AP Government/Readings/2.1 - The Origins of the Constitution.md",
-    "AP Government/AP Government Notes.md",
-    "Untitled.md",
-    "Spanish/Interpersonal Writing.md"
+    "AP Government/AP Government Notes.md"
   ]
 }
