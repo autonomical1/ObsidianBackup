@@ -36,6 +36,8 @@
 [[9.4 - The Impact of Campaigns]]
 
 [[9.5 -  Whether to Vote - A Citizen's First Choice]]
+
+[[9.7 - The Last Battle - The Electoral College]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 

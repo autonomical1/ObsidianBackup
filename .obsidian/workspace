@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f070c69adfc4a8b6",
+        "id": "9e65bf67de53d7d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "721d99e25608c0fd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AP Government/Readings/9.1 - The Nomination Game.md",
+            "file": "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
+                "file": "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
+                "file": "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f070c69adfc4a8b6",
+  "active": "9e65bf67de53d7d5",
   "lastOpenFiles": [
+    "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
+    "AP Government/AP Government Readings.md",
+    "AP Government/Readings/9.1 - The Nomination Game.md",
     "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
     "AP Government/Readings/9.4 - The Impact of Campaigns.md",
     "AP Government/Readings/9.3 - Money and Campaigning.md",
     "AP Government/Readings/9.2 - The Campaign Game.md",
-    "AP Government/AP Government Readings.md",
-    "AP Government/Readings/9.1 - The Nomination Game.md",
     "conflict-files-obsidian-git.md",
     "9.4 - The Impact of Campaigns.md",
-    "AP Government/Readings/2.1 - The Origins of the Constitution.md",
-    "AP Government/AP Government Notes.md"
+    "AP Government/Readings/2.1 - The Origins of the Constitution.md"
   ]
 }
