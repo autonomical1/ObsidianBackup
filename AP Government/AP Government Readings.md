@@ -13,6 +13,9 @@
 
 [[5.3 - The Rights of Other Minority Groups]]
 
+# Chapter 6
+[[6.2 - How Americans Learn About Politics - Political Socialization]]
+
 # Chapter 8
 [[8.1 -  The Meaning of Party]]
 

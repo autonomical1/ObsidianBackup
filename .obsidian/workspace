@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
+            "file": "6.2 - How Americans Learn About Politics - Political Socialization.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
+                "file": "6.2 - How Americans Learn About Politics - Political Socialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
+                "file": "6.2 - How Americans Learn About Politics - Political Socialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
   },
   "active": "9e65bf67de53d7d5",
   "lastOpenFiles": [
+    "6.2 - How Americans Learn About Politics - Political Socialization.md",
+    "AP Government/AP Government Readings.md",
     "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
     "conflict-files-obsidian-git.md",
-    "AP Government/AP Government Readings.md",
     "AP Government/Readings/9.1 - The Nomination Game.md",
     "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
     "AP Government/Readings/9.4 - The Impact of Campaigns.md",
     "AP Government/Readings/9.3 - Money and Campaigning.md",
     "AP Government/Readings/9.2 - The Campaign Game.md",
-    "9.4 - The Impact of Campaigns.md",
-    "AP Government/Readings/2.1 - The Origins of the Constitution.md"
+    "9.4 - The Impact of Campaigns.md"
   ]
 }
