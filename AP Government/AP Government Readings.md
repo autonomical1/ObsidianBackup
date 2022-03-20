@@ -16,6 +16,8 @@
 # Chapter 6
 [[6.2 - How Americans Learn About Politics - Political Socialization]]
 
+[[6.3 - Measuring Public ]]
+
 # Chapter 8
 [[8.1 -  The Meaning of Party]]
 
