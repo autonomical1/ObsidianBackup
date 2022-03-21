@@ -1,4 +1,4 @@
-# 10-1
+a# 10-1
 - Translation refers to the motion of the CoM of a sys/obj from one point to another through space
 - Rotation refers to the spinning motion of an ext. obj
 - ext. object can rotate around a fixed axis (rotation without translation) or its or its axis can move as the extended object rotates (rotation with translation)
@@ -29,3 +29,8 @@
 - If the force exerted on the extended object generates a torque, that torque changes that extended object's rotation. The magnitude of the torque depends on where the force is applied relative to the rotation axis and on the orientation of the force.
 - The magnitude of a torque is equal to the magnitude of the force that causes the torque multiplied by the lever arm of the force (the perpendicular distance from the rotation axis to the line of action of the force).
 - Newton's second law for rotation says that if a net external torque is exerted on a rigid body extended object acquires an angular acceleration period these are related by the rigid body's rotational inertia
+
+# 10-7
+- Always draw extended free body diagrams as part of a solution to any problem that involves torques. To be able to calculate torques correctly, draw each force at the point where it is exerted.
+- In problems of this kind, apply Newton's second law for translation to any object that changes position and Newton's second law for rotation to any rigid body that rotates. Both laws must be applied to any rigid body that undergoes both rotation and translation.
+- In problems that involve both rotation and translation, you will need to relate the translational acceleration to the rotational acceleration.
