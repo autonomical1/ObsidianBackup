@@ -24,3 +24,8 @@
 # 10-5
 - just as acceleration in a straight line is the rate of change of velocity, angular acceleration is the rate of change of angular velocity.
 - If the angular acceleration is constant for a rigid body, there are three equations that relate time, angular position, angular velocity, and angular acceleration, that are of the same structure as the relationships among the linear quantities.
+
+# 10-6
+- If the force exerted on the extended object generates a torque, that torque changes that extended object's rotation. The magnitude of the torque depends on where the force is applied relative to the rotation axis and on the orientation of the force.
+- The magnitude of a torque is equal to the magnitude of the force that causes the torque multiplied by the lever arm of the force (the perpendicular distance from the rotation axis to the line of action of the force).
+- New in second law for rotation says that if a net external torque, 
