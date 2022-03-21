@@ -17,4 +17,10 @@
 - the parallel-axis theorem relates the rotational inertia for an axis through an extended object's center of mass to the rotational inertia for a second, parallel axis
 
 # 10-4
-- 
+- the rotational kinetic energy K of an extended object of mass M is the sum of the translational kinetic energy of its center of mass, K<sub>rotational</sub> = 1/2 * Mv<sup>2</sup> , and the rotational kinetic energy of the extended objects rotation around its center of mass. For a rigid body this rotational kinetic energy can be written K<sub>rotational</sub> = 1/2Iω
+- the same energy conservation equations for Conservation of Energy also apply when there is rotational motion. The only difference is that the kinetic energy K now includes both rotational and translational kinetic energies.
+- if an extended object rolls without slipping on the surface, its speed of its center of mass is directly proportional to its angular speed. If the rolling extended object is perfectly rigid., a rigid body, and the surface over which it rolls is also rigid, less static friction force is present but does no work on the rigid body as it rolls.
+
+# 10-5
+- just as acceleration in a straight line is the rate of change of velocity, angular acceleration is the rate of change of angular velocity.
+- If the angular acceleration is constant for a rigid body, there are three equations that relate time, angular position, angular velocity, and angular acceleration, that are of the same structure as the relationships among the linear quantities.
