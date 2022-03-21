@@ -14,6 +14,11 @@
 
 [[5.3 - The Rights of Other Minority Groups]]
 
+# Chapter 6
+[[6.2 - How Americans Learn About Politics - Political Socialization]]
+
+[[6.3 - Measuring Public Opinion and Political Information]]
+
 # Chapter 8
 [[8.1 -  The Meaning of Party]]
 
@@ -37,6 +42,8 @@
 [[9.4 - The Impact of Campaigns]]
 
 [[9.5 -  Whether to Vote - A Citizen's First Choice]]
+
+[[9.7 - The Last Battle - The Electoral College]]
 # Chapter 11
 [[11.1 - The Representatives and Senators]]
 

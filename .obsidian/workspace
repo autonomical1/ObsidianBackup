@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "65a48a6162b35fac",
+        "id": "9e65bf67de53d7d5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/AP Government Readings.md",
+            "file": "AP Physics 1/Readings/Chapter 10.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Physics 1/Readings/Chapter 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Physics 1/Readings/Chapter 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65a48a6162b35fac",
+  "active": "9e65bf67de53d7d5",
   "lastOpenFiles": [
+    "AP Physics 1/Readings/Chapter 10.md",
+    "AP Physics 1/AP Physics Readings.md",
     "AP Government/AP Government Readings.md",
-    "AP Government/AP Government Notes.md",
+    "AP Government/Readings/9.3 - Money and Campaigning.md",
+    "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
     "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
-    "AP Government/Readings/11.1 - The Representatives and Senators.md",
-    "conflict-files-obsidian-git.md",
-    "9.5 -  Whether to Vote - A Citizen's First Choice.md",
-    "AP Government/Readings/9.4 - The Impact of Campaigns.md",
-    "AP Government/Readings/2.1 - The Origins of the Constitution.md",
-    "Untitled.md",
-    "Spanish/Interpersonal Writing.md"
+    "AP Government/Readings/8.4 - The Party in Government  - Promises and Party.md",
+    "AP Government/Readings/6.3 - Measuring Public Opinion and Political Information.md",
+    "AP Government/AP Government Notes.md",
+    "AP Government/Readings/6.2 - How Americans Learn About Politics - Political Socialization.md"
   ]
 }
