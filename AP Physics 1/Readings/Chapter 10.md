@@ -28,4 +28,4 @@
 # 10-6
 - If the force exerted on the extended object generates a torque, that torque changes that extended object's rotation. The magnitude of the torque depends on where the force is applied relative to the rotation axis and on the orientation of the force.
 - The magnitude of a torque is equal to the magnitude of the force that causes the torque multiplied by the lever arm of the force (the perpendicular distance from the rotation axis to the line of action of the force).
-- New in second law for rotation says that if a net external torque, 
+- Newton's second law for rotation says that if a net external torque is exerted on a rigid body extended object acquires an angular acceleration period these are related by the rigid body's rotational inertia
