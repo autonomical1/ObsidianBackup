@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "19c7b15b8d5739f9",
+        "id": "d4eb1d9524ec6c6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Language/Terms for Rhetorical Analysis.md",
+            "file": "AP Government/Readings/6.4 - What Americans Value - Political Ideologies.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Terms for Rhetorical Analysis.md",
+                "file": "AP Government/Readings/6.4 - What Americans Value - Political Ideologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Terms for Rhetorical Analysis.md",
+                "file": "AP Government/Readings/6.4 - What Americans Value - Political Ideologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,8 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19c7b15b8d5739f9",
+  "active": "d4eb1d9524ec6c6b",
   "lastOpenFiles": [
+    "AP Government/Readings/6.4 - What Americans Value - Political Ideologies.md",
+    "AP Government/AP Government Readings.md",
     "Language/Terms for Rhetorical Analysis.md",
     "conflict-files-obsidian-git.md",
     "AP Physics 1/Readings/Chapter 5.md",
@@ -116,8 +118,6 @@
     "AP Physics 1/AP Physics Readings.md",
     "AP Physics 1/Readings/Chapter 7.md",
     "AP Physics 1/Readings/Chapter 10.md",
-    "AP Government/AP Government Readings.md",
-    "AP Government/Readings/6.2 - How Americans Learn About Politics - Political Socialization.md",
-    "AP Government/AP Government Notes.md"
+    "AP Government/Readings/6.2 - How Americans Learn About Politics - Political Socialization.md"
   ]
 }

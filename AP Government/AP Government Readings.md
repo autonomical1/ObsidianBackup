@@ -1,4 +1,3 @@
-
 # Chapter 2
 [[2.1 - The Origins of the Constitution]]
 
@@ -18,6 +17,8 @@
 [[6.2 - How Americans Learn About Politics - Political Socialization]]
 
 [[6.3 - Measuring Public Opinion and Political Information]]
+
+[[6.4 - What Americans Value - Political Ideologies]]
 
 # Chapter 8
 [[8.1 -  The Meaning of Party]]
