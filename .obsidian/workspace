@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "4c7d869d853ce2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e65bf67de53d7d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/6.3 - Measuring Public Opinion and Political Information.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b4a951f08601d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1dae8ca27e05cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ef884f62400927",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "115c809d0d4735d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89152b165dda2e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "d467510fb3ad009f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809263a32dc61338",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "74de9808b9a04686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AP Government/Readings/6.3 - Measuring Public Opinion and Political Information.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd1ceb1bceaf974f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Government/Readings/6.3 - Measuring Public Opinion and Political Information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9e65bf67de53d7d5",
+  "lastOpenFiles": [
+    "AP Government/Readings/6.3 - Measuring Public Opinion and Political Information.md",
+    "AP Government/AP Government Readings.md",
+    "Links/AP Government.md",
+    "conflict-files-obsidian-git.md",
+    "AP Physics 1/Readings/Chapter 10.md",
+    "AP Physics 1/AP Physics Readings.md",
+    "AP Government/Readings/9.3 - Money and Campaigning.md",
+    "AP Government/Readings/9.7 - The Last Battle - The Electoral College.md",
+    "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
+    "AP Government/Readings/8.4 - The Party in Government  - Promises and Party.md"
+  ]
+}
