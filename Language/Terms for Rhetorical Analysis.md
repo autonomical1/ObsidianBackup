@@ -8,4 +8,8 @@
 		- "This place is like a Garden of Eden..."
 - **Anaphora**: repetition of words at the beginning of successive clause
 	- adds rhythm to text
-	- 
+	- Example:
+		- We shall not flag or fail. We shall go on to the end. We shall fight in France, we shall fight on the seas and oceans...
+			- "we shall" is the anaphora
+			- suggests importance of war in England and inspires patriotic sentiment
+- 
