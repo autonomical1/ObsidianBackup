@@ -17,4 +17,6 @@
 	- Example: 
 		- Before giving a presentation on the dangers of drug abuse, the speaker tells the audience how he himself used to abuse drugs and explains the negative effects it brought about in his life.
 		- Before Christmas morning breakfast, parents tell their children about their very first Christmas together.
-- 
+- **Antanaclasis**: a rhetorical device in which a phrase or word is repeatedly used, but in a different, often contrary, sense
+	- a play on words
+	- 
