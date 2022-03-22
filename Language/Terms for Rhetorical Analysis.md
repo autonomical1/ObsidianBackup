@@ -14,4 +14,7 @@
 			- suggests importance of war in England and inspires patriotic sentiment
 - **Anecdote**: short account of an interesting event
 	- Completely true
-	- 
+	- Example: 
+		- Before giving a presentation on the dangers of drug abuse, the speaker tells the audience how he himself used to abuse drugs and explains the negative effects it brought about in his life.
+		- Before Christmas morning breakfast, parents tell their children about their very first Christmas together.
+- 
