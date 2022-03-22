@@ -1,4 +1,4 @@
-a# 10-1
+# 10-1
 - Translation refers to the motion of the CoM of a sys/obj from one point to another through space
 - Rotation refers to the spinning motion of an ext. obj
 - ext. object can rotate around a fixed axis (rotation without translation) or its or its axis can move as the extended object rotates (rotation with translation)
