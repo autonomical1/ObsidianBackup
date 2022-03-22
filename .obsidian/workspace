@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1c39b834180808",
+        "id": "19c7b15b8d5739f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Physics 1/Readings/Chapter 10.md",
+            "file": "Langugage/Notes 3.22.22.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 10.md",
+                "file": "Langugage/Notes 3.22.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 10.md",
+                "file": "Langugage/Notes 3.22.22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d1c39b834180808",
+  "active": "19c7b15b8d5739f9",
   "lastOpenFiles": [
-    "AP Physics 1/Readings/Chapter 10.md",
+    "Langugage/Notes 3.22.22.md",
+    "AP Physics 1/Readings/Chapter 5.md",
+    "AP Physics 1/Readings/Chapter 6.md",
     "AP Physics 1/AP Physics Readings.md",
+    "AP Physics 1/Readings/Chapter 7.md",
+    "AP Physics 1/Readings/Chapter 10.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/6.2 - How Americans Learn About Politics - Political Socialization.md",
     "AP Government/AP Government Notes.md",
-    "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md",
-    "AP Government/Readings/11.1 - The Representatives and Senators.md",
-    "conflict-files-obsidian-git.md",
-    "9.5 -  Whether to Vote - A Citizen's First Choice.md",
-    "AP Government/Readings/9.4 - The Impact of Campaigns.md"
+    "AP Government/Readings/9.5 -  Whether to Vote - A Citizen's First Choice.md"
   ]
 }
