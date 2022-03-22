@@ -1,1 +1,5 @@
-- 
+- **Allusion**: direct/indirect reference to something which is presumably commonly known
+	- event, book, myth, place, work of art
+	- can be historical, literary, religious, topical, or mythical
+	- a work may simultaneously use multiple layers of allusion
+	- 
