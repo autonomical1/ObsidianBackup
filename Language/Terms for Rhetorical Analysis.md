@@ -2,4 +2,7 @@
 	- event, book, myth, place, work of art
 	- can be historical, literary, religious, topical, or mythical
 	- a work may simultaneously use multiple layers of allusion
-	- 
+	- Examples: 
+		- The rise of college education costs will unlock the Pandora's box of debt
+		- "This place is like a Garden of Eden..."
+- 
