@@ -4,5 +4,8 @@
 	- a work may simultaneously use multiple layers of allusion
 	- Examples: 
 		- The rise of college education costs will unlock the Pandora's box of debt
+			- alludes to Pandora's box in Greek Mythology
 		- "This place is like a Garden of Eden..."
-- 
+- **Anaphora**: repetition of words at the beginning of successive clause
+	- adds rhythm to text
+	- 
