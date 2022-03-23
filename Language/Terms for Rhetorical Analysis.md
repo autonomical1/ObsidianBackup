@@ -29,4 +29,6 @@
 		- "I mean what I say, and I say what I mean"
 		- "Fair is foul and foul is fair"
 			- Fair and foul are switched around
-- 
+- **Antithesis**: 2 contrasting ideas are intentionally juxtaposed, usually through parallel structure; a contrasting of opposing ideas in adjacent phrases, clauses , or sentences
+	- literally means opposite
+	- 
