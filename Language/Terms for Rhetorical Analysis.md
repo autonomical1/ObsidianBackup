@@ -19,4 +19,8 @@
 		- Before Christmas morning breakfast, parents tell their children about their very first Christmas together.
 - **Antanaclasis**: a rhetorical device in which a phrase or word is repeatedly used, but in a different, often contrary, sense
 	- a play on words
-	- 
+	- Example:
+		- "We must, indeed, all hang together or, most assuredly, we shall all hang separately."
+			- repeats "hang"
+			- "hang together" - stick together/stay united
+			- "hang separately" - execution/death

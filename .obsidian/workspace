@@ -7,8 +7,12 @@
         "id": "d4eb1d9524ec6c6b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Language/Terms for Rhetorical Analysis.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Language/Terms for Rhetorical Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Language/Terms for Rhetorical Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,12 +109,12 @@
   },
   "active": "d4eb1d9524ec6c6b",
   "lastOpenFiles": [
+    "Language/Terms for Rhetorical Analysis.md",
     "AP Computer Science A/Test 3 Corrections.md",
     "AP Computer Science A/FRQ.md",
     "AP Computer Science A/Chapter 13 Book Work.md",
     "AP Computer Science A/Chapter 12 Book Work.md",
     "Links/APCSA.md",
-    "Language/Terms for Rhetorical Analysis.md",
     "AP Government/Readings/5.1 - The Struggle for Equality.md",
     "Spanish/Interpersonal Writing.md",
     "Literature/Notes/Stave 4.md",
