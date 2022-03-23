@@ -7,12 +7,8 @@
         "id": "d4eb1d9524ec6c6b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +103,15 @@
   },
   "active": "d4eb1d9524ec6c6b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "AP Computer Science A/Chapter 12 Book Work.md",
+    "AP Computer Science A/Test 3 Corrections.md",
+    "AP Computer Science A/FRQ.md",
     "AP Computer Science A/Chapter 13 Book Work.md",
+    "AP Computer Science A/Chapter 12 Book Work.md",
+    "Links/APCSA.md",
     "Language/Terms for Rhetorical Analysis.md",
     "AP Government/Readings/5.1 - The Struggle for Equality.md",
-    "AP Computer Science A/Test 3 Corrections.md",
     "Spanish/Interpersonal Writing.md",
     "Literature/Notes/Stave 4.md",
-    "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md",
-    "AP Government/Readings/14.1 - The Bureaucrats.md"
+    "AP Government/Readings/5.3 - The Rights of Other Minority Groups.md"
   ]
 }
