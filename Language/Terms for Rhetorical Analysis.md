@@ -24,3 +24,7 @@
 			- repeats "hang"
 			- "hang together" - stick together/stay united
 			- "hang separately" - execution/death
+- **Antimetabole**: repetition of words in successive clauses, but in transposed order
+	- Example:
+		- "I mean what I say, and I say what I mean"
+		- 
