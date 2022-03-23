@@ -37,4 +37,7 @@
 		- "Patience is *bitter* but it has a *sweet* fruit"
 - **Apostrophe**: figure of speech in which one *directly addresses an absent or imaginary person*, or personified abstraction. It is an address someone or something cannot answer
 	- Many apostrophes imply a personification of the object addressed.
-	- 
+	- Example:
+		- "Oh! Stars and clouds and winds, ye are all about to mock me; if ye really pity me, crush sensation and memory; let me become as naught; but if not, depart, depart, and leave me in darkness."
+			- speaker is addressing the stars, the clouds, and the winds
+- 
