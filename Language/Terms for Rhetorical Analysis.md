@@ -27,4 +27,6 @@
 - **Antimetabole**: repetition of words in successive clauses, but in transposed order
 	- Example:
 		- "I mean what I say, and I say what I mean"
-		- 
+		- "Fair is foul and foul is fair"
+			- Fair and foul are switched around
+- 
