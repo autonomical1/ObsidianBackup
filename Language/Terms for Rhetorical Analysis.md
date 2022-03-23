@@ -31,4 +31,10 @@
 			- Fair and foul are switched around
 - **Antithesis**: 2 contrasting ideas are intentionally juxtaposed, usually through parallel structure; a contrasting of opposing ideas in adjacent phrases, clauses , or sentences
 	- literally means opposite
+	- Example:
+		- "Love is an *ideal* thing, marriage is a *real* thing"
+		- "Speech is *silver*, but silence is *gold*"
+		- "Patience is *bitter* but it has a *sweet* fruit"
+- **Apostrophe**: figure of speech in which one *directly addresses an absent or imaginary person*, or personified abstraction. It is an address someone or something cannot answer
+	- Many apostrophes imply a personification of the object addressed.
 	- 
