@@ -20,6 +20,8 @@
 
 [[6.4 - What Americans Value - Political Ideologies]]
 
+[[6.5 - ]]
+
 # Chapter 8
 [[8.1 -  The Meaning of Party]]
 
