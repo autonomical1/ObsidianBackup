@@ -20,7 +20,7 @@
 
 [[6.4 - What Americans Value - Political Ideologies]]
 
-[[6.5 - How People Participate in Politics ]
+[[6.5 - How People Participate in Politics]]
 
 [[6.6 - Understanding Public Opinion and Political Action]]
 
