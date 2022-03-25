@@ -51,4 +51,5 @@
 	- can include local or regional dialects
 - **Euphemism**: more agreeable/less offensive substitute for generally unpleasant words or concepts
 	- can be used to adhere to standards of social correctness or to add humor or ironic understatement
-- 
+- **Cliché**: saying or idea that is overused to the point of losing its original, more significant, meaning
+	- often annoying because they suggest a lack of originality on the part of the speaker or writer.
