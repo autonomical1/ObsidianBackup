@@ -49,4 +49,6 @@
 	- not generally acceptable for formal writing
 	- give a conversational, familiar tone
 	- can include local or regional dialects
+- **Euphemism**: more agreeable/less offensive substitute for generally unpleasant words or concepts
+	- can be used to adhere to standards of social correctness or to add humor or ironic understatement
 - 
