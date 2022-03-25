@@ -45,4 +45,7 @@
 	- Example: 
 		- This is the villain among you who deceived you, who cheated you, who meant to betray you completely...
 			- "and" is omitted
-- 
+- **Colloquial/ism**: use of slang or informalities in speech or writing
+	- not generally acceptable for formal writing
+	- give a conversational, familiar tone
+	- can include local or regional dialects
