@@ -42,3 +42,7 @@
 			- speaker is addressing the stars, the clouds, and the winds
 - **Asyndeton**: Figure of speech in which normally occurring *conjunctions* are intentionally omitted
 	- speeds up rhythm of speech
+	- Example: 
+		- This is the villain among you who deceived you, who cheated you, who meant to betray you completely...
+			- "and" is omitted
+- 
