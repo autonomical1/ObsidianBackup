@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "3b7b8bbe6446a4f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AP Government/Readings/6.5 - How People Participate in Politics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Government/Readings/6.5 - How People Participate in Politics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
+                "file": "AP Government/Readings/6.5 - How People Participate in Politics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,11 +119,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4eb1d9524ec6c6b",
+  "active": "3b7b8bbe6446a4f4",
   "lastOpenFiles": [
+    "AP Government/Readings/6.5 - How People Participate in Politics.md",
     "AP Government/AP Government Readings.md",
     "AP Government/Readings/6.4 - What Americans Value - Political Ideologies.md",
-    "AP Government/Readings/6.5 - How People Participate in Politics.md",
     "AP Government/Readings/6.6 - Understanding Public Opinion and Political Action.md",
     "AP Government/Readings/6.2 - How Americans Learn About Politics - Political Socialization.md",
     "AP Government/Readings/6.3 - Measuring Public Opinion and Political Information.md",
