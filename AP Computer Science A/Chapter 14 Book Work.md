@@ -53,10 +53,12 @@ public static int search (int[] a, int m, int n, int target) {
 Yes, it is, because the data will first need to be sorted in ascending or descending order and then input into the method
 
 11)
-a) 
+	a) T, because (20*(19))/2 = 190
+	b) T
 12)
-
+	6, 9, 10, 22, 81, 74
 13)
+	
 
 14)
 
