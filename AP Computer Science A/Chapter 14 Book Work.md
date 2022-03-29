@@ -50,10 +50,10 @@ public static int search (int[] a, int m, int n, int target) {
 	}
 ```
 10)
-
+Yes, it is, because the data will first need to be sorted in ascending or descending order and then input into the method
 
 11)
-
+a) 
 12)
 
 13)
