@@ -5,4 +5,5 @@ Purpose  - The purpose of the speech is to inspire the pilots, soldiers, and vet
 Subject - American survival; the right to live; world as a whole against another kind, making personal sacrifice for the collective good
 Tone - Colloquial
 	 uses words that audience will understand, makes clear he is one of them by repeatedly using "we", makes sure to not sound moralistic or pretentious.
+	 - 
 	
