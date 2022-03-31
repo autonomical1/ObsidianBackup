@@ -4,6 +4,6 @@ Audience - primary audience are US pilots combined with western rural Americans/
 Purpose  - The purpose of the speech is to inspire the pilots, soldiers, and veterans that are going to fight the aliens, while giving hope to the scared civilians
 Subject - American survival; the right to live; world as a whole against another kind, making personal sacrifice for the collective good
 Tone - Colloquial
-	very uplifting, uses words that audience will understand. Makes clear he is one of them by repeatedly using "we", which also makes sure he does not sound moralistic or pretentious.
-	 - 
+	Speech is very uplifting. He uses words that audience will understand, very colloquial. Makes clear he is one of them by repeatedly using "we", which also makes sure he does not sound moralistic or pretentious. he creates rhythm at points by using repetition through anaphora, only breaks anaphora at end to draw more attention to last line.
+
 	
