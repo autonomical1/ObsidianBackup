@@ -10,4 +10,8 @@
 	- L is directly proportional to both moment of inertia and angular velocity
 	- If there is no Στ on a system, the L of the system is constant
 ## Angular Momentum of an Object
-- 
+- Objects with linear momentum can also have angular momentum where angular momentum is the radius of the object multiplied by the linear momentum of the object
+	- L = rp = rp sin Θ = r(mv) sin Θ
+		- p = linear momentum
+		- r = radius
+	- 
