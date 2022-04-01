@@ -9,4 +9,5 @@
 	- L<sub>z</sub> = Iω<sub>z</sub>
 	- L is directly proportional to both moment of inertia and angular velocity
 	- If there is no Στ on a system, the L of the system is constant
+## Angular Momentum of an Object
 - 
