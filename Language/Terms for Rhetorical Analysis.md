@@ -55,4 +55,3 @@
 	- often annoying because they suggest a lack of originality on the part of the speaker or writer.
 - **Hyperbole**: deliberate exaggeration or overstatement
 	- often are comedic, but can also be serious
-- 

@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "4c7d869d853ce2a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c4178f0411b42e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "16.1 - Economic Policymaking.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b4a951f08601d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1dae8ca27e05cc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65ef884f62400927",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "115c809d0d4735d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89152b165dda2e85",
+    "type": "split",
+    "children": [
+      {
+        "id": "d467510fb3ad009f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809263a32dc61338",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "74de9808b9a04686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "16.1 - Economic Policymaking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd1ceb1bceaf974f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "16.1 - Economic Policymaking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99c4178f0411b42e",
+  "lastOpenFiles": [
+    "16.1 - Economic Policymaking.md",
+    "AP Government/AP Government Readings.md",
+    "Language/Terms for Rhetorical Analysis.md",
+    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
+    "AP Government/Readings/5.2 - African American's Civil Rights.md",
+    "AP Government/Readings/5.1 - The Struggle for Equality.md",
+    "AP Government/Readings/4.1 - The Bill of Rights.md",
+    "AP Government/Readings/4.0 - Politics in Action - Free Speech on Campus.md",
+    "AP Government/Readings/2.1 - The Origins of the Constitution.md",
+    "AP Government/Notes/Federalism and Its Delicious Flavors.md"
+  ]
+}
