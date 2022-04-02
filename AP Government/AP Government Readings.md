@@ -102,4 +102,4 @@
 # Chapter 16
 [[16.1 - Economic Policymaking]]
 
-[[16.2 -  ]]
+[[16.2 -  Types of Social Welfare Policies]]
