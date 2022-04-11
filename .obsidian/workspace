@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "4c7d869d853ce2a5",
+    "id": "1c0b59257fbfc422",
     "type": "split",
     "children": [
       {
-        "id": "d4eb1d9524ec6c6b",
+        "id": "41d6194e69851472",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AP Government/AP Government Readings.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7b4a951f08601d59",
+    "id": "ef1588457970532d",
     "type": "split",
     "children": [
       {
-        "id": "d1dae8ca27e05cc4",
+        "id": "66580198916b516c",
         "type": "tabs",
         "children": [
           {
-            "id": "65ef884f62400927",
+            "id": "11e568c773cdd51d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "115c809d0d4735d1",
+            "id": "287a173fe01a99d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "89152b165dda2e85",
+    "id": "90a1960c02226454",
     "type": "split",
     "children": [
       {
-        "id": "d467510fb3ad009f",
+        "id": "3dbc70160fd4294f",
         "type": "tabs",
         "children": [
           {
-            "id": "809263a32dc61338",
+            "id": "f0f5c3a66501fc6e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -72,12 +68,11 @@
             }
           },
           {
-            "id": "74de9808b9a04686",
+            "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +84,11 @@
             }
           },
           {
-            "id": "fd1ceb1bceaf974f",
+            "id": "bd0d63b6187ec617",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP Government/AP Government Readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,17 +101,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4eb1d9524ec6c6b",
-  "lastOpenFiles": [
-    "AP Government/AP Government Readings.md",
-    "Language/SOAPSTONE.md",
-    "AP Physics 1/Readings/Chapter 10.md",
-    "conflict-files-obsidian-git.md",
-    "Language/Terms for Rhetorical Analysis.md",
-    "Attachments/Pasted image 20220322185827.png",
-    "AP Computer Science A/Chapter 14 Book Work.md",
-    "AP Computer Science A/Chapter 13 Book Work.md",
-    "AP Government/Readings/11.3 - How Congress Is Organized to Make Policy.md",
-    "AP Government/Readings/5.2 - African American's Civil Rights.md"
-  ]
+  "active": "41d6194e69851472",
+  "lastOpenFiles": []
 }
