@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "01b88f91713eda70",
+    "id": "1c0b59257fbfc422",
     "type": "split",
     "children": [
       {
-        "id": "30e1774a907bf5eb",
+        "id": "e4d6218179870015",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Physics 1/AP Physics Readings.md",
+            "file": "AP Physics 1/Readings/Chapter 12.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "935f308120e2aad0",
+    "id": "ef1588457970532d",
     "type": "split",
     "children": [
       {
-        "id": "d802ec82f6ea7795",
+        "id": "66580198916b516c",
         "type": "tabs",
         "children": [
           {
-            "id": "7075da9c0b16037a",
+            "id": "11e568c773cdd51d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "3d9e64f101addf73",
+            "id": "287a173fe01a99d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,26 +55,46 @@
     "width": 300
   },
   "right": {
-    "id": "104fde5d06754c8a",
+    "id": "90a1960c02226454",
     "type": "split",
     "children": [
       {
-        "id": "15950ef98c5a9464",
+        "id": "3dbc70160fd4294f",
         "type": "tabs",
         "children": [
           {
-            "id": "333d6dfb5be830da",
+            "id": "f0f5c3a66501fc6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/AP Physics Readings.md",
+                "file": "AP Physics 1/Readings/Chapter 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd0d63b6187ec617",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Government/AP Government Readings.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -86,10 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30e1774a907bf5eb",
+  "active": "e4d6218179870015",
   "lastOpenFiles": [
-    "AP Physics 1/AP Physics Readings.md",
     "AP Physics 1/Readings/Chapter 12.md",
-    "AP Government/AP Government Readings.md"
+    "AP Physics 1/AP Physics Readings.md",
+    "AP Physics 1/Readings/Chapter 11.md",
+    "AP Computer Science A/Misc Book Work.md",
+    "AP Government/Readings/16.4 - Social Policy and the Needy.md",
+    "AP Government/Notes/Federalism and its delicious flavors.md",
+    "AP Government/AP Government Readings.md",
+    "conflict-files-obsidian-git.md",
+    "AP Government/Readings/16.3 - Income, Poverty, and Public Policy.md",
+    "AP Government/Readings/16.2 -  Types of Social Welfare Policies.md"
   ]
 }
