@@ -1010,7 +1010,11 @@ var require_diff_parser = __commonJS({
     var baseDiffFilenamePrefixes = ["a/", "b/", "i/", "w/", "c/", "o/"];
     function getFilename(line, linePrefix, extraPrefix) {
       var prefixes = extraPrefix !== void 0 ? __spreadArray2(__spreadArray2([], baseDiffFilenamePrefixes, true), [extraPrefix], false) : baseDiffFilenamePrefixes;
+<<<<<<< HEAD
       var FilenameRegExp = linePrefix ? new RegExp("^".concat((0, utils_1.escapeForRegExp)(linePrefix), ' "?(.+?)"?$')) : new RegExp('^"?(.+?)"?$');
+=======
+      var FilenameRegExp = linePrefix ? new RegExp("^" + (0, utils_1.escapeForRegExp)(linePrefix) + ' "?(.+?)"?$') : new RegExp('^"?(.+?)"?$');
+>>>>>>> origin/main
       var _a2 = FilenameRegExp.exec(line) || [], _b = _a2[1], filename = _b === void 0 ? "" : _b;
       var matchingPrefix = prefixes.find(function(p) {
         return filename.indexOf(p) === 0;
@@ -2950,6 +2954,7 @@ var require_render_utils = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -2957,6 +2962,11 @@ var require_render_utils = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -3092,7 +3102,11 @@ var require_render_utils = __commonJS({
     }
     exports.filenameDiff = filenameDiff;
     function getHtmlId(file) {
+<<<<<<< HEAD
       return "d2h-".concat((0, utils_1.hashCode)(filenameDiff(file)).toString().slice(-6));
+=======
+      return "d2h-" + (0, utils_1.hashCode)(filenameDiff(file)).toString().slice(-6);
+>>>>>>> origin/main
     }
     exports.getHtmlId = getHtmlId;
     function getFileIcon(file) {
@@ -3154,7 +3168,11 @@ var require_render_utils = __commonJS({
         var elemType = part.added ? "ins" : part.removed ? "del" : null;
         var addClass = changedWords.indexOf(part) > -1 ? ' class="d2h-change"' : "";
         var escapedValue = escapeForHtml(part.value);
+<<<<<<< HEAD
         return elemType !== null ? "".concat(highlightedLine2, "<").concat(elemType).concat(addClass, ">").concat(escapedValue, "</").concat(elemType, ">") : "".concat(highlightedLine2).concat(escapedValue);
+=======
+        return elemType !== null ? highlightedLine2 + "<" + elemType + addClass + ">" + escapedValue + "</" + elemType + ">" : "" + highlightedLine2 + escapedValue;
+>>>>>>> origin/main
       }, "");
       return {
         oldLine: {
@@ -3178,6 +3196,7 @@ var require_file_list_renderer = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -3185,6 +3204,11 @@ var require_file_list_renderer = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -3253,6 +3277,7 @@ var require_line_by_line_renderer = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -3260,6 +3285,11 @@ var require_line_by_line_renderer = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -3490,6 +3520,7 @@ var require_side_by_side_renderer = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -3497,6 +3528,11 @@ var require_side_by_side_renderer = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -3707,9 +3743,15 @@ var require_side_by_side_renderer = __commonJS({
         var lineClass = "d2h-code-side-linenumber";
         var contentClass = "d2h-code-side-line";
         return this.hoganUtils.render(genericTemplatesPath, "line", {
+<<<<<<< HEAD
           type: (line === null || line === void 0 ? void 0 : line.type) || "".concat(renderUtils.CSSLineClass.CONTEXT, " d2h-emptyplaceholder"),
           lineClass: line !== void 0 ? lineClass : "".concat(lineClass, " d2h-code-side-emptyplaceholder"),
           contentClass: line !== void 0 ? contentClass : "".concat(contentClass, " d2h-code-side-emptyplaceholder"),
+=======
+          type: (line === null || line === void 0 ? void 0 : line.type) || renderUtils.CSSLineClass.CONTEXT + " d2h-emptyplaceholder",
+          lineClass: line !== void 0 ? lineClass : lineClass + " d2h-code-side-emptyplaceholder",
+          contentClass: line !== void 0 ? contentClass : contentClass + " d2h-code-side-emptyplaceholder",
+>>>>>>> origin/main
           prefix: (line === null || line === void 0 ? void 0 : line.prefix) === " " ? "&nbsp;" : line === null || line === void 0 ? void 0 : line.prefix,
           content: line === null || line === void 0 ? void 0 : line.content,
           lineNumber: line === null || line === void 0 ? void 0 : line.number
@@ -4307,6 +4349,7 @@ var require_diff2html_templates = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -4314,6 +4357,11 @@ var require_diff2html_templates = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -4753,6 +4801,7 @@ var require_hoganjs_utils = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -4760,6 +4809,11 @@ var require_hoganjs_utils = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -4805,14 +4859,22 @@ var require_hoganjs_utils = __commonJS({
           var template = this.preCompiledTemplates[templateKey];
           return template.render(params, partials, indent);
         } catch (e) {
+<<<<<<< HEAD
           throw new Error("Could not find template to render '".concat(templateKey, "'"));
+=======
+          throw new Error("Could not find template to render '" + templateKey + "'");
+>>>>>>> origin/main
         }
       };
       HoganJsUtils2.prototype.template = function(namespace, view) {
         return this.preCompiledTemplates[this.templateKey(namespace, view)];
       };
       HoganJsUtils2.prototype.templateKey = function(namespace, view) {
+<<<<<<< HEAD
         return "".concat(namespace, "-").concat(view);
+=======
+        return namespace + "-" + view;
+>>>>>>> origin/main
       };
       return HoganJsUtils2;
     }();
@@ -4839,6 +4901,7 @@ var require_diff2html = __commonJS({
     var __createBinding2 = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
+<<<<<<< HEAD
       var desc = Object.getOwnPropertyDescriptor(m, k);
       if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
         desc = { enumerable: true, get: function() {
@@ -4846,6 +4909,11 @@ var require_diff2html = __commonJS({
         } };
       }
       Object.defineProperty(o, k2, desc);
+=======
+      Object.defineProperty(o, k2, { enumerable: true, get: function() {
+        return m[k];
+      } });
+>>>>>>> origin/main
     } : function(o, m, k, k2) {
       if (k2 === void 0)
         k2 = k;
@@ -4928,7 +4996,10 @@ var require_tslib = __commonJS({
     var __importDefault2;
     var __classPrivateFieldGet2;
     var __classPrivateFieldSet2;
+<<<<<<< HEAD
     var __classPrivateFieldIn2;
+=======
+>>>>>>> origin/main
     var __createBinding2;
     (function(factory) {
       var root = typeof global === "object" ? global : typeof self === "object" ? self : typeof this === "object" ? this : {};
@@ -5121,6 +5192,7 @@ var require_tslib = __commonJS({
       __createBinding2 = Object.create ? function(o, m, k, k2) {
         if (k2 === void 0)
           k2 = k;
+<<<<<<< HEAD
         var desc = Object.getOwnPropertyDescriptor(m, k);
         if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
           desc = { enumerable: true, get: function() {
@@ -5128,6 +5200,11 @@ var require_tslib = __commonJS({
           } };
         }
         Object.defineProperty(o, k2, desc);
+=======
+        Object.defineProperty(o, k2, { enumerable: true, get: function() {
+          return m[k];
+        } });
+>>>>>>> origin/main
       } : function(o, m, k, k2) {
         if (k2 === void 0)
           k2 = k;
@@ -5308,11 +5385,14 @@ var require_tslib = __commonJS({
           throw new TypeError("Cannot write private member to an object whose class did not declare it");
         return kind === "a" ? f.call(receiver, value) : f ? f.value = value : state.set(receiver, value), value;
       };
+<<<<<<< HEAD
       __classPrivateFieldIn2 = function(state, receiver) {
         if (receiver === null || typeof receiver !== "object" && typeof receiver !== "function")
           throw new TypeError("Cannot use 'in' operator on non-object");
         return typeof state === "function" ? receiver === state : state.has(receiver);
       };
+=======
+>>>>>>> origin/main
       exporter("__extends", __extends2);
       exporter("__assign", __assign2);
       exporter("__rest", __rest2);
@@ -5337,7 +5417,10 @@ var require_tslib = __commonJS({
       exporter("__importDefault", __importDefault2);
       exporter("__classPrivateFieldGet", __classPrivateFieldGet2);
       exporter("__classPrivateFieldSet", __classPrivateFieldSet2);
+<<<<<<< HEAD
       exporter("__classPrivateFieldIn", __classPrivateFieldIn2);
+=======
+>>>>>>> origin/main
     });
   }
 });
@@ -8572,6 +8655,7 @@ var init_change_working_directory = __esm({
     init_task();
   }
 });
+<<<<<<< HEAD
 function parseCommitResult(stdOut) {
   const result = {
     author: null,
@@ -8663,6 +8747,8 @@ var init_commit = __esm({
     init_task();
   }
 });
+=======
+>>>>>>> origin/main
 function hashObjectTask(filePath, write) {
   const commands = ["hash-object", filePath];
   if (write) {
@@ -9078,15 +9164,25 @@ var init_parse_remote_objects = __esm({
   }
 });
 function parseRemoteMessages(_stdOut, stdErr) {
+<<<<<<< HEAD
   return parseStringResponse({ remoteMessages: new RemoteMessageSummary() }, parsers2, stdErr);
 }
 var parsers2;
+=======
+  return parseStringResponse({ remoteMessages: new RemoteMessageSummary() }, parsers, stdErr);
+}
+var parsers;
+>>>>>>> origin/main
 var RemoteMessageSummary;
 var init_parse_remote_messages = __esm({
   "src/lib/parsers/parse-remote-messages.ts"() {
     init_utils();
     init_parse_remote_objects();
+<<<<<<< HEAD
     parsers2 = [
+=======
+    parsers = [
+>>>>>>> origin/main
       new RemoteLineParser(/^remote:\s*(.+)$/, (result, [text2]) => {
         result.remoteMessages.all.push(text2.trim());
         return false;
@@ -9117,7 +9213,11 @@ function parsePullErrorResult(stdOut, stdErr) {
 var FILE_UPDATE_REGEX;
 var SUMMARY_REGEX;
 var ACTION_REGEX;
+<<<<<<< HEAD
 var parsers3;
+=======
+var parsers2;
+>>>>>>> origin/main
 var errorParsers;
 var parsePullDetail;
 var parsePullResult;
@@ -9129,7 +9229,11 @@ var init_parse_pull = __esm({
     FILE_UPDATE_REGEX = /^\s*(.+?)\s+\|\s+\d+\s*(\+*)(-*)/;
     SUMMARY_REGEX = /(\d+)\D+((\d+)\D+\(\+\))?(\D+(\d+)\D+\(-\))?/;
     ACTION_REGEX = /^(create|delete) mode \d+ (.+)/;
+<<<<<<< HEAD
     parsers3 = [
+=======
+    parsers2 = [
+>>>>>>> origin/main
       new LineParser(FILE_UPDATE_REGEX, (result, [file, insertions, deletions]) => {
         result.files.push(file);
         if (insertions) {
@@ -9164,14 +9268,22 @@ var init_parse_pull = __esm({
       })
     ];
     parsePullDetail = (stdOut, stdErr) => {
+<<<<<<< HEAD
       return parseStringResponse(new PullSummary(), parsers3, stdOut, stdErr);
+=======
+      return parseStringResponse(new PullSummary(), parsers2, stdOut, stdErr);
+>>>>>>> origin/main
     };
     parsePullResult = (stdOut, stdErr) => {
       return Object.assign(new PullSummary(), parsePullDetail(stdOut, stdErr), parseRemoteMessages(stdOut, stdErr));
     };
   }
 });
+<<<<<<< HEAD
 var parsers4;
+=======
+var parsers3;
+>>>>>>> origin/main
 var parseMergeResult;
 var parseMergeDetail;
 var init_parse_merge = __esm({
@@ -9179,7 +9291,11 @@ var init_parse_merge = __esm({
     init_MergeSummary();
     init_utils();
     init_parse_pull();
+<<<<<<< HEAD
     parsers4 = [
+=======
+    parsers3 = [
+>>>>>>> origin/main
       new LineParser(/^Auto-merging\s+(.+)$/, (summary, [autoMerge]) => {
         summary.merges.push(autoMerge);
       }),
@@ -9200,7 +9316,11 @@ var init_parse_merge = __esm({
       return Object.assign(parseMergeDetail(stdOut, stdErr), parsePullResult(stdOut, stdErr));
     };
     parseMergeDetail = (stdOut) => {
+<<<<<<< HEAD
       return parseStringResponse(new MergeSummaryDetail(), parsers4, stdOut);
+=======
+      return parseStringResponse(new MergeSummaryDetail(), parsers3, stdOut);
+>>>>>>> origin/main
     };
   }
 });
@@ -9241,14 +9361,22 @@ function pushResultPushedItem(local, remote, status) {
     remote
   };
 }
+<<<<<<< HEAD
 var parsers5;
+=======
+var parsers4;
+>>>>>>> origin/main
 var parsePushResult;
 var parsePushDetail;
 var init_parse_push = __esm({
   "src/lib/parsers/parse-push.ts"() {
     init_utils();
     init_parse_remote_messages();
+<<<<<<< HEAD
     parsers5 = [
+=======
+    parsers4 = [
+>>>>>>> origin/main
       new LineParser(/^Pushing to (.+)$/, (result, [repo]) => {
         result.repo = repo;
       }),
@@ -9286,7 +9414,11 @@ var init_parse_push = __esm({
       return __spreadValues2(__spreadValues2({}, pushDetail), responseDetail);
     };
     parsePushDetail = (stdOut, stdErr) => {
+<<<<<<< HEAD
       return parseStringResponse({ pushed: [] }, parsers5, stdOut, stdErr);
+=======
+      return parseStringResponse({ pushed: [] }, parsers4, stdOut, stdErr);
+>>>>>>> origin/main
     };
   }
 });
@@ -9372,7 +9504,11 @@ function splitLine(result, lineStr) {
   }
   function data(index, workingDir, path3) {
     const raw = `${index}${workingDir}`;
+<<<<<<< HEAD
     const handler = parsers6.get(raw);
+=======
+    const handler = parsers5.get(raw);
+>>>>>>> origin/main
     if (handler) {
       handler(result, path3);
     }
@@ -9382,7 +9518,11 @@ function splitLine(result, lineStr) {
   }
 }
 var StatusSummary;
+<<<<<<< HEAD
 var parsers6;
+=======
+var parsers5;
+>>>>>>> origin/main
 var parseStatusSummary;
 var init_StatusSummary = __esm({
   "src/lib/responses/StatusSummary.ts"() {
@@ -9409,7 +9549,11 @@ var init_StatusSummary = __esm({
         };
       }
     };
+<<<<<<< HEAD
     parsers6 = new Map([
+=======
+    parsers5 = new Map([
+>>>>>>> origin/main
       parser2(" ", "A", (result, file) => append(result.created, file)),
       parser2(" ", "D", (result, file) => append(result.deleted, file)),
       parser2(" ", "M", (result, file) => append(result.modified, file)),
@@ -9496,7 +9640,10 @@ var init_simple_git_api = __esm({
   "src/lib/simple-git-api.ts"() {
     init_task_callback();
     init_change_working_directory();
+<<<<<<< HEAD
     init_commit();
+=======
+>>>>>>> origin/main
     init_config();
     init_grep();
     init_hash_object();
@@ -9569,7 +9716,11 @@ var init_simple_git_api = __esm({
         return this._runTask(statusTask(getTrailingOptions(arguments)), trailingFunctionArgument(arguments));
       }
     };
+<<<<<<< HEAD
     Object.assign(SimpleGitApi.prototype, commit_default(), config_default(), grep_default(), log_default());
+=======
+    Object.assign(SimpleGitApi.prototype, config_default(), grep_default(), log_default());
+>>>>>>> origin/main
   }
 });
 var scheduler_exports = {};
@@ -9670,7 +9821,11 @@ function hasBranchDeletionError(data, processExitCode) {
 }
 var deleteSuccessRegex;
 var deleteErrorRegex;
+<<<<<<< HEAD
 var parsers7;
+=======
+var parsers6;
+>>>>>>> origin/main
 var parseBranchDeletions;
 var init_parse_branch_delete = __esm({
   "src/lib/parsers/parse-branch-delete.ts"() {
@@ -9678,7 +9833,11 @@ var init_parse_branch_delete = __esm({
     init_utils();
     deleteSuccessRegex = /(\S+)\s+\(\S+\s([^)]+)\)/;
     deleteErrorRegex = /^error[^']+'([^']+)'/m;
+<<<<<<< HEAD
     parsers7 = [
+=======
+    parsers6 = [
+>>>>>>> origin/main
       new LineParser(deleteSuccessRegex, (result, [branch, hash2]) => {
         const deletion = branchDeletionSuccess(branch, hash2);
         result.all.push(deletion);
@@ -9692,7 +9851,11 @@ var init_parse_branch_delete = __esm({
       })
     ];
     parseBranchDeletions = (stdOut, stdErr) => {
+<<<<<<< HEAD
       return parseStringResponse(new BranchDeletionBatch(), parsers7, stdOut, stdErr);
+=======
+      return parseStringResponse(new BranchDeletionBatch(), parsers6, stdOut, stdErr);
+>>>>>>> origin/main
     };
   }
 });
@@ -9723,14 +9886,24 @@ var init_BranchSummary = __esm({
   }
 });
 function parseBranchSummary(stdOut) {
+<<<<<<< HEAD
   return parseStringResponse(new BranchSummaryResult(), parsers8, stdOut);
 }
 var parsers8;
+=======
+  return parseStringResponse(new BranchSummaryResult(), parsers7, stdOut);
+}
+var parsers7;
+>>>>>>> origin/main
 var init_parse_branch = __esm({
   "src/lib/parsers/parse-branch.ts"() {
     init_BranchSummary();
     init_utils();
+<<<<<<< HEAD
     parsers8 = [
+=======
+    parsers7 = [
+>>>>>>> origin/main
       new LineParser(/^(\*\s)?\((?:HEAD )?detached (?:from|at) (\S+)\)\s+([a-z0-9]+)\s(.*)$/, (result, [current, name, commit, label]) => {
         result.push(!!current, true, name, commit, label);
       }),
@@ -9871,6 +10044,80 @@ var init_clone = __esm({
     init_utils();
   }
 });
+<<<<<<< HEAD
+=======
+function parseCommitResult(stdOut) {
+  const result = {
+    author: null,
+    branch: "",
+    commit: "",
+    root: false,
+    summary: {
+      changes: 0,
+      insertions: 0,
+      deletions: 0
+    }
+  };
+  return parseStringResponse(result, parsers8, stdOut);
+}
+var parsers8;
+var init_parse_commit = __esm({
+  "src/lib/parsers/parse-commit.ts"() {
+    init_utils();
+    parsers8 = [
+      new LineParser(/^\[([^\s]+)( \([^)]+\))? ([^\]]+)/, (result, [branch, root, commit]) => {
+        result.branch = branch;
+        result.commit = commit;
+        result.root = !!root;
+      }),
+      new LineParser(/\s*Author:\s(.+)/i, (result, [author]) => {
+        const parts = author.split("<");
+        const email = parts.pop();
+        if (!email || !email.includes("@")) {
+          return;
+        }
+        result.author = {
+          email: email.substr(0, email.length - 1),
+          name: parts.join("<").trim()
+        };
+      }),
+      new LineParser(/(\d+)[^,]*(?:,\s*(\d+)[^,]*)(?:,\s*(\d+))/g, (result, [changes, insertions, deletions]) => {
+        result.summary.changes = parseInt(changes, 10) || 0;
+        result.summary.insertions = parseInt(insertions, 10) || 0;
+        result.summary.deletions = parseInt(deletions, 10) || 0;
+      }),
+      new LineParser(/^(\d+)[^,]*(?:,\s*(\d+)[^(]+\(([+-]))?/, (result, [changes, lines, direction]) => {
+        result.summary.changes = parseInt(changes, 10) || 0;
+        const count = parseInt(lines, 10) || 0;
+        if (direction === "-") {
+          result.summary.deletions = count;
+        } else if (direction === "+") {
+          result.summary.insertions = count;
+        }
+      })
+    ];
+  }
+});
+var commit_exports = {};
+__export2(commit_exports, {
+  commitTask: () => commitTask
+});
+function commitTask(message, files, customArgs) {
+  const commands = ["commit"];
+  message.forEach((m) => commands.push("-m", m));
+  commands.push(...files, ...customArgs);
+  return {
+    commands,
+    format: "utf-8",
+    parser: parseCommitResult
+  };
+}
+var init_commit = __esm({
+  "src/lib/tasks/commit.ts"() {
+    init_parse_commit();
+  }
+});
+>>>>>>> origin/main
 var diff_exports = {};
 __export2(diff_exports, {
   diffSummaryTask: () => diffSummaryTask
@@ -10300,6 +10547,16 @@ var require_git = __commonJS2({
         });
       });
     };
+<<<<<<< HEAD
+=======
+    Git2.prototype.commit = function(message, files, options, then) {
+      const next = trailingFunctionArgument2(arguments);
+      if (!filterStringOrStringArray2(message)) {
+        return this._runTask(configurationErrorTask2("git.commit: requires the commit message to be supplied as a string/string[]"), next);
+      }
+      return this._runTask(commitTask2(asArray2(message), asArray2(filterType2(files, filterStringOrStringArray2, [])), [...filterType2(options, filterArray2, []), ...getTrailingOptions2(arguments, 0, true)]), next);
+    };
+>>>>>>> origin/main
     Git2.prototype.pull = function(remote, branch, options, then) {
       return this._runTask(pullTask2(filterType2(remote, filterString2), filterType2(branch, filterString2), getTrailingOptions2(arguments)), trailingFunctionArgument2(arguments));
     };
@@ -10709,7 +10966,10 @@ function timeoutPlugin({ block }) {
           (_b2 = context.spawned.stderr) == null ? void 0 : _b2.off("data", wait3);
           context.spawned.off("exit", stop);
           context.spawned.off("close", stop);
+<<<<<<< HEAD
           timeout && clearTimeout(timeout);
+=======
+>>>>>>> origin/main
         }
         function kill() {
           stop();
@@ -10885,6 +11145,7 @@ var SimpleGit = class extends GitManager {
     return __async(this, null, function* () {
       if (this.plugin.settings.updateSubmodules) {
         this.plugin.setState(PluginState.commit);
+<<<<<<< HEAD
         yield new Promise((resolve, reject) => __async(this, null, function* () {
           this.git.outputHandler((cmd, stdout, stderr, args) => __async(this, null, function* () {
             if (!(args.contains("submodule") && args.contains("foreach")))
@@ -10916,6 +11177,9 @@ var SimpleGit = class extends GitManager {
           this.git.outputHandler(() => {
           });
         }));
+=======
+        yield this.git.subModule(["foreach", "--recursive", `git add -A && if [ ! -z "$(git status --porcelain)" ]; then git commit -m "${yield this.formatCommitMessage(message)}"; fi`], (err) => this.onError(err));
+>>>>>>> origin/main
       }
       this.plugin.setState(PluginState.add);
       yield this.git.add("-A", (err) => this.onError(err));
@@ -11913,8 +12177,12 @@ var {
   __importStar,
   __importDefault,
   __classPrivateFieldGet,
+<<<<<<< HEAD
   __classPrivateFieldSet,
   __classPrivateFieldIn
+=======
+  __classPrivateFieldSet
+>>>>>>> origin/main
 } = import_tslib.default;
 
 // src/ui/sidebar/gitView.svelte

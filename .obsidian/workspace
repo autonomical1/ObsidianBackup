@@ -14,6 +14,14 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e4d6218179870015",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -110,11 +118,12 @@
   "active": "41d6194e69851472",
   "lastOpenFiles": [
     "AP Computer Science A/Misc Book Work.md",
-    "AP Government/AP Government Readings.md",
     "AP Government/Readings/16.4 - Social Policy and the Needy.md",
+    "AP Government/Notes/Federalism and its delicious flavors.md",
+    "AP Government/AP Government Readings.md",
+    "conflict-files-obsidian-git.md",
     "AP Government/Readings/16.3 - Income, Poverty, and Public Policy.md",
     "AP Government/Readings/16.2 -  Types of Social Welfare Policies.md",
-    "AP Government/Readings/16.1 - Economic Policymaking.md",
-    "conflict-files-obsidian-git.md"
+    "AP Government/Readings/16.1 - Economic Policymaking.md"
   ]
 }
