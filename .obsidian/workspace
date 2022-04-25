@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08c8d06146462923",
+        "id": "108969a9fe56b7b3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Government/Readings/16.2 -  Types of Social Welfare Policies.md",
-            "mode": "source"
+            "file": "AP Physics 1/Readings/Chapter 12.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Government/Readings/16.2 -  Types of Social Welfare Policies.md",
+                "file": "AP Physics 1/Readings/Chapter 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +101,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "08c8d06146462923",
+  "active": "108969a9fe56b7b3",
   "lastOpenFiles": [
+    "AP Physics 1/Readings/Chapter 12.md",
+    "Language/Notes/Terms for Rhetorical Analysis.md",
+    "Language/Language.md",
+    "AP Government/AP Government Readings.md",
+    "Spanish/Spanish Final Project.md",
+    "Language/Assignments/SOAPSTONE Project.md",
     "AP Government/Readings/16.2 -  Types of Social Welfare Policies.md",
     "conflict-files-obsidian-git.md",
-    "AP Government/AP Government Readings.md",
     "AP Government/Readings/16.1 - Economic Policymaking.md",
-    "AP Government/Readings/16.3 - Income, Poverty, and Public Policy.md",
-    "AP Government/Readings/16.4 - Social Policy and the Needy.md",
-    "AP Physics 1/Readings/Chapter 11.md",
-    "Language/SOAPSTONE.md",
-    "AP Government/Readings/13.2 - Federal Expenditures.md",
-    "Language/Terms for Rhetorical Analysis.md"
+    "AP Government/Readings/16.3 - Income, Poverty, and Public Policy.md"
   ]
 }

@@ -55,3 +55,34 @@
 	- often annoying because they suggest a lack of originality on the part of the speaker or writer.
 - **Hyperbole**: deliberate exaggeration or overstatement
 	- often are comedic, but can also be serious
+- **Juxtaposition**: placement of 2 things side by side to develop *comparisons and contrasts*
+	- "It was the best of times, it was the worst of times"
+- **Epistrophe**: uses repetition of a word or phrase at the end of successive clauses or sentences
+	- _opposite of anaphora_
+- **Metonymy**: name of one object is substituted for that of another closely associated with it
+	- the substituted term carries a more potent emotional impact
+	- Examples:
+		- pen => written word
+		- sword => military aggression
+- **Synecdoche**: where a word standing for a part of something is used for the whole of that thing or vice versa
+	- can give otherwise common ideas or objects deeper meanings
+	- helps writers achieve brevity
+	- adds a distinct color to words making them appear vivid
+	- Example:
+		- "The western wave as all a-flame"
+			- "western wave" refers to the sea as one of its parts (wave)
+	- ***Difference between Synecdoche and Metonymy**
+		- metonymy - something connected to the idea being referenced
+		- synecdoche - type of metonymy but more specific
+			- refers specifically to when an actual part of something is used to represent the whole or vice versa.
+- **Parallelism**: (a.k.a. parallel construction/structure) refers to the grammatical or rhetorical framing of words, phrases, sentences, or paragraphs to give *structural similarity*
+	- creates rhythm and organization
+	- Example:
+		- Katy Perry likes fireworks, cherry lipstick, and California
+			- wrong: Katy Perry likes fireworks, to wear cherry lipstick, and living in California
+- **Paronomasia**: pun/play on words which sound alike but have different meanings
+	- using words that sound alike but differ in meaning
+	- can take several different forms
+		- *Homophonic*: use of words that sound the same (have different spellings) and have different meanings
+		- *Homographic*: The words are spelled the same but have different meanings
+		- *Recursive*: the second part of the pun depends on the first
