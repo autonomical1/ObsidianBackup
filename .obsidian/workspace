@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AP Physics 1/Readings/Chapter 12.md",
+            "file": "AP Physics 1/AP Physics Readings.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 12.md",
+                "file": "AP Physics 1/AP Physics Readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "30e1774a907bf5eb",
   "lastOpenFiles": [
-    "AP Physics 1/Readings/Chapter 12.md"
+    "AP Physics 1/AP Physics Readings.md",
+    "AP Physics 1/Readings/Chapter 12.md",
+    "AP Government/AP Government Readings.md"
   ]
 }
