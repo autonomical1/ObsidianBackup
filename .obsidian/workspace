@@ -13,6 +13,17 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "d8e305d68b5df270",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Physics 1/Readings/Chapter 12.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +97,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30e1774a907bf5eb",
+  "active": "d8e305d68b5df270",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "AP Physics 1/Readings/Chapter 12.md",
     "AP Computer Science A/Test 3 Corrections.md",
     "AP Computer Science A/Misc Book Work.md",
