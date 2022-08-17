@@ -23,3 +23,5 @@
 - A physical pendulum has its mass distributed throughout its volume. Unlike a simple pendulum, it cannot be treated as an object suspended at the end of a string of negligible mass.
 - The gravitational torque that arises when the pendulum is displaced from equilibrium provides the restoring torque that caused the pendulum to return to its equilibrium position.
 - The angular frequency, period, and frequency of a physical pendulum depend on the way its mass is distributed, the distance around the pivot point to the pendulum's center of mass, and the pendulum's rotational inertia around that point. Just as for a simple pendulum, these quantities do not depend on the amplitude of motion, for small amplitudes.
+
+pl

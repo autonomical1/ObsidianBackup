@@ -1,0 +1,73 @@
+# Bureaucracy
+- Overarching Goals and Philosohy
+		- part of exec branch
+		- goal is to implement legislation by creating actionable pol., by which laws can be enforced
+		- highly specialized and standardized
+			- individuals should be following rules and regulations to enforce laws/policy fairly
+			- individuals specialized within bureaucracy to create efficiency
+		- structured hierarchically, with thsoe at the top exertig control over those at the bottom
+			- based on merit
+			- ended patronage through Pendleton Civil Service Act
+	- Structure
+		- Primary Bureaucratic structure is department
+			- headed by secretary / attorney general (each dep has one
+				- same ppl who make up cabinet
+			- cabinets form buckets which catch large overarching sets of issues
+				- State Dept. handles foreign affairs
+				- Justice Dept. handles legal issues, and much of law enforcement
+		- Within Depts. work is further is subdivided into Agencies/Bureaus
+			- Justice Dept. handles lots of problems
+				- Customs and Immigration (ICE)
+				- National Crime (FBI)
+		- Some issues don't fit nicely into any department, therefore they exist independently
+			- Regulating stock market is unique, so SEC is created - **Independent regulatory agency**
+				- Regulate some part of the economy
+			- Space Travel is unique, so NASA does not exist inside a dept., **independent Executive Agency**
+- Important Legislation
+	- Hatch Act
+	- Pendleton Civil Service Act
+	- Clean Air Act
+	- Endangered Species Act
+	- Americans with Disablilities Act
+	- Title IX
+- Relationship between Bureaucracy and Other Branches
+	- Between Bureaucracy and President: 
+		- Direct relationship
+			- acts under presidential control
+		- Can be directly ordered around through executive orders
+		- works closely to achieve President's goals (OMB)
+	- Congress and Bureaucracy:
+		- Budget for all Bureaucracy est. by congress -> ultimate power
+		- Oversight and Investigation
+			- Subpoena (unenumerated)
+		- Confirmation of significant bureaucratic agents (nom. by President)
+	- Between Judiciary and Bureaucracy
+		- Checked by Judicial Review
+		- Implements Judicial mandates and conforms to judicial rulings (precedent)
+# Civil Rights and Liberties
+- Civil Rights are protections from unequal treatment based on a protected class
+	- guaranteed by 14th EPC
+	- Protected Classes: race, religions, sex, national origin, disability, sexual orientation
+- Civil Liberties are guarantees in the Bill of Rights, which ensure individual's ability to act/behave in a certain way
+	- Freedom of Speech, Religion, Privacy
+- Judiciary is Primary means of protecting CRCLs
+- Cls guaranteed through selective incorp
+- courts also create rules and tests
+- done through Judicial Review
+- Free Speech
+	- Guaranteed in 1st Am.
+	- Right to say what they want without censorship
+	- limited in many cases
+- Freedom of the Press
+	- Media outlets have the right to say what they believe without fear of repercussion
+	- restrictions
+		- libel and prior restraint
+- 4th am. 
+	- no unwarranted search and seizure
+	- exclusionary rule
+- penumbra
+	- 1, 3, 4, 5, 9
+	- expanded on roe v wade
+- Women's right saw fewer legislative steps than AfAms
+- ongoing issues w sexual harrassment and workplace/educational discrimination
+- 
