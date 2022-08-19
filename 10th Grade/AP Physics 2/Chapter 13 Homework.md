@@ -1,5 +1,6 @@
 (3)
-	- 
+	- First, using a scale or balance, find the mass of the object.
+	- Then, fill a adequately sized box that 
 
 7.
 
