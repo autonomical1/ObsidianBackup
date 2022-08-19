@@ -1,4 +1,4 @@
-(3)
+A(3)
 	- First, using a scale or balance, find the mass of the object.
 	- Then, fill an adequately sized parcel with measurements with water, and record the initial volume of the water in the container.
 	- Place the unknown object inside of the parcel, and record the final volume of the water in the container.
@@ -18,7 +18,7 @@
 	- B would be the least dense of the 3 boxes because it displaces the least amount of fluid.
 
 (24)
-	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much its density
+	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much the volume divided by the density is. In Beaker B, the sphere would displace the same amount of liquid as its weight as known from Archemedes' Principle, so  
 
 27.
 
