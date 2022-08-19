@@ -18,9 +18,10 @@ A(3)
 	- B would be the least dense of the 3 boxes because it displaces the least amount of fluid.
 
 (24)
-	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much the volume divided by the density is. In Beaker B, the sphere would displace the same amount of liquid as its weight as known from Archemedes' Principle, so  
+	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much the volume divided by the density is. In Beaker B, the sphere would displace the same amount of liquid as its weight as known from Archemedes' Principle, so the water without the sphere may not reach the same height, because it doesn't have the weight of the object displacing some of it. 
 
-27.
+(27)
+	- 
 
 29.
 
