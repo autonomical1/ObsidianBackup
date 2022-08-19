@@ -18,7 +18,7 @@
 	- B would be the least dense of the 3 boxes because it displaces the least amount of fluid.
 
 (24)
-	- 
+	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much its density
 
 27.
 
