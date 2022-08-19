@@ -13,7 +13,8 @@
 	- E would have the least pressure because it is at the highest point of the fluid.
 
 (15)
-	- A would have be the most dense becau
+	- A would have be the most dense because it displaces more water compared to its weight
+	- C would be the 2nd most dense object in the liquid because it displaces half of 
 
 24.
 
