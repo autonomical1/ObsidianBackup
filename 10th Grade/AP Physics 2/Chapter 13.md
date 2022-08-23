@@ -12,6 +12,7 @@
 
 [[13.5 - Fluids In Motion]]
 
+[[13.6 - Fluid Dynamics]]
 
 # Homework
 [[Chapter 13 Homework]]
