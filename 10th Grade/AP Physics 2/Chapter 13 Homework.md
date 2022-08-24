@@ -26,7 +26,8 @@
 29.
 	- 1, 3, 2, 4
 	- (a) This is because speed is the largest when the tube is at its narrowest. Since 1 is the most narrow, and 4 is the widest, their speeds also correlate.
-	- (b) Since pressure is inversely proportional to speed, as speed decreases, pressure increases, so the slowest point would have the most pressure, and the fastest point would have the least pressure. This would 
+	- (b) Since pressure is inversely proportional to speed, as speed decreases, pressure increases, so the slowest point would have the most pressure, and the fastest point would have the least pressure. This would result in 4 having the most pressure, then 2, then 3, then 1.
+
 31.
 
 33.
