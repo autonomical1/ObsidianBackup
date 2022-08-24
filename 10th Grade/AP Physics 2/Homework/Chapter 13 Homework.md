@@ -29,12 +29,13 @@
 	- (b) Since pressure is inversely proportional to speed, as speed decreases, pressure increases, so the slowest point would have the most pressure, and the fastest point would have the least pressure. This would result in 4 having the most pressure, then 2, then 3, then 1.
 
 31.
-	- There is air flow through the house. Since the wind is above the house (specifically above the chimney), the speed of the air would send some down the chimney, which would make its way throughout the house, and move the rest of the air into the
+	- There is air flow through the house. Since the wind is above the house (specifically above the chimney), the speed of the air would send some down the chimney, which would make its way throughout the house, and move the rest of the air out of the window.
+
 33.
-
+	- C. This is because even though the densities are the different, the masses are the same, so both blocks displace the same amount of water.
 34.
-
+	 - C.
 36.
-
+ - 
 37.
 
