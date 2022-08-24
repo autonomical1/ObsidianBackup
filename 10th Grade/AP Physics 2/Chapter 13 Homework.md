@@ -21,10 +21,11 @@ A(3)
 	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much the volume divided by the density is. In Beaker B, the sphere would displace the same amount of liquid as its weight as known from Archemedes' Principle, so the water without the sphere may not reach the same height, because it doesn't have the weight of the object displacing some of it. 
 
 (27)
-	- I would rank the speeds of the gas at the highest bei
+	- I would rank the speeds of the gas at the highest being at 3, then the 2nd highest being at 1, and the slowest being at 2. This is because when fluids move at a high speed, the pressure decreases, and when fluids move at a low speed, the pressure increases. These tubes are also known as Ventari tubes which show the speeds of fluids based on how much they flow. Since the tube at point 2 is the highest, it must have the most pressure, which means that it must have the least speed.
 
 29.
-
+	- 1, 3, 2, 4
+	- This is because 
 31.
 
 33.
