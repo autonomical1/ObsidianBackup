@@ -35,7 +35,10 @@
 	- C. This is because even though the densities are the different, the masses are the same, so both blocks displace the same amount of water.
 34.
 	 - C.
+
 36.
- - 
+	- B
+
 37.
+	- C
 
