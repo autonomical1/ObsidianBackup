@@ -1,4 +1,4 @@
-A(3)
+(3)
 	- First, using a scale or balance, find the mass of the object.
 	- Then, fill an adequately sized parcel with measurements with water, and record the initial volume of the water in the container.
 	- Place the unknown object inside of the parcel, and record the final volume of the water in the container.
@@ -25,7 +25,8 @@ A(3)
 
 29.
 	- 1, 3, 2, 4
-	- This is because 
+	- (a) This is because speed is the largest when the tube is at its narrowest. Since 1 is the most narrow, and 4 is the widest, their speeds also correlate.
+	- (b) Since pressure is inversely proportional to speed, as speed decreases, pressure increases, so the slowest point would have the most pressure, and the fastest point would have the least pressure. This would 
 31.
 
 33.
