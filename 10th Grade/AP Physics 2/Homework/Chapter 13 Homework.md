@@ -29,7 +29,7 @@
 	- (b) Since pressure is inversely proportional to speed, as speed decreases, pressure increases, so the slowest point would have the most pressure, and the fastest point would have the least pressure. This would result in 4 having the most pressure, then 2, then 3, then 1.
 
 31.
-
+	- There is air flow through the house. Since the wind is above the house (specifically above the chimney), the speed of the air would send some down the chimney, which would make its way throughout the house, and move the rest of the air into the
 33.
 
 34.
