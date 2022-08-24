@@ -21,7 +21,7 @@ A(3)
 	- Both beakers weigh the same. This is because in Beaker A, the water weighs however much the volume divided by the density is. In Beaker B, the sphere would displace the same amount of liquid as its weight as known from Archemedes' Principle, so the water without the sphere may not reach the same height, because it doesn't have the weight of the object displacing some of it. 
 
 (27)
-	- 
+	- I would rank the speeds of the gas at the highest bei
 
 29.
 
