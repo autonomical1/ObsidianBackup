@@ -6,5 +6,6 @@
     "downscalePercent": 100
   },
   "legacyEditor": false,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false
 }

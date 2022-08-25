@@ -1,4 +1,4 @@
-[[[AP Physics 2]]]
+[[AP Physics 2]]
 
 (3)
 	- First, using a scale or balance, find the mass of the object.
