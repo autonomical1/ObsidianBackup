@@ -10,4 +10,4 @@ The way that the author does not elaborate on how the NRA criticizes the stateme
 (147)
 
 # Personal Response
-I 
+My personal takeaway from this article is that it is an important rule that needs to be put into place, just because the build-at-home kits for guns is an insanely dangerous device that must be put into check. It allowed me to understand what a ghost gun is and why it must be restricted. It does elicit an emotional response because guns that cannot be tracked are one of the most dangerous things in our society, as well as its involvement with the Uvalde crisis. I knew that the Biden administratio
