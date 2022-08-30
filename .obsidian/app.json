@@ -7,5 +7,6 @@
   },
   "legacyEditor": false,
   "attachmentFolderPath": "Attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
