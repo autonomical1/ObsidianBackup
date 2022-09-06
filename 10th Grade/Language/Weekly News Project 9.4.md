@@ -3,4 +3,4 @@ Steve Hanke, a professor of applied economics at Johns Hopkins University, has d
 # Analysis
 The purpose of this article is to inform the readers about what Steve Hanke said about the United States having a recession. The author uses many quotes from their source (Steve Hanke), which indicates that the views that they are portraying are not their own. They are only presenting the information to focus on the fact that inflation will cause a massive recession.
 # Personal Response
-My personal takeaway from this article is that a recession, which is normal, but still bad for the economy, is coming 
+My personal takeaway from this article is that a recession, which is normal, but still bad for the economy, is coming. I believe Steve Hanke, because he is a credible person, due to the fact that he studies applied economics at a renowned university. The article also allowed me to understand why Hanke was able to deduce the fact that a recession is coming, based on a metric known as M2, which measures total money supply and future inflation.
