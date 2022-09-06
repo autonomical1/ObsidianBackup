@@ -2,4 +2,4 @@
 # [[11.3 - Temprature, Thermal Energy, and Heat]]
 # [[11.4 - The First Law of Thermodynamics]]
 # [[11.7 - Entropy and the Second Law of Thermodynamics]]
-# [[11.8]]
+# [[11.8 - Systems, Energy, and Entropy]]
