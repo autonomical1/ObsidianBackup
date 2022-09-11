@@ -3,4 +3,4 @@ The main cause of the housing recession is rising mortgage rates, which caused m
 # Analysis
 The author has no apparent bias due to the fact that this is more of a fact-based piece. They cite lots of information from credible sources like Realtor.com and many other reputable financial firms. They use a lot of numerical data, including percentage drops and increases over time, which tends to increase the reader's confidence in the data, since it is pulled from reputable sources like the U.S. Census, and many practicing economists. 
 # Personal Response
-My personal takeaway from this article is that 
+My personal takeaway from this article is that the housing market is going into a recession, but it has been increasingly better in prices. I don't really relate to the article, just because firstly, I don't put interest into other homes, because I am not a homeowner, and secondly, because I am not looking to buy or sell a house.  
