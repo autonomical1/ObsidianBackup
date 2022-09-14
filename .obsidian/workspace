@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2a0a2771f8c19bc2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10th Grade/AP Physics 2/Chapter 20.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "dd368adda1badd68",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10th Grade/AP Physics 2/Homework/20.1 - Charges and Forces.md",
+            "file": "10th Grade/AP Physics 2/Chapter 20.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/20.1 - Charges and Forces.md",
+                "file": "10th Grade/AP Physics 2/Chapter 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11e568c773cdd51d",
+  "active": "dd368adda1badd68",
   "lastOpenFiles": [
+    "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
     "10th Grade/AP Physics 2/Chapter 20.md",
     "10th Grade/AP Physics 2/Chapter 13.md",
     "10th Grade/AP Physics 2/Chapter 12.md",
@@ -129,7 +118,6 @@
     "10th Grade/AP Physics 2/Notes/13.3 - Measuring and Using Pressure.md",
     "9th Grade/16.4 - Social Policy and the Needy.md",
     "10th Grade/AP Physics 2/Notes/11.8 - Systems, Energy, and Entropy.md",
-    "10th Grade/AP Physics 2/Notes/12.8 - Heat Transfer.md",
-    "10th Grade/AP Physics 2/Notes/12.3 - Ideal Gas Processes.md"
+    "10th Grade/AP Physics 2/Notes/12.8 - Heat Transfer.md"
   ]
 }
