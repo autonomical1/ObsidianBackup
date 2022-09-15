@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adiabatic",
+                "query": "isotherm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0756cb7a15fb7f8d",
+  "active": "287a173fe01a99d4",
   "lastOpenFiles": [
     "10th Grade/AP Physics 2/Notes/12.2 - The Atomic Model of an Ideal Gas.md",
     "10th Grade/AP Physics 2/Notes/12.3 - Ideal Gas Processes.md",
