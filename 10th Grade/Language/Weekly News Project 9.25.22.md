@@ -1,4 +1,5 @@
 # Summary
-Boeing's former chief executive Dennis Muilenburg is being fined $1,000,000, and the company itself is being charged $200,000,000 for putting out misleading statements surrounding the 737 Max crashes. The crashes that occured between 2019 and 2020 were due to a malfunction in the MCAS, or Maneuvering Characteristics Augmentation System (MCAS). The company and then for
+Boeing's former chief executive Dennis Muilenburg is being fined $1,000,000, and the company itself is being charged $200,000,000 by the SEC for putting out misleading statements surrounding the 737 Max crashes. The crashes that occured between 2019 and 2020 were due to a malfunction in the MCAS, or Maneuvering Characteristics Augmentation System (MCAS). The company and then former chief assured the public that the certification process for the MCAS was foolproof, and there shouldn't have been any kind of mishaps related to it.
 # Analysis
+The way the writer wrote this article is very unbiased towards both any government entity and Boeing. They present their facts in an impartial way, by only providing direct quotes from interviews, and statistics from known public data. 
 # Personal Response
