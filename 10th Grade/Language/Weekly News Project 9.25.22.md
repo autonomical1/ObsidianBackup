@@ -3,4 +3,4 @@ Boeing's former chief executive Dennis Muilenburg is being fined $1,000,000, and
 # Analysis
 The way the writer wrote this article is very unbiased towards both any government entity and Boeing. They present their facts in an impartial way, by only providing direct quotes from interviews, and statistics from known public data. The purpose of the article is to inform the public about the mishaps of Boeing and its former chief executive. The intended audience is people with an inert interest in aviation, as well as investors who may have money put into Boeing. 
 # Personal Response
-I am personally unaffected by the 
+My personal takeaway from this article is that investors have lost a large amount of money, due to the problems that have arisen from Boeing's questionable choices in presenting information about the problems in the 737 Max. This does indirectly affect me, since Boeing is very promienen
