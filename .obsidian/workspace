@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "958ff0643d65b37e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 20.md",
+                "file": "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +119,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a41a10800f63a1ce",
+  "active": "958ff0643d65b37e",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/20.4 -  The Concept of the Electric Field.md",
     "10th Grade/AP Physics 2/Chapter 20.md",
+    "10th Grade/AP Physics 2/Notes/20.4 -  The Concept of the Electric Field.md",
     "10th Grade/AP Physics 2/Notes/20.3 - Coulomb's Law.md",
     "10th Grade/AP Physics 2/Notes/20.2 - Charges, Atoms, and Molecules.md",
     "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
