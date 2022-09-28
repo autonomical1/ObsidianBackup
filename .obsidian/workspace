@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
+            "file": "10th Grade/AP Physics 2/Chapter 20.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4b214caac7d998a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20.5 - Applications of the Electric Field.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
+                "file": "20.5 - Applications of the Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +119,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "958ff0643d65b37e",
+  "active": "11e568c773cdd51d",
   "lastOpenFiles": [
     "10th Grade/AP Physics 2/Chapter 20.md",
     "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
