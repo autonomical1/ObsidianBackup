@@ -122,4 +122,5 @@ chapter 21
 		- $\Delta V = E d$
 	- SI Unit: Volt (V)
 		- 1 V = 1 $\frac{J}{C}$
-		- 
+	- New Unit for E:
+		-  E = $\frac{N}{C}$ * $
