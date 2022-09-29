@@ -50,7 +50,7 @@
 	- 2 charges of equal magnitude and opposite sign
 **Coulomb's Law**: describes the electric force between 2 charges
 	- electostatic force between 2 point charges:
-		- F<sub>E</sub> = k<sub>E</sub> $\frac{q1q2}{r^2}$
+		- $F_E = k_E$ $\frac{q1q2}{r^2}$
 		- Direction of force along the line segment connecting charges
 		- like charges, force is repellent
 		- opposite charges, force is attractive
@@ -106,4 +106,5 @@
 chapter 21
 
 **Potential Energy:**
-- All conservative forces 
+- All conservative forces have potential energy function
+- Recall, Work-Energy Theorem: 
