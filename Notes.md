@@ -101,3 +101,9 @@
 
 **Charge in a Cavity**:
 - $\overrightarrow{E}$ = 0 in the conductor and $\overrightarrow{E}$ < 0 inside cavity because mirror charges are created
+
+---------------------------------------------------------
+chapter 21
+
+**Potential Energy:**
+- All conservative forces 
