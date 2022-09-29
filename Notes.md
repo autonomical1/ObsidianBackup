@@ -107,4 +107,4 @@ chapter 21
 
 **Potential Energy:**
 - All conservative forces have potential energy function
-- Recall, Work-Energy Theorem: 
+- Recall, Work-Energy Theorem: $\Delta E = W_{ext}$. If speed is constant, $\Delta K = 0$, so $\Delta E = \Delta U = W_{ext}$
