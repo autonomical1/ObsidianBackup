@@ -110,4 +110,5 @@ chapter 21
 - Recall, Work-Energy Theorem: $\Delta E = W_{ext}$. If speed is constant, $\Delta K = 0$, so $\Delta E = \Delta U = W_{ext}$
 
 **Potential Energy in an $\overrightarrow{E}$ field:
+- Parallel-plate capacitor:
 - 
