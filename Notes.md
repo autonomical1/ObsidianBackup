@@ -126,4 +126,6 @@ chapter 21
 		-  E = $\frac{N}{C} * \frac{m}{m}$
 		- $E = \frac{J}{C * m}$
 		- * * * $E = \frac{V}{m}$
-		- 
+	- New Unit of Energy:
+		- $\Delta U_E = q_0 \Delta V$
+		- For an electron, $q_0 = e = 1.6 * 10^-19$ $C$ and $\Delta V  
