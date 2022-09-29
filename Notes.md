@@ -128,4 +128,6 @@ chapter 21
 		- * * * $E = \frac{V}{m}$
 	- New Unit of Energy:
 		- $\Delta U_E = q_0 \Delta V$
-		- For an electron, $q_0 = e = 1.6 * 10^-19$ $C$ and $\Delta V  
+		- For an electron, $q_0 = e = 1.6 * 10^-19$ $C$ and $\Delta V = 1 V$ and then, $\Delta U_E = (1.6 * 10^19 C)(1V) = 1.6 * 10^-19 J$
+		- Define the electron-volt as $1eV = 1.6 * 10^-19 J$
+		- 
