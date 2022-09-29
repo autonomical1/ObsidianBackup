@@ -123,4 +123,7 @@ chapter 21
 	- SI Unit: Volt (V)
 		- 1 V = 1 $\frac{J}{C}$
 	- New Unit for E:
-		-  E = $\frac{N}{C}$ * $
+		-  E = $\frac{N}{C} * \frac{m}{m}$
+		- $E = \frac{J}{C * m}$
+		- * * * $E = \frac{V}{m}$
+		- 
