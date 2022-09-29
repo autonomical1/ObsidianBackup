@@ -118,4 +118,8 @@ chapter 21
 - Define the electric potential $V$, as follows: 
 	- $\Delta V = \frac{\Delta U_E}{q_0}$
 	- For uniform $\overrightarrow{E}$: $\Delta U_E = q_0 E d$ 
-		- $\Delta V = \frac
+		- $\Delta V = \frac{q_0 E d}{q_0}$ 
+		- $\Delta V = E d$
+	- SI Unit: Volt (V)
+		- 1 V = 1 $\frac{J}{C}$
+		- 
