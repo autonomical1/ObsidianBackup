@@ -112,4 +112,6 @@ chapter 21
 **Potential Energy in an $\overrightarrow{E}$ field:
 - Parallel-plate capacitor:
 - $W_{ext} = F_{ext} * \Delta X$ where $F_{ext} = F_E = q_0 E$
-- 
+
+**Electric Potential**:
+- Want to develop a quantity that is independednt of the test charge, $q_0
