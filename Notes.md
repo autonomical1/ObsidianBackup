@@ -114,4 +114,8 @@ chapter 21
 - $W_{ext} = F_{ext} * \Delta X$ where $F_{ext} = F_E = q_0 E$
 
 **Electric Potential**:
-- Want to develop a quantity that is independednt of the test charge, $q_0
+- Want to develop a quantity that is independent of the test charge, $q_0$
+- Define the electric potential $V$, as follows: 
+	- $\Delta V = \frac{\Delta U_E}{q_0}$
+	- For uniform $\overrightarrow{E}$: $\Delta U_E = q_0 E d$ 
+		- $\Delta V = \frac
