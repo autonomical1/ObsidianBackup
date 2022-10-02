@@ -16,6 +16,7 @@
 	a) Yes. It is closer to the 10 nC charge.
 	b) Yes. It is closer to the -20 nC charge.
 23)
-	
+	B. This is because both of the charges are positive, so the net dipole of both of the charges is larger than a dipole with a positive and negative charge.
 27)
+	
 29)
