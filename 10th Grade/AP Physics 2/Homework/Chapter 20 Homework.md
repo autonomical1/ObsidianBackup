@@ -1,5 +1,5 @@
 2)
-	A) 
+	A) The glass rod will be attracted to the object, because silk takes away the free electrons 
 6)
 11)
 15)
