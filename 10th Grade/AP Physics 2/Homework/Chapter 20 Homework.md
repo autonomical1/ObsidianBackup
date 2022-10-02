@@ -8,6 +8,8 @@
 15)
 	The electric field inside the straw will be 0, because the electric forces all around the straw cancel out.
 18)
+	a) 3$\overrightarrow{E}_1$
+	b) 3$\overrightarrow{E}_1$
 	
 21)
 23)
