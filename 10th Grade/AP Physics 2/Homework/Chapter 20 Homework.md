@@ -15,7 +15,6 @@
 21)
 	a) Yes. It is closer to the 10 nC charge.
 	b) Yes. It is closer to the -20 nC charge.
-
 23)
 27)
 29)
