@@ -10,8 +10,12 @@
 18)
 	a) 3$\overrightarrow{E}_1$
 	b) 3$\overrightarrow{E}_1$
-	
+	c) 4$\overrightarrow{E}_1$
+	d) -4$\overrightarrow{E}_1$
 21)
+	a) Yes. It is closer to the 10 nC charge.
+	b) Yes. It is closer to the -20 nC charge.
+
 23)
 27)
 29)
