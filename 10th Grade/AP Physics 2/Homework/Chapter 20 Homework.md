@@ -18,5 +18,5 @@
 23)
 	B. This is because both of the charges are positive, so the net dipole of both of the charges is larger than a dipole with a positive and negative charge.
 27)
-	
+	- $$F_{E}= k_{E}{q_1q_{2}$$
 29)
