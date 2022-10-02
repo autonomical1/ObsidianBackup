@@ -8,5 +8,6 @@
   "legacyEditor": false,
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
 }
