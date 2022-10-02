@@ -50,7 +50,7 @@
 	- 2 charges of equal magnitude and opposite sign
 **Coulomb's Law**: describes the electric force between 2 charges
 	- electostatic force between 2 point charges:
-		- F<sub>E</sub> = k<sub>E</sub> $\frac{q1q2}{r^2}$
+		- $F_E = k_E$ $\frac{q1q2}{r^2}$
 		- Direction of force along the line segment connecting charges
 		- like charges, force is repellent
 		- opposite charges, force is attractive
@@ -101,3 +101,33 @@
 
 **Charge in a Cavity**:
 - $\overrightarrow{E}$ = 0 in the conductor and $\overrightarrow{E}$ < 0 inside cavity because mirror charges are created
+
+---------------------------------------------------------
+chapter 21
+
+**Potential Energy:**
+- All conservative forces have potential energy function
+- Recall, Work-Energy Theorem: $\Delta E = W_{ext}$. If speed is constant, $\Delta K = 0$, so $\Delta E = \Delta U = W_{ext}$
+
+**Potential Energy in an $\overrightarrow{E}$ field:
+- Parallel-plate capacitor:
+- $W_{ext} = F_{ext} * \Delta X$ where $F_{ext} = F_E = q_0 E$
+
+**Electric Potential**:
+- Want to develop a quantity that is independent of the test charge, $q_0$
+- Define the electric potential $V$, as follows: 
+	- $\Delta V = \frac{\Delta U_E}{q_0}$
+	- For uniform $\overrightarrow{E}$: $\Delta U_E = q_0 E d$ 
+		- $\Delta V = \frac{q_0 E d}{q_0}$ 
+		- $\Delta V = E d$
+	- SI Unit: Volt (V)
+		- 1 V = 1 $\frac{J}{C}$
+	- New Unit for E:
+		-  E = $\frac{N}{C} * \frac{m}{m}$
+		- $E = \frac{J}{C * m}$
+		- * * * $E = \frac{V}{m}$
+	- New Unit of Energy:
+		- $\Delta U_E = q_0 \Delta V$
+		- For an electron, $q_0 = e = 1.6 * 10^-19$ $C$ and $\Delta V = 1 V$ and then, $\Delta U_E = (1.6 * 10^19 C)(1V) = 1.6 * 10^-19 J$
+		- Define the electron-volt as $1eV = 1.6 * 10^-19 J$
+		- 
