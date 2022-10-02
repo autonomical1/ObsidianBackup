@@ -23,5 +23,6 @@
 	- $$q_{2} = -2.0 nC = -2\times10^{-9} C$$
 	- $$r = 1.5 cm = 0.015m$$
 	- $$F_{E}= (9.0\times10^{9}\frac{N\times m^2}{C^{2}})\frac{(9\times10^{-9}C)(-2\times10^{-9}C)}{(0.015 m)^{2}}$$
-	- $$F_{E}= -7.2\times10^{-4}  $$
+	- $$F_{E}= -7.2\times10^{-4} \frac{N\times C}{m^2} $$
 29)
+	A. It will rotate in a clockwise direction because even though the dipole is electric
