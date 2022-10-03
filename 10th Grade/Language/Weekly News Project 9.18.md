@@ -1,3 +1,7 @@
+Title:
+Source:
+Date Published:
+Date Printed: 
 
 
 # Summary
