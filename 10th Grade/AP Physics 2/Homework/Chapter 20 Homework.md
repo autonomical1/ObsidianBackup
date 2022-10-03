@@ -32,17 +32,14 @@
 	a) Electrons were transferred between the rod and the sphere. They went from the sphere to the rod, because the rod's total electric charge went down. 
 	b) Since $1 C = 6.24\times10^{18} e^-$, and the total transfer of electric charge is 4 C, there were $2.496\times10^{19}$ $e^-$ transferred.
 9)
-	a)
-	b)
-12)
+	a)![[Pasted image 20221002202954.png]]
+	b)![[Pasted image 20221002203010.png]]
+12)![[Pasted image 20221002203028.png]]
 15)
 	There will also be no net electric force on $q_1$ because it has the same magnitude and same charge as $q_2$.
-19)
-24)
-29)
-31)
+19)![[Pasted image 20221002203037.png]]
+24)![[Pasted image 20221002203102.png]]
+29)![[Pasted image 20221002203055.png]]
+31)![[Pasted image 20221002203109.png]]
 32)
-	a)
-	b)
-	c)
-	
+	![[Pasted image 20221002203115.png]]
