@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "331027b51e62ec5c",
+        "id": "57706dfd98cb4d3e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10th Grade/Language/Weekly News Project 10.2.22.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "36a75efc4a7084ec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "10th Grade/Language/Weekly News Project 9.25.22.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/Language/Weekly News Project 10.2.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +102,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "331027b51e62ec5c",
+  "active": "57706dfd98cb4d3e",
   "lastOpenFiles": [
-    "10th Grade/Language/Weekly News Project 9.25.22.md",
     "10th Grade/Language/Weekly News Project 10.2.22.md",
+    "10th Grade/Language/Weekly News Project 9.25.22.md",
     "10th Grade/Language/Untitled.md",
     "10th Grade/Language/Weekly News Project 9.18.md",
     "10th Grade/Language/American consumers.md",
