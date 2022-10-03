@@ -28,5 +28,6 @@
 	A. It will rotate in a clockwise direction because even though the dipole is electrically neutral, they still have an electric field due to the charges being separated. Since like charges repel and opposite charges attract, the + charge will move to the right, and the - charge will move to the left, resulting in a clockwise movement. 
 
 # Problems
-2)
-	a) Electrons were added to the rod, because the 
+5)
+9)
+12
