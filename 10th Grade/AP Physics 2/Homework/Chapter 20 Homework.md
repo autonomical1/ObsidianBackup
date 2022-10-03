@@ -23,7 +23,7 @@
 	- $$q_{2} = -2.0 nC = -2\times10^{-9} C$$
 	- $$r = 1.5 cm = 0.015m$$
 	- $$F_{E}= (9.0\times10^{9}\frac{N\times m^2}{C^{2}})\frac{(9\times10^{-9}C)(-2\times10^{-9}C)}{(0.015 m)^{2}}$$
-	- $$F_{E}= -7.2\times10^{-4} \frac{N\times C}{m^2} $$
+	- $$F_{E}= -7.2\times10^{-4} N $$
 29)
 	A. It will rotate in a clockwise direction because even though the dipole is electrically neutral, they still have an electric field due to the charges being separated. Since like charges repel and opposite charges attract, the + charge will move to the right, and the - charge will move to the left, resulting in a clockwise movement. 
 
@@ -32,7 +32,7 @@
 	a) Electrons were transferred between the rod and the sphere. They went from the sphere to the rod, because the rod's total electric charge went down. 
 	b) Since $1 C = 6.24\times10^{18} e^-$, and the total transfer of electric charge is 4 C, there were $2.496\times10^{19}$ $e^-$ transferred.
 9)
-	a)$$F_{E}= k_{E} \frac{q_{1}q_{2}}{r^{2}}$$$$F_{E}= (9.0\times10^{9})\frac{N\times m^{2}{C^{2}})(+1\times10^{-12}C)^{2}}{(1m)^{2}}$$$$F_{E}= 9\times10^{-15} \frac{N\times C}{m^2}$$
+	a)$$F_{E}= k_{E} \frac{q_{1}q_{2}}{r^{2}}$$$$F_{E}= (9.0\times10^{9} \frac{N\times m^{2}{C^{2}})\frac{(+1\times10^{-12}C)^{2}{(1m)^{2}}$$$$F_{E}= 9\times10^{-15} \frac{N\times C}{m^2}$$
 	b)
 12)
 15)
