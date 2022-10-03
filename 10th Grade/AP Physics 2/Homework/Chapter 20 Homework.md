@@ -19,7 +19,7 @@
 21)
 	a) Yes. It is closer to the 10 nC charge.
 	b) --Yes. It is closer to the -20 nC charge.--
-		The contributions from the two charges are in the same direction on the line between the charges, so there is no point between them at which the fields cancel each other.
+		The contributions from the two charges are in the same direction on the line between the charges, so there is nut forceno point between them at which the fields cancel each other.
 23)
 	B. This is because both of the charges are positive, so the net dipole of both of the charges is larger than a dipole with a positive and negative charge.
 27)
