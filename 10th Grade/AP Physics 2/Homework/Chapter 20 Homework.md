@@ -30,9 +30,10 @@
 # Problems
 5)
 	a) Electrons were transferred between the rod and the sphere. They went from the sphere to the rod, because the rod's total electric charge went down. 
-	b) Since $1 C = 6.24\times$
+	b) Since $1 C = 6.24\times10^{18} e^-$, and the total transfer of electric charge is 4 C, there were $2.496\times10^{19}$ $e^-$ transferred.
 9)
 	a)
+		
 	b)
 12)
 15)
