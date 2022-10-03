@@ -36,6 +36,7 @@
 	b)
 12)
 15)
+	There will also be no net electric force on $q_1$ because it has the same magnitude and same charge as $q_2$.
 19)
 24)
 29)
