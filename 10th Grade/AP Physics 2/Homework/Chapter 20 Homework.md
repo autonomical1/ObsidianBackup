@@ -29,8 +29,8 @@
 
 # Problems
 5)
-	a)
-	b)
+	a) Electrons were transferred between the rod and the sphere. They went from the sphere to the rod, because the rod's total electric charge went down. 
+	b) Since $1 C = 6.24\times$
 9)
 	a)
 	b)
@@ -41,3 +41,7 @@
 29)
 31)
 32)
+	a)
+	b)
+	c)
+	
