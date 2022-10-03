@@ -32,12 +32,9 @@
 	a) Electrons were transferred between the rod and the sphere. They went from the sphere to the rod, because the rod's total electric charge went down. 
 	b) Since $1 C = 6.24\times10^{18} e^-$, and the total transfer of electric charge is 4 C, there were $2.496\times10^{19}$ $e^-$ transferred.
 9)
-	a)$$F_{E}= k_{E} \frac{q_{1}q_{2}}{r^{2}}$$$$F_{E}= (9.0\times10^{9} \frac{N\times m^2}{C^2})
-	\frac{(+1\times10^{-12}C)^{2}}{1m^{2}}$$$$F_{E}= 9\times10^{-15} N$$
-	b) $$F = ma$$$$a = \frac{F}{m}$$ $$a = (9\times10^{-15}N)/1kg$$$$a = 9.0\times10^{-15} \frac{m}{s^{2}}$$
+	a)
+	b)
 12)
-	$$F_{E}= k_{E}\frac{q_{1}q_{2}}{r_{2}}$$ $$q_{1}q_{2} = \frac{F_E}{k_{E}r_{2}}$$ $$q_{1}q_{2} = \frac{5.4\times10^{-4}N}{(9.0\times10^{9}\frac{N\times m^2}{C^2})(0.05m)^{2}}   
-$$ $$q_{1}q_{2} = 2.4\times10^{-11} C$$$$q_{1} = 2.5\times10^{-8}C$$$$q_{2} = 9.6\times10^{-4} $$
 15)
 19)
 24)
