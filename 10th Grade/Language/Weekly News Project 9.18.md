@@ -1,4 +1,5 @@
 Title:
+Author:
 Source:
 Date Published:
 Date Printed: 
