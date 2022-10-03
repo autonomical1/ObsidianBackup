@@ -1,8 +1,8 @@
-Title:
-Author:
-Source:
-Date Published:
-Date Printed: 
+Title: Wall Street falls as FedEx warning adds to market woes
+Author: Damian J. Troise, Alex Veiga
+Source: Los Angeles Times
+Date Published: 9/16/22
+Date Printed: 9/18/22
 
 
 # Summary
