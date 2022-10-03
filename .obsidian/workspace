@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "36a75efc4a7084ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10th Grade/Language/Weekly News Project 9.25.22.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -109,10 +121,10 @@
   },
   "active": "331027b51e62ec5c",
   "lastOpenFiles": [
-    "10th Grade/Language/Untitled.md",
     "10th Grade/Language/Weekly News Project 9.25.22.md",
-    "10th Grade/Language/Weekly News Project 9.18.md",
     "10th Grade/Language/Weekly News Project 10.2.22.md",
+    "10th Grade/Language/Untitled.md",
+    "10th Grade/Language/Weekly News Project 9.18.md",
     "10th Grade/Language/American consumers.md",
     "10th Grade/Language/Weekly News Project 9.11.md",
     "10th Grade/Language/Weekly News Project 9.4.md",
