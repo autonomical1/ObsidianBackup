@@ -15,4 +15,8 @@
 **Sources of Potential:**
 - Consider an uncharged capacitor:
 	- $\overrightarrow{E} = 0$, so $\Delta V_{c} = E \cdot d = 0$
-	- Source of electri
+	- Source of $\Delta V$ is the separation of charges
+	- Positive charges have positive potential
+	- Negative charges have negative potential
+	- $\overrightarrow{E}$ points from high to low potential
+	- 
