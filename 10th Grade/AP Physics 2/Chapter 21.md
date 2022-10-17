@@ -15,4 +15,4 @@
 **Sources of Potential:**
 - Consider an uncharged capacitor:
 	- $\overrightarrow{E} = 0$, so $\Delta V_{c} = E \cdot d = 0$
-	- 
+	- Source of electri
