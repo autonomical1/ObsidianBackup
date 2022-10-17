@@ -19,4 +19,6 @@
 	- Positive charges have positive potential
 	- Negative charges have negative potential
 	- $\overrightarrow{E}$ points from high to low potential
-	- 
+
+**Conservation of Energy**:
+- Once charges are separated and $\Delta V$ exists, we can conserve mechanical energy: $\Delta E = W_{ext} = 0$, so $\Delta K + \Delta U = 0$, so $\Delta K = -\Delta U$, $\Delta U = q\Delta V$, so $\Delta K = -q\Delta V$
