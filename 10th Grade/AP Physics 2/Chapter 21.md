@@ -30,4 +30,10 @@
 	- Moving charge through $\Delta V$ produces $\Delta U$ which can be converted into kinetic energy in the charge carriers.
 	- Charge carriers do work --> other forms of energy
 
-**New Unit of Energy**
+**New Unit of Energy**:
+- Electron-volt (eV)
+- Recall that $\Delta U = q\Delta V$
+	- Electron: $|q| = e$
+	- $\Delta U = q\Delta V = e \cdot \Delta V$, 
+		- $e = 1.6 \cdot 10^{-19} C
+		- 
