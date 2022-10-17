@@ -28,4 +28,6 @@
 	- $\Delta U = q\Delta V$
 	- $\Delta K = -q\Delta V$
 	- Moving charge through $\Delta V$ produces $\Delta U$ which can be converted into kinetic energy in the charge carriers.
-	- Ch
+	- Charge carriers do work --> other forms of energy
+
+**New Unit of Energy**
