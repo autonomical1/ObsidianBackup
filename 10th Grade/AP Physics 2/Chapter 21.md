@@ -7,4 +7,8 @@
 		- $\Delta U_{E}$ depends on q
 		- Find a quantity that depends only on $\overrightarrow{E}$
 		- Define electric potential as $\Delta V = \frac{{\Delta U_{E}}}{{q}}$
-		- $\Delta U_{E} = qEx$, Then $\Delta V = $\frac{{\Delta U_{E}}}{{q}}$, q cancels,
+			- SI Unit: Volt (V)
+				-$1V = 1 \frac{J}{C}$
+		- $\Delta U_{E} = qEx$, Then $\Delta V = $\frac{{\Delta U_{E}}}{{q}}$, q cancels, so $\Delta V = E \cdot x$
+		- Let d be the plate separation. Then, $\Delta V_{c} = E \cdot d$
+		- 
