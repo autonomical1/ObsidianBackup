@@ -21,4 +21,11 @@
 	- $\overrightarrow{E}$ points from high to low potential
 
 **Conservation of Energy**:
-- Once charges are separated and $\Delta V$ exists, we can conserve mechanical energy: $\Delta E = W_{ext} = 0$, so $\Delta K + \Delta U = 0$, so $\Delta K = -\Delta U$, $\Delta U = q\Delta V$, so $\Delta K = -q\Delta V$
+- Once charges are separated and $\Delta V$ exists, we can conserve mechanical energy: 
+	- $\Delta E = W_{ext} = 0$, 
+	- $\Delta K + \Delta U = 0$,
+	- $\Delta K = -\Delta U$
+	- $\Delta U = q\Delta V$
+	- $\Delta K = -q\Delta V$
+	- Moving charge through $\Delta V$ produces $\Delta U$ which can be converted into kinetic energy in the charge carriers.
+	- Ch
