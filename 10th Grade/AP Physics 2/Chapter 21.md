@@ -5,6 +5,6 @@
 	- $\Delta U_{e} = W_{ext} = F_{ext} \cdot x$
 	- $\Delta U_{E} = qEx$, where E is uniform
 		- $\Delta U_{E}$ depends on q
-- Find a quantity that depends only on $\overrightarrow{E}$
-	- Define electric potential as $\Delta V = {\Delta \frac{U_{E}}}{{q}}$
-	- 
+		- Find a quantity that depends only on $\overrightarrow{E}$
+		- Define electric potential as $\Delta V = \frac{{\Delta U_{E}}}{{q}}$
+		- $\Delta U_{E} = qEx$, Then $\Delta V = $\frac{{\Delta U_{E}}}{{q}}$, q cancels,
