@@ -50,3 +50,7 @@
 **Calculating the Electric Potential**
 - $V = \frac{U_{elec}}{q}$
 **Potential due to a Point-Charge**:
+- Don't confuse V and $\overrightarrow{E}$
+- $\overrightarrow{E}$ is a vector
+- V is a scalar
+- $|\overrightarrow{E}| \alpha 1/r^{2}$ 
