@@ -39,3 +39,6 @@
 		- $\Delta U = (1e)(1V) = (1.6 \cdot 10^{-19} C)\left(1 \frac{J}{C}\right)= 1.6 \cdot 10^{-19} J$
 		- 1 eV = 1.6 * 10<sup>-19</sup> J
 
+**Calculating the Electric Potential**
+- $V = \frac{U_{elec}}{q}$
+- 
