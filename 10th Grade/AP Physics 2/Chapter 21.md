@@ -14,6 +14,9 @@
 		- Let d be the plate separation. Then, $\Delta V_{c} = E \cdot d$
 - Electric potential of a parallel-plate capacitor at a position x, measured from the negative plate is:
 	- $V = \frac{U_{elec}}{q} = Ex = \frac{Q}{ε_{0} \cdot a}x$ 
+	- Increases linearly from negative plat to positive plate at x=d
+	- Potential difference $\Delta V_{c}$ between the two capacitor plates
+		- $\Delta V_{c} = V_{+} - V_-$
 **Sources of Potential:**
 - Consider an uncharged capacitor:
 	- $\overrightarrow{E} = 0$, so $\Delta V_{c} = E \cdot d = 0$
