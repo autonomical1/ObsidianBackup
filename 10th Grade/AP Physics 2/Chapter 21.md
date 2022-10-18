@@ -49,3 +49,4 @@
 
 **Calculating the Electric Potential**
 - $V = \frac{U_{elec}}{q}$
+**Potential due to a Point-Charge**:
