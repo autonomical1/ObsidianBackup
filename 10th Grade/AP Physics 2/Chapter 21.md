@@ -18,6 +18,8 @@
 	- Potential difference $\Delta V_{c}$ between the two capacitor plates
 		- $\Delta V_{c} = V_{+} - V_{-} = Ed$ 
 		- $E = \frac{\Delta V_{c}}{d}$
+- Electric potential at position x inside a capacitor is:
+	- $V = \frac{x}{d}\Delta V_{c}$
 **Sources of Potential:**
 - Consider an uncharged capacitor:
 	- $\overrightarrow{E} = 0$, so $\Delta V_{c} = E \cdot d = 0$
