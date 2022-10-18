@@ -13,7 +13,7 @@
 		- $\Delta U_{E} = qEx$, Then $\Delta V = $\frac{{\Delta U_{E}}}{{q}}$, q cancels, so $\Delta V = E \cdot x$
 		- Let d be the plate separation. Then, $\Delta V_{c} = E \cdot d$
 - Electric potential of a parallel-plate capacitor at a position x, measured from the negative plate is:
-	- $V = \frac{U_{elec}}{q} = Ex = \frac{Q}{\varepsilon}$
+	- $V = \frac{U_{elec}}{q} = Ex = \frac{Q}{ε_{0} \cdot a}x$ 
 **Sources of Potential:**
 - Consider an uncharged capacitor:
 	- $\overrightarrow{E} = 0$, so $\Delta V_{c} = E \cdot d = 0$
