@@ -35,5 +35,6 @@
 - Recall that $\Delta U = q\Delta V$
 	- Electron: $|q| = e$
 	- $\Delta U = q\Delta V = e \cdot \Delta V$, 
-		- $e = 1.6 \cdot 10^{-19} C
-		- 
+		- $e = 1.6 \cdot 10^{-19} C$
+		- $\Delta U = (1e)(1V) = (1.6 \cdot 10^{-19} C)\left(1 \frac{J}{C}\right)= 1.6 \cdot 10^{-19} J$
+		- 1 eV = 1.6 * 10<sup>-19</sup> J
