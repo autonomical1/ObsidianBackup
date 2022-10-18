@@ -12,6 +12,7 @@
 			- $1V = 1 \frac{J}{C}$
 		- $\Delta U_{E} = qEx$, Then $\Delta V = $\frac{{\Delta U_{E}}}{{q}}$, q cancels, so $\Delta V = E \cdot x$
 		- Let d be the plate separation. Then, $\Delta V_{c} = E \cdot d$
+- Electric potential of a parallel-p
 **Sources of Potential:**
 - Consider an uncharged capacitor:
 	- $\overrightarrow{E} = 0$, so $\Delta V_{c} = E \cdot d = 0$
@@ -41,4 +42,3 @@
 
 **Calculating the Electric Potential**
 - $V = \frac{U_{elec}}{q}$
-- 
