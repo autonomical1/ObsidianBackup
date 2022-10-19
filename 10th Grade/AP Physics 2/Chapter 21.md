@@ -2,7 +2,7 @@
 - Gravitation, spring, electromagnetic
 - When $\Delta K = 0$, $\Delta E = W_{ext}$, so $\Delta U_{C} = W_{ext} = -W_{c}$
 **Parallel-plate capacitor:** 
-- $\Delta U_{e} = W_{ext} = F_{ext} \cdot x$
+- $\Delta U_{E} = W_{ext} = F_{ext} \cdot x$
 - $\Delta U_{E} = qEx$, where E is uniform
 	- $\Delta U_{E}$ depends on q
 - $\Delta U_{E} = q\Delta V$ 
@@ -53,6 +53,6 @@
 - Don't confuse V and $\overrightarrow{E}$
 - $\overrightarrow{E}$ is a vector
 - V is a scalar
-- $|\overrightarrow{E}| \alpha \frac{1}{r^{2}}$ 
-- $V \alpha \frac{1}{r}$
+- $|\overrightarrow{E}| \propto \frac{1}{r^{2}}$ 
+- $V \propto \frac{1}{r}$
 - 
