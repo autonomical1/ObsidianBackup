@@ -53,4 +53,6 @@
 - Don't confuse V and $\overrightarrow{E}$
 - $\overrightarrow{E}$ is a vector
 - V is a scalar
-- $|\overrightarrow{E}| \alpha 1/r^{2}$ 
+- $|\overrightarrow{E}| \alpha \frac{1}{r^{2}}$ 
+- $V \alpha \frac{1}{r}$
+- 
