@@ -57,4 +57,7 @@
 - $V \propto \frac{1}{r}$
 - $V(r) = k_{E} \frac{q}{r}$
 - Net potential is a summation of all the charges
+
+**Connecting Potential and Field**:
+- Electric field at a point is perpendicular to the equipotential surface at that point.
 - 
