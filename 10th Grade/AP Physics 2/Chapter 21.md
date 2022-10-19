@@ -55,4 +55,5 @@
 - V is a scalar
 - $|\overrightarrow{E}| \propto \frac{1}{r^{2}}$ 
 - $V \propto \frac{1}{r}$
+- $V(r) = k_{E} \frac{q}{r}$
 - 
