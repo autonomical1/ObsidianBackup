@@ -1,4 +1,4 @@
-``**Potential Energy**: stored by all conservative forces
+**Potential Energy**: stored by all conservative forces
 - Gravitation, spring, electromagnetic
 - When $\Delta K = 0$, $\Delta E = W_{ext}$, so $\Delta U_{C} = W_{ext} = -W_{c}$
 **Parallel-plate capacitor:** 
@@ -10,7 +10,7 @@
 	- Define electric potential as $\Delta V = \frac{{\Delta U_{E}}}{{q}}$
 		- SI Unit: Volt (V)
 			- $1V = 1 \frac{J}{C}$
-		- $\Delta U_{E} = qEx$, Then $\Delta V = $\frac{{\Delta U_{E}}}{{q}}$, q cancels, so $\Delta V = E \cdot x$
+		- $\Delta U_{E} = qEx$, Then $\Delta V$ = $\frac{{\Delta U_{E}}}{{q}}$, q cancels, so $\Delta V = E \cdot x$
 		- Let d be the plate separation. Then, $\Delta V_{c} = E \cdot d$
 - Electric potential of a parallel-plate capacitor at a position x, measured from the negative plate is:
 	- $V = \frac{U_{elec}}{q} = Ex = \frac{Q}{ε_{0} \cdot a}x$ 
