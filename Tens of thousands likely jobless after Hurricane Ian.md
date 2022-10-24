@@ -1,16 +1,8 @@
-# Tens of thousands likely jobless after Hurricane Ian
+# Tens of thousands likely jobless after Hurricane Ian, economists say
 
 Martha C. White for CNN Business
+
 Updated 1:46 PM EDT, Wed October 12, 2022
-
-
-Video Ad Feedback
-
-Shocking video shows aftermath of waterfront bar that completely disappeared after Ian
-
-02:11 - Source: CNN
-
-CNN — 
 
 Hurricane Ian’s devastating impact will be felt for weeks and months to come, especially in the state of Florida [where much of the storm’s damage was sustained](https://www.cnn.com/us/live-news/hurricane-ian-florida-aftermath-10-05-22/index.html). Economists say tens of thousands of people are likely to file for unemployment benefits in the storm’s wake, but if those workers — many in low-paying service sector industries like tourism — don’t come back, the local economies of some hard-hit areas could struggle to rebound.
 
@@ -27,8 +19,6 @@ The biggest threat is to tourism. “Particularly in coastal communities, and wi
 While big companies can at least fall back on insurance, free cash flow or issuing debt to repair or replace damaged buildings and equipment, workers are likely to have a steeper climb back to financial stability.
 
 “The resilience factor could be lower among the lower-wage workforce, and even their employers may also be rethinking about how they staff the positions that they need to fill,” Karoly said. In a labor market that was historically tight pre-storm, there might be more of an impetus to replace displaced workers with machines, self-serve customer features or other technologies.
-
-![A view of the destroyed road between Florida's Matlacha and Pine Island after Hurricane Ian.](https://media.cnn.com/api/v1/images/stellar/prod/221006113006-fl-matlacha-destruction-hurricane-ian-1002.jpg?c=16x9&q=h_270,w_480,c_fill)
 
 A view of the destroyed road between Florida's Matlacha and Pine Island after Hurricane Ian.
 
@@ -52,14 +42,6 @@ Florida absorbed nearly 221,000 new residents between July 2020 and July 2021 al
 
 “Katrina was a much more damaging storm, and impacted Louisiana, which is much less affluent than Florida,” Zandi said.
 
-[
-
-![An American flag is seen flying in front of damage from Hurricane Ian in San Carlos Island, Fort Myers Beach, Florida on Tuesday, October 4.](https://media.cnn.com/api/v1/images/stellar/prod/221005125038-01-hurricane-ian-cleanup-cec.jpg?c=16x9&q=h_144,w_256,c_fill)
-
-Undaunted by DeSantis, immigrant workers are heading to Florida to help with hurricane cleanup
-
-](https://www.cnn.com/2022/10/06/us/migrant-workers-hurricane-ian-response-cec/index.html)
-
 Relatively wealthy places like Florida generally have more resources at their disposal for rebuilding, but even there, people who live in poorer areas — who are less likely to have either adequate insurance or savings to rebuild — often just move away. Many displaced people who migrated across the Gulf of Mexico to the Houston area in the wake of Katrina, for instance, never returned. This exodus can permanently reshape the fabric of the local economies they leave behind.
 
 “Hurricanes have differing economic effects, depending on whether the area is one that people are moving into or out of,” Englund said. “Hurricane recoveries tend to accelerate whatever economic transitions might have been underway when the storm hit, leaving a building surge in growing areas but economic blight in contracting areas.”
@@ -70,11 +52,7 @@ As climate change magnifies the intensity and frequency of extreme weather event
 
 Many of the displaced residents of New Orleans who moved to Houston following Hurricane Katrina settled in the only place they could afford — on less-desirable, low-lying land that was inundated more than a decade later by 2017’s Hurricane Harvey.
 
-![A powerboat lies atop a pile of debris two days after the passage of Hurricane Ian, in Fort Myers, Florida.](https://media.cnn.com/api/v1/images/stellar/prod/221006112846-fl-fort-myers-beach-destruction-hurricane-ian-0930.jpg?c=16x9&q=h_270,w_480,c_fill)
-
 A powerboat lies atop a pile of debris two days after the passage of Hurricane Ian, in Fort Myers, Florida.
-
-Rebecca Blackwell/AP
 
 Even if low-earning residents are able to rebuild their finances, they remain on figurative — if not literal — unstable ground, which suggests that an economy growing at their expense isn’t rock-solid, either.
 

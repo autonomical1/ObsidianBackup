@@ -49,6 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "10th Grade/Language/Weekly News Project 10.23.22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "606fbe2355a67db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tens of thousands likely jobless after Hurricane Ian.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,17 +167,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ff96054939d7112f",
+  "active": "606fbe2355a67db5",
   "lastOpenFiles": [
-    "10th Grade/Language/American consumers.md",
     "10th Grade/Language/Weekly News Project 10.23.22.md",
+    "Tens of thousands likely jobless after Hurricane Ian.md",
+    "10th Grade/Language/American consumers.md",
     "10th Grade/Language/Weekly News Project 10.2.22.md",
     "10th Grade/Language/Weekly News Project 9.25.22.md",
     "10th Grade/Language/Weekly News Project 9.18.md",
     "10th Grade/Language/Weekly News Project 9.11.md",
     "10th Grade/Language/Weekly News Project 9.4.md",
     "10th Grade/Language/Weekly News Project 8.28.md",
-    "10th Grade/AP Physics 2/Chapter 21.md",
-    "10th Grade/AP Physics 2/Chapter 20.md"
+    "10th Grade/AP Physics 2/Chapter 21.md"
   ]
 }
