@@ -1,8 +1,7 @@
-# Tens of thousands likely jobless after Hurricane Ian, economists say
 
 Martha C. White for CNN Business
 
-Updated 1:46 PM EDT, Wed October 12, 2022
+Updated 1:46 PM EDT, Wed October 19, 2022
 
 Hurricane Ian’s devastating impact will be felt for weeks and months to come, especially in the state of Florida [where much of the storm’s damage was sustained](https://www.cnn.com/us/live-news/hurricane-ian-florida-aftermath-10-05-22/index.html). Economists say tens of thousands of people are likely to file for unemployment benefits in the storm’s wake, but if those workers — many in low-paying service sector industries like tourism — don’t come back, the local economies of some hard-hit areas could struggle to rebound.
 
@@ -22,7 +21,6 @@ While big companies can at least fall back on insurance, free cash flow or issui
 
 A view of the destroyed road between Florida's Matlacha and Pine Island after Hurricane Ian.
 
-Marco Bello/Reuters
 
 Dave Gilbertson, vice president at HR technology firm UKG, which tracks real-time labor market metrics like time-card punches, said that in devastated Florida counties like Lee and Hillsborough, workforce activity has already plunged by nearly half — suggesting a tremendous loss of economic activity as well as earnings.
 
