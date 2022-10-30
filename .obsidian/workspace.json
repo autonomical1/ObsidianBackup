@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "663e5a0c7a2ff342",
+        "id": "db0ac0945aac83e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfe57033eaa1216",
+            "id": "cb34146a95a0de29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 21.md",
+                "file": "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8db71f1da3ec071",
+            "id": "327d792d1be424ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
+                "file": "10th Grade/Language/Weekly News Project 10.30.22.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92cf7e469ba8801a",
+            "id": "00bbda71e3a9931b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+                "file": "10th Grade/Language/# U.S. to spend 703 million on improving ports.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+                "file": "10th Grade/Language/# U.S. to spend 703 million on improving ports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92cf7e469ba8801a",
+  "active": "00bbda71e3a9931b",
   "lastOpenFiles": [
+    "10th Grade/Language/Weekly News Project 10.30.22.md",
+    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
+    "10th Grade/AP Physics 2/Chapter 21.md",
     "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
     "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
-    "10th Grade/AP Physics 2/Chapter 21.md",
     "10th Grade/AP Physics 2/Chapter 20.md",
     "10th Grade/AP Physics 2/Notes/21.3 - Electric Potential and Conservation of Energy.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/AP Physics 2/Notes/21.1 - Electric Potential Energy and Electric Potential.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
-    "10th Grade/AP Physics 2/Notes/21.5 - Connecting Potential and Field.md",
-    "Notes.md"
+    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md"
   ]
 }
