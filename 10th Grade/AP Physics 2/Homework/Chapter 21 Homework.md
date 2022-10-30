@@ -11,9 +11,10 @@
 	a) The ratio is $\frac{3}{1}$ because the electric potential is proportional to the distance from the negative plate. 
 	b) The ratio is $\frac{1}{3}$, because the electric field is inversely proportional to the distance from the plate.
 13)
-	a)
-	b)
-	
+	a) 1 = 2 = 3
+	b) 1 = 2 = 3
+	c) 2 > (1 = 3)
+	d) 3 > 2 > 1
 15)
 	
 # MCQ
