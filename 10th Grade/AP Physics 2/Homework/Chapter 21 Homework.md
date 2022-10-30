@@ -44,6 +44,6 @@
 18)
 	
 20)
-	a)
-	b)
+	a) B, because the point is farther away from A.
+	b) 2000 V
 21)
