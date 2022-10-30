@@ -3,9 +3,9 @@
 	a) Since $W = -q\Delta V$, and there is no change in $\Delta V$, there is no change in work.
 	b) There is no change in electric potential energy, because there is no work on either of 
 	c) The speed at both i and f would be equal because there is no work done, so there is no change in kinetic energy, so no change in velocity.
-	d)
+	d) Yes, they are consistent, because there is no change in electric potential. 
 7)
-	a)
+	a) They are both the same because the change in electric field is the same between 
 	b)
 9)
 	a)
