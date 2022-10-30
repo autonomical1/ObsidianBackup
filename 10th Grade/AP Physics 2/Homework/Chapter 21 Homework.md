@@ -5,7 +5,7 @@
 	c) The speed at both i and f would be equal because there is no work done, so there is no change in kinetic energy, so no change in velocity.
 	d) Yes, they are consistent, because there is no change in electric potential. 
 7)
-	a) They are both the same because the change in electric field is the same between 
+	a) They are both the same because the change in electric field is the same between $\Delta V_{1->2}$ and $\Delta V_{1->3}$ 
 	b)
 9)
 	a)
