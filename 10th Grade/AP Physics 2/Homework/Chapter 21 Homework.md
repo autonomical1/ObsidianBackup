@@ -9,8 +9,10 @@
 	b) $v_{2}$ and $v_{3}$ is the same and $v_{1}$ is the smallest, because the acceleration of the charge is lower than points 2 and 3. Since 2 and 3 are closest to the negative plate, they have already been accelerated to a higher velocity than point 1. 
 9)
 	a) The ratio is $\frac{3}{1}$ because the electric potential is proportional to the distance from the negative plate. 
-	b) The ratio is $\frac{1}{3}$$, because the electric field is inversely proportional to the distance from the plate.
+	b) The ratio is $\frac{1}{3}$, because the electric field is inversely proportional to the distance from the plate.
 13)
+	a)
+	b)
 	
 15)
 	
