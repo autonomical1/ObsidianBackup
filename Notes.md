@@ -16,35 +16,6 @@
 		- $\Delta V_{c} = V_{+} - V_{-} = Ed$ 
 		- $E = \frac{\Delta V_{c}}{d}$
 
-
-
-**Conservation of Energy**:
-- Once charges are separated and $\Delta V$ exists, we can conserve mechanical energy: 
-	- $\Delta E = W_{ext} = 0$, 
-	- $\Delta K + \Delta U = 0$,
-	- $\Delta K = -\Delta U$
-	- $\Delta U = q\Delta V$
-	- $\Delta K = -q\Delta V$
-	- Moving charge through $\Delta V$ produces $\Delta U$ which can be converted into kinetic energy in the charge carriers.
-	- Charge carriers do work --> other forms of energy
-
-**New Unit of Energy**:
-- Electron-volt (eV)
-- Recall that $\Delta U = q\Delta V$
-	- Electron: $|q| = e$
-	- $\Delta U = q\Delta V = e \cdot \Delta V$, 
-		- $e = 1.6 \cdot 10^{-19} C$
-		- $\Delta U = (1e)(1V) = (1.6 \cdot 10^{-19} C)\left(1 \frac{J}{C}\right)= 1.6 \cdot 10^{-19} J$
-		- 1 eV = 1.6 * 10<sup>-19</sup> J
-
-**Potential due to a Point-Charge**:
-- Don't confuse V and $\overrightarrow{E}$
-- $\overrightarrow{E}$ is a vector
-- V is a scalar
-- $|\overrightarrow{E}| \propto \frac{1}{r^{2}}$ 
-- $V \propto \frac{1}{r}$
-- $V(r) = k_{E} \frac{q}{r}$
-- Net potential is a summation of all the charges
-
+**
 **Connecting Potential and Field**:
 - Electric field at a point is perpendicular to the equipotential surface at that point.
