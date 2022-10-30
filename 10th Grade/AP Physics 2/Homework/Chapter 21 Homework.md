@@ -43,8 +43,9 @@
 	b)![[Pasted image 20221030153305.png]]
 	c)![[Pasted image 20221030153309.png]]
 18)
-	
+	![[Pasted image 20221030153315.png]]
 20)
 	a) B, because the point is farther away from A.
 	b) 2000 V
 21)
+![[Pasted image 20221030153320.png]]
