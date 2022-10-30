@@ -4,47 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "adee305181fc9e4c",
+        "id": "663e5a0c7a2ff342",
         "type": "tabs",
         "children": [
           {
-            "id": "0624fc45a9acd37b",
+            "id": "ddfe57033eaa1216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dab36456a9bd2c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21.5 - Connecting Potential and Field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f6b12901b1263e9f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed5556b13ab0590e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
+                "file": "Chapter 21 Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21.5 - Connecting Potential and Field.md",
+                "file": "Chapter 21 Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dab36456a9bd2c82",
+  "active": "ddfe57033eaa1216",
   "lastOpenFiles": [
-    "Notes.md",
-    "21.5 - Connecting Potential and Field.md",
+    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
+    "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
+    "21.5 - Connecting Potential and Field.md",
+    "Notes.md",
     "conflict-files-obsidian-git.md",
-    "10th Grade/AP Physics 2/Notes/21.4 - Calcuating the Electric Potential.md",
     "10th Grade/AP Physics 2/Notes/21.2 - Sources of Electric Potential.md",
     "10th Grade/AP Physics 2/Notes/21.3 - Electric Potential and Conservation of Energy.md",
     "10th Grade/AP Physics 2/Notes/21.1 - Electric Potential Energy and Electric Potential.md",
-    "21.1.md",
-    "10th Grade/AP Physics 2/Notes/13.6 - Fluid Dynamics.md"
+    "21.1.md"
   ]
 }
