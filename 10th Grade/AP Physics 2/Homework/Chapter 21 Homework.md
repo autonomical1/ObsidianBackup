@@ -18,9 +18,9 @@
 15)
 	4 > (1 = 3) > 2
 # MCQ
-24) A, because the equipotential lines are separated by 
-25)
-30)
+24) A, because the equipotential lines are separated by around 50 V.
+25) B, because it has the highest electric potential.
+30) 
 
 # Problems
 2)
