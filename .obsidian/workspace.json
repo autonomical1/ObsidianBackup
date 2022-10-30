@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9e68ad378e23a5e",
+            "id": "0624fc45a9acd37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 21.md",
+                "file": "21.1 - Electric Potential Energy and Electric Potential.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6b12901b1263e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5556b13ab0590e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 21.md",
+                "file": "21.1 - Electric Potential Energy and Electric Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +133,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9e68ad378e23a5e",
+  "active": "0624fc45a9acd37b",
   "lastOpenFiles": [
     "Notes.md",
-    "21.1.md",
+    "21.1 - Electric Potential Energy and Electric Potential.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
+    "21.1.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/AP Physics 2/Notes/13.6 - Fluid Dynamics.md",
     "10th Grade/Language/Tens of thousands likely jobless after Hurricane Ian.md",
     "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
     "10th Grade/AP Physics 2/Homework/Chapter 13 Homework.md",
-    "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
-    "10th Grade/AP Physics 2/Notes/20.2 - Charges, Atoms, and Molecules.md"
+    "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md"
   ]
 }
