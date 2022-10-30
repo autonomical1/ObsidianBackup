@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+                "file": "10th Grade/AP Physics 2/Notes/21.3 - Electric Potential and Conservation of Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adiabat",
+                "query": "kinetic energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+                "file": "10th Grade/AP Physics 2/Notes/21.3 - Electric Potential and Conservation of Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +118,10 @@
   },
   "active": "ddfe57033eaa1216",
   "lastOpenFiles": [
+    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
     "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
     "10th Grade/AP Physics 2/Chapter 20.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/AP Physics 2/Notes/21.1 - Electric Potential Energy and Electric Potential.md",
     "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
