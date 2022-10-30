@@ -26,8 +26,8 @@
 2)
 3)
 7)
-	a) Since the speed was positive, and the final speed is 0, there must be a negative acceleration, so there must be a positive potential difference, so it must have went to an are
-	b)
+	a) Since the speed was positive, and the final speed is 0, there must be a negative acceleration, so there must be a positive potential difference, so it must have went to an area of higher potential.
+	b) 
 	c)
 9)
 	a)
