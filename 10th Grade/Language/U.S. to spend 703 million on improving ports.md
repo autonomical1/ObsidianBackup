@@ -26,5 +26,3 @@ Camden, New Jersey will receive $25 million to upgrade a functionally obsolete t
 Long Beach, California will get $30 million to replace diesel yard tractors with 60 electric yard tractors and other equipment.
 
 Grays Harbor Terminal in Aberdeen, Washington is getting $25.5 million to build an additional 50,000 feet of rail and repurpose a 50-acre brownfield site for cargo.
-
-U.S. to spend $703 million on improving ports

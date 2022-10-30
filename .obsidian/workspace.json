@@ -30,7 +30,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "354b2abbc82db37e",
+        "type": "tabs",
+        "children": [
           {
             "id": "00bbda71e3a9931b",
             "type": "leaf",
@@ -43,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/Language/U.S. to spend 703 million on improving ports.md",
+                "file": "10th Grade/Language/Weekly News Project 10.30.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,8 +146,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00bbda71e3a9931b",
+  "active": "327d792d1be424ad",
   "lastOpenFiles": [
+    "10th Grade/Language/U.S. to spend 703 million on improving ports.md",
     "10th Grade/Language/Weekly News Project 10.30.22.md",
     "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
@@ -150,7 +157,6 @@
     "10th Grade/AP Physics 2/Chapter 20.md",
     "10th Grade/AP Physics 2/Notes/21.3 - Electric Potential and Conservation of Energy.md",
     "conflict-files-obsidian-git.md",
-    "10th Grade/AP Physics 2/Notes/21.1 - Electric Potential Energy and Electric Potential.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md"
+    "10th Grade/AP Physics 2/Notes/21.1 - Electric Potential Energy and Electric Potential.md"
   ]
 }
