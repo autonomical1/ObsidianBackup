@@ -18,7 +18,7 @@
 15)
 	4 > (1 = 3) > 2
 # MCQ
-24) 
+24) A, because the equipotential lines are separated by 
 25)
 30)
 
