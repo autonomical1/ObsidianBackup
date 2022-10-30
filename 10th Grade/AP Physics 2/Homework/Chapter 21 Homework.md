@@ -1,7 +1,7 @@
 # Questions
 4)
 	a) Since $W = -q\Delta V$, and there is no change in $\Delta V$, there is no change in work.
-	b) There is no change in electric potential energy, because there is no work acted.
+	b) There is no change in electric potential energy, because there is no work on either of 
 	c)
 	d)
 7)
