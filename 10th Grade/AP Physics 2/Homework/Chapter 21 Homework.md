@@ -2,7 +2,7 @@
 4)
 	a) Since $W = -q\Delta V$, and there is no change in $\Delta V$, there is no change in work.
 	b) There is no change in electric potential energy, because there is no work on either of 
-	c)
+	c) The speed at both i and f would be equal because there is no work done, so there is no change in kinetic energy, so no change in velocity.
 	d)
 7)
 	a)
