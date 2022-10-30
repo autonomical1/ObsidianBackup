@@ -1,6 +1,6 @@
 # Questions
 4)
-	a) Work is related to the electric force and the distance between the charges. Since the distance between the charges is the same, there will be no work done on the charges.
+	a) Since $W = -q$
 	b)
 	c)
 	d)
