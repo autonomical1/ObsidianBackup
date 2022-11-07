@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "c17ab67940f0ef1c",
+        "id": "878be0a67ea7db93",
         "type": "tabs",
         "children": [
           {
-            "id": "27331e3b038307f9",
+            "id": "fa582c07ce33eb72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+                "file": "10th Grade/Language/Weekly News Project 10.30.22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94bb4e0020da695d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Chapter 21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f81851f03ed963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/Language/Weekly News Project 9.11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f128984a31ad8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/Language/Weekly News Project 9.4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26870ae72f2a90e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/Language/Weekly News Project 9.4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cef09d72a9184ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0c03493b33c96ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "950b5e1e375f3ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/Language/Weekly News Project 10.30.22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,20 +197,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "27331e3b038307f9",
+  "active": "f0c03493b33c96ec",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/21.5 - Connecting Potential and Field.md",
-    "10th Grade/AP Physics 2/Notes/21.3 - Electric Potential and Conservation of Energy.md",
-    "10th Grade/AP Physics 2/Notes/21.2 - Sources of Electric Potential.md",
-    "10th Grade/AP Physics 2/Notes/21.1 - Electric Potential Energy and Electric Potential.md",
-    "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
-    "10th Grade/AP Physics 2/Chapter 21.md",
-    "10th Grade/Language/Weekly News Project 10.30.22.md",
+    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
+    "conflict-files-obsidian-git.md",
+    "10th Grade/Language/Weekly News Project 9.4.md",
+    "10th Grade/Language/Weekly News Project 8.28.md",
+    "10th Grade/Language/Weekly News Project 9.11.md",
+    "10th Grade/Language/Weekly News Project 9.18.md",
+    "10th Grade/Language/Weekly News Project 9.25.22.md",
     "10th Grade/Language/Weekly News Project 10.2.22.md",
-    "10th Grade/Language/U.S. to spend 703 million on improving ports.md"
+    "10th Grade/Language/Weekly News Project 10.23.22.md",
+    "10th Grade/Language/Weekly News Project 10.30.22.md"
   ]
 }

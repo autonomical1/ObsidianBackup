@@ -11,3 +11,5 @@ The U.S Transportation Department is providing $703 million to ports in multiple
 The author mainly used facts and statistics to display their point. They selected quotes from very reputable sources, especially ones that are directly related to the topic. They start off by listing their main topic, and then go into detail about each specific section. They also talk about why the Transportation Department is trying to boost these ports and trade areas.
 # Personal Response
 I took away the fact that the Transportation Department is using $703 million to further the economy, which is the exact reason that the $1 trillion infrastructure plan was set into place by President Biden. This is a good use of the money, because it allows the United States to have an inland boost in economy, which will create many opportunities to many people that are less-exposed to that kind of work.
+
+
