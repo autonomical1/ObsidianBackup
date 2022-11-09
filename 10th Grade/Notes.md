@@ -13,4 +13,8 @@
 	- Conductors are plates.
 	- Uniform, strong $\overrightarrow{E}$ 
 	- $\overrightarrow{E} = \frac{Q}{\epsilon_{O}A}$ from + to -
-	- 
+	- Uniform $\overrightarrow{E}$: $\Delta V = E \cdot D$
+		- $E =\frac{\Delta V}{d}$ 
+		- $E = \frac{Q}{\epsilon_{0}A}$
+		- $Q = C\Delta V$
+		- $C = \epsilon_O$
