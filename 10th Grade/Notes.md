@@ -22,4 +22,6 @@
 	- An insulating material placed between the plates of a capacitor
 	- 1) Increase capacitance of capacitor
 	- 2) Provide mechanical support between the plates (keep them from touching each other)
-	- 3) Allow larger max voltage betwe
+	- 3) Allow larger max voltage between the plates
+		- (Dielectric strength)
+	- 
