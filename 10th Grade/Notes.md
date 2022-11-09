@@ -18,4 +18,6 @@
 		- $E = \frac{Q}{\epsilon_{0}A}$
 		- $Q = C\Delta V$
 		- $C = \frac{\epsilon_{0}A}{d}$
-		- 
+- **Dielectrics**:
+	- An insulating material placed between the plates of a capacitor
+	- 
