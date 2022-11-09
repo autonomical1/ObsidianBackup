@@ -20,4 +20,6 @@
 		- $C = \frac{\epsilon_{0}A}{d}$
 - **Dielectrics**:
 	- An insulating material placed between the plates of a capacitor
-	- 
+	- 1) Increase capacitance of capacitor
+	- 2) Provide mechanical support between the plates (keep them from touching each other)
+	- 3) Allow larger max voltage betwe
