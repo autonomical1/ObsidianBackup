@@ -10,4 +10,7 @@
 		- Farad
 		- equivalent to: $\frac{1C}{1V}$
 - **Parallel Plate Capacitor**:
-	- C
+	- Conductors are plates.
+	- Uniform, strong $\overrightarrow{E}$ 
+	- $\overrightarrow{E} = \frac{Q}{\epsilon_{O}A}$ from + to -
+	- 
