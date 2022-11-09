@@ -9,4 +9,5 @@
 	- SI Unit: $[c] = F$
 		- Farad
 		- equivalent to: $\frac{1C}{1V}$
-		- 
+- **Parallel Plate Capacitor**:
+	- C
