@@ -17,4 +17,5 @@
 		- $E =\frac{\Delta V}{d}$ 
 		- $E = \frac{Q}{\epsilon_{0}A}$
 		- $Q = C\Delta V$
-		- $C = \epsilon_O$
+		- $C = \frac{\epsilon_{0}A}{d}$
+		- 
