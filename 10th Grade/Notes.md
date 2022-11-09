@@ -4,4 +4,9 @@
 - Experiment:
 	- $\Delta V \propto Q$ 
 - Proportionality constant: $c$
-	- $Q = C \cdot \De$
+	- $Q = C \cdot \Delta V$
+	- $c$ is known as capacitance of the capacitor
+	- SI Unit: $[c] = F$
+		- Farad
+		- equivalent to: $\frac{1C}{1V}$
+		- 
