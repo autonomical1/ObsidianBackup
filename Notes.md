@@ -24,4 +24,4 @@
 	- no charge = no *net* charge
 	- to charge, take a positive charge from one plate and move it to the other plate
 	- No Q, $\Delta V$, $\Delta U$, or $W_{ext}$
-	- 
+	- Total work: $W_{ext}= \sum$
