@@ -31,4 +31,9 @@
 **Electric Current**: 
 - Consists of charges flowing through some region of space
 - Analogous to water flowing through a pipe
+
+**Definition of Current (I)**:
+- $I = \frac{\Delta q}{\Delta t}$
+- SI unit: Ampere (amp)
+	- 1 Amp = $\frac{1C}{1S}$
 - 
