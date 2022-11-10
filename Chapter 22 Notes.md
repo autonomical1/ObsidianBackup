@@ -39,4 +39,4 @@
 - Conductor: some charge may freely flow.
 	- Metals -> outer most electrons are loosely bound.
 		- "Conduction electrons"
-- 
+- **Conventional Current**: Flows in the direction of positive charges
