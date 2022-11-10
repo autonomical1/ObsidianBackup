@@ -30,4 +30,5 @@
 
 **Electric Current**: 
 - Consists of charges flowing through some region of space
+- Analogous to water flowing through a pipe
 - 
