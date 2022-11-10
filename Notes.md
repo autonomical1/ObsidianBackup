@@ -26,5 +26,5 @@
 	- No Q, $\Delta V$, $\Delta U$, or $W_{ext}$
 	- Total work: $W_{ext}= \sum{i} \Delta W$ 
 	- Results in: 
-		- $\Delta U_{c} = \frac{Q^{2}{2C}= \frac{1}{2}C\Delta V^{2} = \frac{1}{2} Q\Delta V$
+		- $\Delta U_{c} = \frac{Q^{2}}{2C}= \frac{1}{2}C\Delta V^{2} = \frac{1}{2} Q\Delta V$
 		- 
