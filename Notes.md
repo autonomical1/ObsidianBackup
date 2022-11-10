@@ -16,6 +16,10 @@
 		- $\Delta V_{c} = V_{+} - V_{-} = Ed$ 
 		- $E = \frac{\Delta V_{c}}{d}$
 
-**
 **Connecting Potential and Field**:
 - Electric field at a point is perpendicular to the equipotential surface at that point.
+
+**Charging a Capacitor**: 
+- 2 uncharged plates, no charge, no potential difference
+	- no charge = no *net* charge
+	- to charge, take a positive charge from one plate and move it to 
