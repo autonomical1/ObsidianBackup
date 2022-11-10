@@ -22,4 +22,6 @@
 **Charging a Capacitor**: 
 - 2 uncharged plates, no charge, no potential difference
 	- no charge = no *net* charge
-	- to charge, take a positive charge from one plate and move it to 
+	- to charge, take a positive charge from one plate and move it to the other plate
+	- No Q, $\Delta V$, $\Delta U$, or $W_{ext}$
+	- 
