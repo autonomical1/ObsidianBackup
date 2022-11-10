@@ -36,4 +36,7 @@
 - $I = \frac{\Delta q}{\Delta t}$
 - SI unit: Ampere (amp)
 	- 1 Amp = $\frac{1C}{1S}$
+- Conductor: some charge may freely flow.
+	- Metals -> outer most electrons are loosely bound.
+		- "Conduction electrons"
 - 
