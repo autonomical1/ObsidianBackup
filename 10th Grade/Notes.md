@@ -1,0 +1,27 @@
+**Capacitors**: Any configuration of two conductors having equal charge with opposite sign
+- Q produces an electric field between the conductors
+- $\Delta V$ due to electric field
+- Experiment:
+	- $\Delta V \propto Q$ 
+- Proportionality constant: $c$
+	- $Q = C \cdot \Delta V$
+	- $c$ is known as capacitance of the capacitor
+	- SI Unit: $[c] = F$
+		- Farad
+		- equivalent to: $\frac{1C}{1V}$
+- **Parallel Plate Capacitor**:
+	- Conductors are plates.
+	- Uniform, strong $\overrightarrow{E}$ 
+	- $\overrightarrow{E} = \frac{Q}{\epsilon_{O}A}$ from + to -
+	- Uniform $\overrightarrow{E}$: $\Delta V = E \cdot D$
+		- $E =\frac{\Delta V}{d}$ 
+		- $E = \frac{Q}{\epsilon_{0}A}$
+		- $Q = C\Delta V$
+		- $C = \frac{\epsilon_{0}A}{d}$
+- **Dielectrics**:
+	- An insulating material placed between the plates of a capacitor
+	- 1) Increase capacitance of capacitor
+	- 2) Provide mechanical support between the plates (keep them from touching each other)
+	- 3) Allow larger max voltage between the plates
+		- (Dielectric strength)
+	- 
