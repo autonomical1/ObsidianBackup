@@ -52,8 +52,11 @@
 - The inner workings of a battery act like a charge escalator between the 2 terminals
 - charges are removed from the negative terminal and "lifted" into the positive terminal
 - Chemicals called *electrolytes* sandwiched between 2 electrodes of different material. chemicals react and move + ions from one electrode to another. 
-- 
-**Electric Circuit**: 
+- By separating charge, charge escalator est. $\Delta V$ betweent he termainla of a battery
+- ptentail difference established by a device like a battery = emf
+- emf also written as $\epsilon$
+- rating o
+- $**Electric Circuit**: 
 - 3 basic requirements
 	- 1. Source of potential difference (Battery/Power Supply)
 	- 2. Closed conducting path (circuit)
