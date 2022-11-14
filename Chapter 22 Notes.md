@@ -53,4 +53,7 @@
 - charges are removed from the negative terminal and "lifted" into the positive terminal
 **Electric Circuit**: 
 - 3 basic requirements
-	- 1. Source of potential d
+	- 1. Source of potential difference (Battery/Power Supply)
+	- 2. Closed conducting path (circuit)
+	- 3. Circuit element/load/load resistance
+	- 
