@@ -46,3 +46,7 @@
 - total charge in must be total charge out
 - $\sum I_{in} = \sum I_{out}$
 - **Kirchhoff's Junction Law**: the sum of the currents into the junction equals the sum of the currents leaving
+
+**Batteries and emf**
+- Capacitor quickly runs out of excess charge, but a wire connecting the battery terminals can keep the charges in motion
+- 
