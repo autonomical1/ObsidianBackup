@@ -76,6 +76,11 @@
 - Adding a second battery increases potential difference increases electric field, and therefore the current
 - Increasing the length of the wire connecting the battery decreases the current, while increasing the thickness of the wire increases the current
 - wires of different material will carry different currents. some materials are better conductors than others
-- **Resistance**: measure of how hard it is to push charges through a wire. A large resistance implies that it is hard to move charges through the wire. The current depends on the resistance of the wire andt he potential difference between the ends of the wire.
+- **Resistance**: measure of how hard it is to push charges through a wire. A large resistance implies that it is hard to move charges through the wire. The current depends on the resistance of the wire and the potential difference between the ends of the wire.
 - $R = \frac{\Delta V_{wire}}{I}$
-- Si Unit = 1 Ohm = 1 
+- Si Unit = 1 Ohm = 1 $\Omega$ = 1 $\frac{V}{A}$  
+- Ohm's Law: $\Delta V = I \cdot R$ 
+
+**Resistivity**:
+- $\rho$ characterizes the electrical properties of materials
+- Materials that are go
