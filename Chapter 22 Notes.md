@@ -74,4 +74,6 @@
 **Resistance**:
 - Current in a circuit: $I \propto \Delta V$
 - Adding a second battery increases potential difference increases electric field, and therefore the current
-- Increasing the length of the c
+- Increasing the length of the wire connecting the battery decreases the current, while increasing the thickness of the wire increases the current
+- wires of different material will carry different currents. some materials are better conductors than others
+- 
