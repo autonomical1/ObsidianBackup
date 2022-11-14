@@ -87,4 +87,5 @@
 - Materials that are poor conductors (good insulators) = high resistivity
 - resistivity of a metal decreases with increasing temperature
 - $R = \frac{\rho \cdot L}{A}$ 
-	- property of a
+	- property of a specific wire, since it depends on the conductors length, diameter and material
+	- 
