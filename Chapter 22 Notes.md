@@ -86,4 +86,5 @@
 - Materials that are good conductors have low resistivity
 - Materials that are poor conductors (good insulators) = high resistivity
 - resistivity of a metal decreases with increasing temperature
-- 
+- $R = \frac{\rho \cdot L}{A}$ 
+	- property of a
