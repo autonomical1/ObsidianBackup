@@ -74,4 +74,4 @@
 **Resistance**:
 - Current in a circuit: $I \propto \Delta V$
 - Adding a second battery increases potential difference increases electric field, and therefore the current
-- 
+- Increasing the length of the c
