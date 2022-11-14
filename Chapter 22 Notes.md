@@ -51,3 +51,6 @@
 - Capacitor quickly runs out of excess charge, but a wire connecting the battery terminals can keep the charges in motion
 - The inner workings of a battery act like a charge escalator between the 2 terminals
 - charges are removed from the negative terminal and "lifted" into the positive terminal
+**Electric Circuit**: 
+- 3 basic requirements
+	- 1. Source of potential d
