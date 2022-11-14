@@ -51,9 +51,11 @@
 - Capacitor quickly runs out of excess charge, but a wire connecting the battery terminals can keep the charges in motion
 - The inner workings of a battery act like a charge escalator between the 2 terminals
 - charges are removed from the negative terminal and "lifted" into the positive terminal
+- Chemicals called *electrolytes* sandwiched between 2 electrodes of different material. chemicals react and move + ions from one electrode to another. 
+- 
 **Electric Circuit**: 
 - 3 basic requirements
 	- 1. Source of potential difference (Battery/Power Supply)
 	- 2. Closed conducting path (circuit)
 	- 3. Circuit element/load/load resistance
-	- 
+
