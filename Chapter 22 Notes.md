@@ -66,5 +66,12 @@
 
 **Connecting Potential and Current**:
 - A battery is a source of potential difference
-- current that flows througha wire connecting the battery terminals is a consequence of the potential difference
-- because the ends of the wire are connected to the termanals of the battery, $\Delta V$ = $\Delta V$ 
+- current that flows through a wire connecting the battery terminals is a consequence of the potential difference
+- because the ends of the wire are connected to the terminals of the battery, $\Delta V$ = $\Delta V$ between the battery terminals. 
+	- $\Delta V_{wire} = \Delta V_{bat}$
+- potential difference causes a current
+
+**Resistance**:
+- Current in a circuit: $I \propto \Delta V$
+- Adding a second battery increases potential difference increases electric field, and therefore the current
+- 
