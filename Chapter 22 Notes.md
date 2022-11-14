@@ -42,4 +42,7 @@
 - **Conventional Current**: Flows in the direction of positive charges
 
 **Conservation of Current at a Junction**:
-- 
+- **junction**: point where wire branches
+- total charge in must be total charge out
+- $\sum I_{in} = \sum I_{out}$
+- **Kirchhoff's Junction Law**: the sum of the currents into the junction equals the sum of the currents leaving
