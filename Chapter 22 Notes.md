@@ -88,6 +88,9 @@
 
 **Resistors**:
 - Circuit elements that are designed to have certain resistance for practical reasons
+- Uses:
+	- Current Limiter
+	- Voltage divider
 - 
 
 **Resistivity**:
