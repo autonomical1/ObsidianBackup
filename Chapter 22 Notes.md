@@ -84,6 +84,7 @@
 - Ohm's Law: $\Delta V = I \cdot R$ 
 - Not a law of nature, not all conductors follow Ohm's Law
 - Materials that follow Ohm's Law = **ohmic**
+- If the graph of I vs V is linear, the material is non-ohmic, and if it is non-linear it would be non-ohmic
 - 
 
 **Resistivity**:
