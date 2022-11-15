@@ -91,8 +91,7 @@
 - Uses:
 	- Current Limiter
 	- Voltage divider
-- Heating elements
-	- 
+- 
 **Resistivity**:
 - $\rho$ characterizes the electrical properties of materials
 - Materials that are good conductors have low resistivity
