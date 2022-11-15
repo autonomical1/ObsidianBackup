@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fc36805974cc795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 22 Notes.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +127,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "73c57dc18afabee8",
+  "active": "9fc36805974cc795",
   "lastOpenFiles": [
+    "Chapter 22 Notes.md",
     "10th Grade/Language/Weekly News Project 10.30.22.md",
     "10th Grade/Language/Weekly News Project 9.4.md",
     "10th Grade/Language/Weekly News Project 9.11.md",
@@ -124,7 +138,6 @@
     "conflict-files-obsidian-git.md",
     "10th Grade/Language/Weekly News Project 8.28.md",
     "10th Grade/Language/Weekly News Project 9.18.md",
-    "10th Grade/Language/Weekly News Project 9.25.22.md",
-    "10th Grade/Language/Weekly News Project 10.2.22.md"
+    "10th Grade/Language/Weekly News Project 9.25.22.md"
   ]
 }
