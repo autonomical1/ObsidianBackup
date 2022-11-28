@@ -67,7 +67,7 @@
 **Connecting Potential and Current**:
 - A battery is a source of potential difference
 - current that flows through a wire connecting the battery terminals is a consequence of the potential difference
-- because the ends of the wire are connected to the terminals of the battery, $\Delta V$ = $\Delta V$ between the battery terminals. 
+	- because the ends of the wire are connected to the terminals of the battery, $\Delta V$ = $\Delta V$ between the battery terminals. `x`
 	- $\Delta V_{wire} = \Delta V_{bat}$
 - potential difference causes a current
 
