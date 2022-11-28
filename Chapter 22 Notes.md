@@ -100,4 +100,7 @@
 - $R = \frac{\rho \cdot L}{A}$ 
 	- property of a specific wire, since it depends on the conductors length, diameter and material
 
- 
+ **Energy and Power**:
+ - The charge escalator transfers the chemical energy $E_{chem}$ to the electric potential energy U of the charges
+ - That energy is then dissipated as the charges move through the lightbulb, keeping the filament warm and glowing
+ - 
