@@ -103,4 +103,7 @@
  **Energy and Power**:
  - The charge escalator transfers the chemical energy $E_{chem}$ to the electric potential energy U of the charges
  - That energy is then dissipated as the charges move through the lightbulb, keeping the filament warm and glowing
- - Th
+ - The battery provides potential energy to a charge "q" as it lifts the charge up the charge escalator from the negative to the positive terminal
+ - The rate at which energy is transferred from the battery to the moving charges is:
+	 - $P_{bat} =$ rate of energy transfer $= \frac{\Delta U}{\Delta t} = \frac{\Delta q}{\Delta t}\epsilon$
+	 - }
