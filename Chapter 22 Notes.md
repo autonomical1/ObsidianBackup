@@ -106,4 +106,5 @@
  - The battery provides potential energy to a charge "q" as it lifts the charge up the charge escalator from the negative to the positive terminal
  - The rate at which energy is transferred from the battery to the moving charges is:
 	 - $P_{bat} =$ rate of energy transfer $= \frac{\Delta U}{\Delta t} = \frac{\Delta q}{\Delta t}\epsilon$
-	 - }
+	 - $P_{emf} = I \epsilon$ 
+	 - Units: $1 \frac{J}{s}$ or W
