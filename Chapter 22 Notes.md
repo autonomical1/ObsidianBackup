@@ -100,6 +100,3 @@
 - $R = \frac{\rho \cdot L}{A}$ 
 	- property of a specific wire, since it depends on the conductors length, diameter and material
 
-**Electric Circuits**:
-- Need three elements:
-	- 1) Source of potential difference / source of $emf$ 
