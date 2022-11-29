@@ -108,3 +108,4 @@
 	 - $P_{bat} =$ rate of energy transfer $= \frac{\Delta U}{\Delta t} = \frac{\Delta q}{\Delta t}\epsilon$
 	 - $P_{emf} = I \epsilon$ 
 	 - Units: $1 \frac{J}{s}$ or W
+- 
