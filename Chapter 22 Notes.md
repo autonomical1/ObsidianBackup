@@ -108,4 +108,6 @@
 	 - $P_{bat} =$ rate of energy transfer $= \frac{\Delta U}{\Delta t} = \frac{\Delta q}{\Delta t}\epsilon$
 	 - $P_{emf} = I \epsilon$ 
 	 - Units: $1 \frac{J}{s}$ or W
-- 
+
+**Kirchhoff's Loop Rule**:
+- Any closed loop in a circuit has $\Delta V = 0$
