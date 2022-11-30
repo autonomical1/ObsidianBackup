@@ -128,4 +128,6 @@
 - The potential differences across each resistor in parallel is equal to the  emf of the battery because both resistors are connected directly to the battery 
 - The current $I_{bat}$ from the battery splits into currents $I_{1}$ and $I_{2}$ at the top of the junction
 - Junction law states that $I_{bat}= I_{1} + I_{2}$
-- $$
+- $I_{bat} = \epsilon (\frac{1}{R_{1}} + \frac{1}{r_{2}})$
+- $$R_{eq} =  \frac{\Delta V}{I} = \frac{\epsilon}{I_{bat}} = (\frac{1}{R_{1}} + \frac{1}{R_{2}})^{-1}$$
+	- DO NOT FORGET TO TAKE RECIPROCAL OF THE TOTAL 
