@@ -113,4 +113,5 @@
 - Any closed loop in a circuit has $\Delta V = 0$
 
 **Series and Parallel Circuits**:
-- **Series circuit**: if circuit elements are connected directly to each other with no junction w
+- **Series circuit**: if circuit elements are connected directly to each other with no junction in between
+- 
