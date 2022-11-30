@@ -125,4 +125,7 @@
 	- $$R_{eq} = R_{1} + R_{2} + . . . + R_{n}$$
 
 **Parallel Resistors**:
-- The potential differences across each resistor in parallel is equal to the  emf of the battery becasue both resistors are co 
+- The potential differences across each resistor in parallel is equal to the  emf of the battery because both resistors are connected directly to the battery 
+- The current $I_{bat}$ from the battery splits into currents $I_{1}$ and $I_{2}$ at the top of the junction
+- Junction law states that $I_{bat}= I_{1} + I_{2}$
+- $$
