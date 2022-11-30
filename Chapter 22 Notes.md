@@ -114,4 +114,5 @@
 
 **Series and Parallel Circuits**:
 - **Series circuit**: if circuit elements are connected directly to each other with no junction in between
-- 
+- **Parallel circuit**: if circuit elements are not connected directly to each other and have a junction in between
+	- Current will divide due to Kirchh
