@@ -123,4 +123,6 @@
 	- $$\sum\limits \Delta V_{i} = \epsilon + \Delta V_{1} + \Delta V_{2} = 0$$
 - An easy way to model multiple resistors in series is creating an equivalent resistor:
 	- $$R_{eq} = R_{1} + R_{2} + . . . + R_{n}$$
-	- 
+
+**Parallel Resistors**:
+- The potential differences across each resistor in parallel is equal to the  emf of the battery becasue both resistors are co 
