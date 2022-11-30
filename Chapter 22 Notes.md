@@ -118,4 +118,7 @@
 	- Current will divide due to Kirchhoff's Junction Rule
 
 **Series Resistors**:
-- When there are two resistors in series, the current must be the same in both resistors because there are no junctions in the 
+- When there are two resistors in series, the current must be the same in both resistors because there are no junctions in the circuit
+- Kirchhoff's Loop Rule shows potential differences:
+	- $$\sum\limits \Delta V_{i} = \epsilon + \Delta V_{1} + \Delta V_{2} = 0$$
+	- 
