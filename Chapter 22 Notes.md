@@ -121,4 +121,6 @@
 - When there are two resistors in series, the current must be the same in both resistors because there are no junctions in the circuit
 - Kirchhoff's Loop Rule shows potential differences:
 	- $$\sum\limits \Delta V_{i} = \epsilon + \Delta V_{1} + \Delta V_{2} = 0$$
+- An easy way to model multiple resistors in series is creating an equivalent resistor:
+	- $$R_{eq} = R_{1} + R_{2} + . . . + R_{n}$$
 	- 
