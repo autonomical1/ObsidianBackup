@@ -111,3 +111,4 @@
 
 **Kirchhoff's Loop Rule**:
 - Any closed loop in a circuit has $\Delta V = 0$
+- 
