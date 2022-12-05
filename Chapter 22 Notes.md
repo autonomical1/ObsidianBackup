@@ -132,4 +132,5 @@
 - $$R_{eq} =  \frac{\Delta V}{I} = \frac{\epsilon}{I_{bat}} = (\frac{1}{R_{1}} + \frac{1}{R_{2}})^{-1}$$
 - $$R_{eq} = (\frac{1}{R_{1}} + \frac{1}{R_{2}} + . . . + \frac{1}{R_{n}})^{-1} $$
 	- DO NOT FORGET TO TAKE RECIPROCAL OF THE TOTAL RESISTANCES
+- *The equivalent resistance of several resistors in parallel is always less than any single resistor in the group**
 - 
