@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "878be0a67ea7db93",
+        "id": "b5b7217a7ed873cd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa582c07ce33eb72",
+            "id": "1107107f8ed78bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/Language/Weekly News Project 10.30.22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94bb4e0020da695d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f81851f03ed963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/Language/Weekly News Project 9.11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f128984a31ad8fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/Language/Weekly News Project 9.4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26870ae72f2a90e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 22 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "950b5e1e375f3ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/Language/Weekly News Project 10.30.22.md",
+                "file": "10th Grade/Language/Weekly News Project 12.4.22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 22 Notes.md",
+                "file": "10th Grade/Language/Weekly News Project 12.4.22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,17 +114,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "26870ae72f2a90e0",
+  "active": "1107107f8ed78bc6",
   "lastOpenFiles": [
+    "10th Grade/Language/Weekly News Project 10.30.22.md",
+    "Chapter 22 Notes.md",
     "10th Grade/Language/Weekly News Project 9.4.md",
+    "10th Grade/Language/Weekly News Project 9.11.md",
+    "10th Grade/AP Physics 2/Chapter 21.md",
     "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/Language/Weekly News Project 8.28.md",
-    "10th Grade/Language/Weekly News Project 9.11.md",
     "10th Grade/Language/Weekly News Project 9.18.md",
-    "10th Grade/Language/Weekly News Project 9.25.22.md",
-    "10th Grade/Language/Weekly News Project 10.2.22.md",
-    "10th Grade/Language/Weekly News Project 10.23.22.md",
-    "10th Grade/Language/Weekly News Project 10.30.22.md"
+    "10th Grade/Language/Weekly News Project 9.25.22.md"
   ]
 }
