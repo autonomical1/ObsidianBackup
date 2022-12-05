@@ -5,5 +5,6 @@ Date Printed: 12/4/22
 Date Published: 12/2/22
 
 # Summary
+On Friday, December 4th, 2022, President Biden put into statute a contract between labor unions and the freight rail industry to prevent any event of a rail shutdown that could have ruined the economy.
 # Analysis
 # Personal Response
