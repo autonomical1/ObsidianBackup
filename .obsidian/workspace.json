@@ -8,18 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b151d37ef9a6f5f",
+            "id": "6c5a67a234b3f14a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 22.md",
+                "file": "10th Grade/AP Physics 2/Notes/21.7 - Capacitance and Capacitors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83bce0d894a2ee68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/21.8 - Energy and Capacitors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "142a6cba722aa337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b5fc69be678ddf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/22.2 - Defining and Describing Current.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12b72ad8cd53bae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/22.3 - Batteries and emf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc4465be692c28a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/22.4 - Connecting Potential and Current.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50e1f20ae5ce34e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/22.5 - Ohm's Law and Resistor Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccc59e50ee7aaf66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -77,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 22.md",
+                "file": "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4b151d37ef9a6f5f",
+  "active": "ccc59e50ee7aaf66",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-    "Chapter 22 Notes.md",
     "10th Grade/AP Physics 2/Notes/22.5 - Ohm's Law and Resistor Circuits.md",
+    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
     "10th Grade/AP Physics 2/Notes/22.4 - Connecting Potential and Current.md",
     "10th Grade/AP Physics 2/Notes/22.3 - Batteries and emf.md",
     "10th Grade/AP Physics 2/Notes/22.2 - Defining and Describing Current.md",
     "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
-    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
-    "10th Grade/AP Physics 2/Chapter 21.md",
-    "Untitled.md"
+    "10th Grade/AP Physics 2/Notes/21.8 - Energy and Capacitors.md",
+    "10th Grade/AP Physics 2/Notes/21.7 - Capacitance and Capacitors.md",
+    "10th Grade/AP Physics 2/Chapter 22.md",
+    "10th Grade/AP Physics 2/Chapter 21.md"
   ]
 }
