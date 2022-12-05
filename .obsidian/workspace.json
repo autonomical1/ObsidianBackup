@@ -4,61 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ad00f06d0be92c77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3263dad006ff17f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22.1 - A Model of Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d9a92890fab715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22.2 - Defining and Describing Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7696961810370fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22.3 - Batteries and emf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "693d159808881f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22.4 - Connecting Potential and Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "f31ab9471c6cbdd3",
         "type": "tabs",
         "children": [
@@ -68,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 22 Notes.md",
+                "file": "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b151d37ef9a6f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "22.4 - Connecting Potential and Current.md",
+                "file": "10th Grade/AP Physics 2/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +107,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "693d159808881f71",
+  "active": "11e568c773cdd51d",
   "lastOpenFiles": [
+    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
     "Chapter 22 Notes.md",
-    "22.4 - Connecting Potential and Current.md",
-    "22.3 - Batteries and emf.md",
-    "22.2 - Defining and Describing Current.md",
-    "22.1 - A Model of Current.md",
+    "10th Grade/AP Physics 2/Notes/22.5 - Ohm's Law and Resistor Circuits.md",
+    "10th Grade/AP Physics 2/Notes/22.4 - Connecting Potential and Current.md",
+    "10th Grade/AP Physics 2/Notes/22.3 - Batteries and emf.md",
+    "10th Grade/AP Physics 2/Notes/22.2 - Defining and Describing Current.md",
+    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
     "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
-    "Untitled.md",
-    "10th Grade/Language/Weekly News Project 10.30.22.md",
-    "10th Grade/Language/Weekly News Project 9.4.md"
+    "Untitled.md"
   ]
 }
