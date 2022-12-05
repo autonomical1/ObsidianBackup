@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d0d11744b1c11dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b151d37ef9a6f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Untitled 1.md",
+                "file": "10th Grade/AP Physics 2/Chapter 22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Untitled 1.md",
+                "file": "10th Grade/AP Physics 2/Chapter 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "11e568c773cdd51d",
+  "active": "4b151d37ef9a6f5f",
   "lastOpenFiles": [
     "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
     "Chapter 22 Notes.md",
