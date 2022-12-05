@@ -1,33 +1,4 @@
-**Batteries and emf**
-- Capacitor quickly runs out of excess charge, but a wire connecting the battery terminals can keep the charges in motion
-- The inner workings of a battery act like a charge escalator between the 2 terminals
-- charges are removed from the negative terminal and "lifted" into the positive terminal
-- Chemicals called *electrolytes* sandwiched between 2 electrodes of different material. chemicals react and move + ions from one electrode to another. 
-- By separating charge, charge escalator est. $\Delta V$ between the terminals of a battery
-- potential difference established by a device like a battery = emf
-- emf also written as $\epsilon$
-- rating of a battery, like 1.5 V = battery's emf
-	- determined by the chemicals in the battery
-	- battery with no current in it has a $\Delta V$ equal to its emf
-- **Electric Circuit**: 
-- 3 basic requirements
-	- 1. Source of potential difference (Battery/Power Supply)
-	- 2. Closed conducting path (circuit)
-	- 3. Circuit element/load/load resistance
 
-**Connecting Potential and Current**:
-- A battery is a source of potential difference
-- current that flows through a wire connecting the battery terminals is a consequence of the potential difference
-- because the ends of the wire are connected to the terminals of the battery, $\Delta V$ = $\Delta V$ between the battery terminals. 
-	- $\Delta V_{wire} = \Delta V_{bat}$
-- potential difference causes a current
-
-**Resistance**:
-- Current in a circuit: $I \propto \Delta V$
-- Adding a second battery increases potential difference increases electric field, and therefore the current
-- Increasing the length of the wire connecting the battery decreases the current, while increasing the thickness of the wire increases the current
-- wires of different material will carry different currents. some materials are better conductors than others
-- **Resistance**: measure of how hard it is to push charges through a wire. A large resistance implies that it is hard to move charges through the wire. The current depends on the resistance of the wire and the potential difference between the ends of the wire.
 
 **Ohm's Law and Resistor Circuits**:
 - $R = \frac{\Delta V_{wire}}{I}$
