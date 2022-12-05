@@ -8,4 +8,8 @@
 
 # [[21.5 - Connecting Potential and Field]]
 
+# [[21.7 - Capacitance and Capacitors]]
+
+# [[21.8 - Energy and Capacitors]]
+
 # [[Chapter 21 Homework]]
