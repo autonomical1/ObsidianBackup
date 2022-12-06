@@ -8,4 +8,7 @@
 	- Symbol: -(V)-
 	- Ideal: $\infty$ resistance
 	- Connected in parallel
-	- 
+
+**Capacitors in Parallel or Series**:
+- parallel capacitors can be represented by a single **equivalent capactiance**
+- 
