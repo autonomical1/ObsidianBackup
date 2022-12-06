@@ -3,4 +3,9 @@
 	- Schematic symbol: -(A)-
 	- Ideal: 0 $\ohm$
 	- Connected in series
-**Measuring Voltag
+**Measuring Voltage**:
+- Voltmeter:
+	- Symbol: -(V)-
+	- Ideal: $\infty$ resistance
+	- Connected in parallel
+	- 
