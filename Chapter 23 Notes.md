@@ -11,4 +11,4 @@
 
 **Capacitors in Parallel or Series**:
 - parallel capacitors can be represented by a single **equivalent capacitance**
-- 
+- Total charge on
