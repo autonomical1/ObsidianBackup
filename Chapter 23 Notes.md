@@ -15,3 +15,9 @@
 - Potential differences across 2 capacitors in series are: $$\Delta V_{1} = \frac{Q}{C_{1}}$$ and $$\Delta V_{2} = \frac{Q}{C_{2}}$$
 - Total potential difference: $$\Delta V_{c} = \Delta V_{1} + \Delta V_{2}$$
 - Total Capactiance in a series circuit is:$$\frac{1}{C_{eq}} = \frac{1}{C_{1}} + \frac{1}{C_{2}}$$
+
+**RC Circuits**:
+- RC Circuits are circuits containing resistors and capacitors
+- current varies with time
+- values of resistance and capacitance in RC circuits determines the time it takes to charge/discharge
+- 
