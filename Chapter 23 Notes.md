@@ -22,4 +22,9 @@
 - values of resistance and capacitance in RC circuits determines the time it takes to charge/discharge
 - At a later time in the circuit's lifespan, the current will decrease because the potential difference is decreasing
 - The current and capacitor voltage decay to zero after the switch closes, but not linearly
+
+**Charging a Capacitor**:
+- In a circuit that charges a capacitor, once the switch is closed, the potential difference of the battery causes a current int he circuit, and the capacitor begins to charge.
+- As the capacitor charges, it develops a potential difference that opposes the current, so the current decreases, and so does the rate of charging
+- The capacitor charges until $\Delta V_{c} = \epsilon$
 - 
