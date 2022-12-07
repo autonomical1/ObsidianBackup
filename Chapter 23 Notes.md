@@ -20,4 +20,6 @@
 - RC Circuits are circuits containing resistors and capacitors
 - current varies with time
 - values of resistance and capacitance in RC circuits determines the time it takes to charge/discharge
+- At a later time in the circuit's lifespan, the current will decrease because the potential difference is decreasing
+- The current and capacitor voltage decay to zero after the switch closes, but not linearly
 - 
