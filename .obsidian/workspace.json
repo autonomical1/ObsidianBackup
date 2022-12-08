@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9e629f53f64af3",
+        "id": "b5b7217a7ed873cd",
         "type": "tabs",
         "children": [
           {
-            "id": "19ca9ca7b388de4e",
+            "id": "1107107f8ed78bc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 23 Notes.md",
+                "file": "10th Grade/AP Physics 2/Chapter 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,18 +72,37 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f0f5c3a66501fc6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 23 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd0d63b6187ec617",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Government/AP Government Readings.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,17 +113,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "19ca9ca7b388de4e",
+  "active": "f0f5c3a66501fc6e",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-    "10th Grade/AP Physics 2/Notes/22.5 - Ohm's Law and Resistor Circuits.md",
-    "10th Grade/AP Physics 2/Notes/22.4 - Connecting Potential and Current.md",
-    "10th Grade/AP Physics 2/Notes/22.3 - Batteries and emf.md",
-    "10th Grade/AP Physics 2/Notes/22.2 - Defining and Describing Current.md",
-    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
-    "10th Grade/AP Physics 2/Notes/21.8 - Energy and Capacitors.md",
-    "10th Grade/AP Physics 2/Notes/21.7 - Capacitance and Capacitors.md",
     "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Chapter 21.md"
+    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
+    "10th Grade/Language/Weekly News Project 12.4.22.md",
+    "10th Grade/Language/Weekly News Project 9.25.22.md",
+    "10th Grade/Language/Weekly News Project 10.30.22.md",
+    "Chapter 22 Notes.md",
+    "10th Grade/Language/Weekly News Project 9.4.md",
+    "10th Grade/Language/Weekly News Project 9.11.md",
+    "10th Grade/AP Physics 2/Chapter 21.md",
+    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md"
   ]
 }
