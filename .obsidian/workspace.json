@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08d1bb6d6e4288da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/Language/Weekly News Project 12.12.22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/Language/Weekly News Project 12.12.22.md",
+                "file": "10th Grade/AP Physics 2/Chapter 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +114,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "08d1bb6d6e4288da",
+  "active": "1107107f8ed78bc6",
   "lastOpenFiles": [
+    "10th Grade/Language/Weekly News Project 12.12.22.md",
     "10th Grade/Language/Weekly News Project 12.4.22.md",
     "10th Grade/Language/Weekly News Project 8.28.md",
     "10th Grade/Language/Weekly News Project 9.4.md",
@@ -137,7 +125,6 @@
     "10th Grade/Language/Weekly News Project 9.25.22.md",
     "10th Grade/Language/Weekly News Project 10.2.22.md",
     "10th Grade/Language/Weekly News Project 10.23.22.md",
-    "10th Grade/Language/Weekly News Project 10.30.22.md",
-    "10th Grade/Language/Weekly News Project 12.12.22.md"
+    "10th Grade/Language/Weekly News Project 10.30.22.md"
   ]
 }
