@@ -9,4 +9,4 @@ Brittney Griner was flown back into the US after being exchanged for Russian pri
 # Analysis
 The author uses simplistic language, with direct references to quotes from reputable sources, like the President of the United States, and people closely connected to the case. There was one circumstance that may provide a bias, when the author says that Griner was "one of the best-known sportswomen in America", but before the arrest, Griner was not as well known. The use of the specific quotes received by the BBC journalist were specifically picked to show a pro-Griner idealism. 
 # Personal Response
-I personally think that it was a bad idea to trade Griner out for 
+I personally think that it was a bad idea to trade Griner out for a **convicted** arms trafficker. Especially with current and past events involving arms in citizen's hands, it is a very massive problem if Bout is released back into the hands of Russia. Even if the prisoner swap had to happen, it would have been extremely favorable to have Whelan included in the swap, who has seemingly been imprisoned in Russia for no reason. 
