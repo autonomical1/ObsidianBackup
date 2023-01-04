@@ -1,3 +1,4 @@
 - Magnetism
 	- A magnet free to pivot is a **compass**
+	- Like poles repel, unlike poles attract
 	- 
