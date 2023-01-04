@@ -10,7 +10,6 @@
 # Measuring the Magnetic Field
 - An electric dipole rotates to line up with the electric field
 	- electric dipole experiences a torque when placed in an electric field
-- The compass, a magnetic dipole, rotates so that its north pole points 
-- A magnetic field exerts a torque on the compass needle, causing the needle to point in the field direction
-	- 
-
+- The compass, a magnetic dipole, rotates so that its north pole points in the direction of the magnetic field.
+	- A magnetic field exerts a torque on the compass needle, causing the needle to point in the field direction
+- 
