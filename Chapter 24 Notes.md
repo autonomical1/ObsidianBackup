@@ -14,4 +14,7 @@
 - The compass, a magnetic dipole, rotates so that its north pole points in the direction of the magnetic field.
 	- A magnetic field exerts a torque on the compass needle, causing the needle to point in the field direction
 - Iron filings allow you to see the magnetic field lines
-	- ![[Pasted image 202
+- *Magnetic field of a magnet points away from the north pole and toward the south pole*
+- **Magnetic field vector**: useful to represent the magnetic field at one particular point
+- **Magnetic field lines**: overall representation of the field
+	- can close in on each other and form loops
