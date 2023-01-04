@@ -6,6 +6,7 @@
 # The Magnetic Field
 - *Every magnet sets up a magnetic field in the space around it*
 - Symbol: $\overrightarrow{B}$
+	- represents strength/magnitude of field
 
 # Measuring the Magnetic Field
 - An electric dipole rotates to line up with the electric field
