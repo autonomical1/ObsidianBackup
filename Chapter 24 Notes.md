@@ -1,0 +1,3 @@
+- Magnetism
+	- A magnet free to pivot is a **compass**
+	- 
