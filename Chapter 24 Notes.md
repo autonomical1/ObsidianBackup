@@ -13,4 +13,5 @@
 	- electric dipole experiences a torque when placed in an electric field
 - The compass, a magnetic dipole, rotates so that its north pole points in the direction of the magnetic field.
 	- A magnetic field exerts a torque on the compass needle, causing the needle to point in the field direction
-- 
+- Iron filings allow you to see the magnetic field lines
+	- ![[Pasted image 202
