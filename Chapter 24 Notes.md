@@ -19,3 +19,7 @@
 - **Magnetic field vector**: useful to represent the magnetic field at one particular point
 - **Magnetic field lines**: overall representation of the field
 	- can close in on each other and form loops
+
+# The Magnetic Field of the Earth
+- *The south pole of the earth's magnet is located near - not exactly coincident with - the earth's south end*
+- 
