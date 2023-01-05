@@ -22,4 +22,5 @@
 
 # The Magnetic Field of the Earth
 - *The south pole of the earth's magnet is located near - not exactly coincident with - the earth's south end*
-- 
+
+# E
