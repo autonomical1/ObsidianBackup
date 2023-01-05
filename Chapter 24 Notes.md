@@ -34,4 +34,5 @@
 - Ordinary magnets are often called permanent magnets to distinguish between electromagnets.
 ### Magnetic Field of a Straight, Current Carrying Wire
 - **Right-Hand Rule of Fields**
+- Infinity has a limit.
 - 
