@@ -33,3 +33,5 @@
 - Magnetic field lines due to currents have no start or end, they  form complete closed curves
 - Ordinary magnets are often called permanent magnets to distinguish between electromagnets.
 ### Magnetic Field of a Straight, Current Carrying Wire
+- **Right-Hand Rule of Fields**
+- 
