@@ -30,4 +30,6 @@
 	- ![[Pasted image 20230105145202.png]]
 - Magnetic field lines curve through the center of the look and back through the loop's center, forming complete closed curves. The field lines far from loop look like field lines from a bar magnet.
 	- ![[Pasted image 20230105145152.png]]
-- Magnetic field lines due to currents have no star 
+- Magnetic field lines due to currents have no start or end, they  form complete closed curves
+- Ordinary magnets are often called permanent magnets to distinguish between electromagnets.
+### Magnetic Field of a Straight, Current Carrying Wire
