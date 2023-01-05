@@ -15,12 +15,15 @@
 	- A magnetic field exerts a torque on the compass needle, causing the needle to point in the field direction
 - Iron filings allow you to see the magnetic field lines
 - *Magnetic field of a magnet points away from the north pole and toward the south pole*
-# Magnetic Field Vectors and Field Lines
+### Magnetic Field Vectors and Field Lines
 - **Magnetic field vector**: useful to represent the magnetic field at one particular point
 - **Magnetic field lines**: overall representation of the field
 	- can close in on each other and form loops
 
-# The Magnetic Field of the Earth
+### The Magnetic Field of the Earth
 - *The south pole of the earth's magnet is located near - not exactly coincident with - the earth's south end*
 
-# E
+# Electric Currents also create Magnetic Fields
+- Compass with react to the presence of a bar magnet
+	- will also deflect if you place the compass near a wire and pass a current through the wire. 
+- Magnetic field lines form circles around the wire. magnetic force strength 
