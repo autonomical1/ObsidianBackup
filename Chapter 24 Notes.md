@@ -26,4 +26,5 @@
 # Electric Currents also create Magnetic Fields
 - Compass with react to the presence of a bar magnet
 	- will also deflect if you place the compass near a wire and pass a current through the wire. 
-- Magnetic field lines form circles around the wire. magnetic force strength 
+- Magnetic field lines form circles around the wire. Magnetic force strength decreases as distance from wire increases.
+- 
