@@ -1,4 +1,4 @@
-# [[22.1 - A Model of Current]]
+ # [[22.1 - A Model of Current]]
 
 # [[22.2 - Defining and Describing Current]]
 
