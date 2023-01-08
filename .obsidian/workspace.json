@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b7217a7ed873cd",
+        "id": "191abd8cf63729a7",
         "type": "tabs",
         "children": [
           {
-            "id": "1107107f8ed78bc6",
+            "id": "62056ffef0832c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
+                "file": "Chapter 23 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
+                "file": "Chapter 23 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +114,18 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1107107f8ed78bc6",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "62056ffef0832c06",
   "lastOpenFiles": [
+    "Chapter 24 Notes.md",
     "10th Grade/AP Physics 2/Chapter 22.md",
     "Chapter 23 Notes.md",
     "10th Grade/Language/Weekly News Project 12.12.22.md",
@@ -125,7 +134,6 @@
     "10th Grade/Language/Weekly News Project 9.4.md",
     "10th Grade/Language/Weekly News Project 9.11.md",
     "10th Grade/Language/Weekly News Project 9.18.md",
-    "10th Grade/Language/Weekly News Project 9.25.22.md",
-    "10th Grade/Language/Weekly News Project 10.2.22.md"
+    "10th Grade/Language/Weekly News Project 9.25.22.md"
   ]
 }
