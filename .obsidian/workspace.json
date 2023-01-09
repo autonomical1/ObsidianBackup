@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
+                "file": "23.3 - Series and Parallel Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "23.3 - Series and Parallel Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,17 +172,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ebfdb74b77cadc53",
+  "active": "7074c90fd511f864",
   "lastOpenFiles": [
-    "23.3 - Series and Parallel Circuits.md",
     "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
-    "Chapter 23 Notes.md",
     "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
-    "10th Grade/Notes.md",
+    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
+    "23.4 - Measuring Voltage and Current.md",
+    "Chapter 23 Notes.md",
     "Chapter 24 Notes.md",
+    "23.3 - Series and Parallel Circuits.md",
+    "10th Grade/Notes.md",
     "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md",
-    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-    "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md"
+    "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md"
   ]
 }
