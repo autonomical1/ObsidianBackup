@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "191abd8cf63729a7",
+        "id": "1911dcc099a47a36",
         "type": "tabs",
         "children": [
           {
-            "id": "62056ffef0832c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 23 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "204b82f5f7fd59a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 23 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7074c90fd511f864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4a99532091028cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bf4222ff398e67f",
+            "id": "4cf3c8109c1d7b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "99a9bbacbd0c339e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebfdb74b77cadc53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,17 +123,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7bf4222ff398e67f",
+  "active": "4cf3c8109c1d7b4c",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
-    "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
-    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-    "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
-    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
     "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
     "Chapter 23 Notes.md",
+    "10th Grade/AP Physics 2/Chapter 22.md",
+    "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
     "Chapter 24 Notes.md",
-    "10th Grade/Notes.md"
+    "10th Grade/AP Physics 2/Chapter 23.md",
+    "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
+    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
+    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
+    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md"
   ]
 }

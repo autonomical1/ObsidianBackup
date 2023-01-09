@@ -8,4 +8,5 @@
 
 # [[23.6 - Capacitors in Parallel and Series]]
 
-# [[23.7]]
+# [[23.7 - RC Circuits]]
+
