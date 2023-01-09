@@ -5,7 +5,7 @@ Date Printed: 1/8/23
 Date Published: 1/7/23
 
 # Summary
-On January 7th, 2023, House rep. Kevin McCarthy secured enough votes to become Speaker of the House. This is after almost 4 days of voting and 15 different voting ballots. McCarthy won 216-212. It was a very emotionally grueling vote, because McCarthy was only one vote off from getting the position in the 14th ballot. 
+On January 7th, 2023, House rep. Kevin McCarthy secured enough votes to become Speaker of the House. This is after almost 4 days of voting and 15 different voting ballots. McCarthy won 216-212. It was a very emotionally grueling vote, because McCarthy was only one vote off from getting the position in the 14th ballot. McCarthy succeeds Nancy Pelosi.
 # Analysis
 
 # Personal Response
