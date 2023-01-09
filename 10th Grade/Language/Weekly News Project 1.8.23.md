@@ -8,4 +8,4 @@ Date Published: 1/7/23
 
 # Analysis
 
-#
+# Personal Response
