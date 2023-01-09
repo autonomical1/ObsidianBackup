@@ -20,19 +20,7 @@
             }
           },
           {
-            "id": "3fe29a972f5af844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8349750b1a3d571",
+            "id": "204b82f5f7fd59a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cbc0ca8fc0dfbf5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23.2 - Kirchhoff's Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23.2 - Kirchhoff's Laws.md",
+                "file": "10th Grade/AP Physics 2/Chapter 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,17 +136,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cbc0ca8fc0dfbf5c",
+  "active": "204b82f5f7fd59a8",
   "lastOpenFiles": [
+    "Chapter 23 Notes.md",
+    "23.3 - Series and Parallel Circuits.md",
+    "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md",
     "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
     "10th Grade/AP Physics 2/Chapter 22.md",
-    "Chapter 23 Notes.md",
-    "23.2 - Kirchhoff's Laws.md",
     "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md",
     "Chapter 24 Notes.md",
     "10th Grade/Language/Weekly News Project 12.12.22.md",
     "10th Grade/Language/Weekly News Project 12.4.22.md",
-    "10th Grade/Language/Weekly News Project 8.28.md",
-    "10th Grade/Language/Weekly News Project 9.4.md"
+    "10th Grade/Language/Weekly News Project 8.28.md"
   ]
 }
