@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 22.md",
+                "file": "Chapter 23 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7074c90fd511f864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99a9bbacbd0c339e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23.3 - Series and Parallel Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebfdb74b77cadc53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 22.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +172,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "204b82f5f7fd59a8",
+  "active": "ebfdb74b77cadc53",
   "lastOpenFiles": [
-    "Chapter 23 Notes.md",
     "23.3 - Series and Parallel Circuits.md",
+    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
+    "Chapter 23 Notes.md",
+    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
+    "10th Grade/Notes.md",
+    "Chapter 24 Notes.md",
+    "10th Grade/AP Physics 2/Chapter 22.md",
     "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md",
     "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-    "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md",
-    "Chapter 24 Notes.md",
-    "10th Grade/Language/Weekly News Project 12.12.22.md",
-    "10th Grade/Language/Weekly News Project 12.4.22.md",
-    "10th Grade/Language/Weekly News Project 8.28.md"
+    "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md"
   ]
 }
