@@ -5,7 +5,7 @@ Date Printed: 1/8/23
 Date Published: 1/7/23
 
 # Summary
-
+On January 7th, 2023, House rep. Kevin McCarthy secured enough votes to become Speaker of the House
 # Analysis
 
 # Personal Response
