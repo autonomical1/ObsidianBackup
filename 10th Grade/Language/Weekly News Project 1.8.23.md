@@ -9,4 +9,4 @@ On January 7th, 2023, House rep. Kevin McCarthy secured enough votes to become S
 # Analysis
 The author has very little visible bias towards the win, even though CBS News is primarily left-leaning. They agree that it was a very interesting win, because the voting process took so long, and historically was one of the longest times to vote. The author also seems to present a personal opinion at the end of the article when they say that another member could spark an attempt to take down McCarthy.
 # Personal Response
-I personally do not agree with the admission of McCarthy as Speaker of the House. McCarthy does not agree with the same things that I do politically, one of which is gay rights and abortion, 
+I personally do not agree with the admission of McCarthy as Speaker of the House. McCarthy does not agree with the same things that I do politically, especially volatile topics like LGBTQ rights and abortion. I also lean left comp
