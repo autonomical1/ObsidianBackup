@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 23.md",
+                "file": "10th Grade/Language/Weekly News Project 12.12.22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ad1b05d318fb26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/Language/Weekly News Project 1.8.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Chapter 23.md",
+                "file": "10th Grade/Language/Weekly News Project 1.8.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +136,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4cf3c8109c1d7b4c",
+  "active": "6ad1b05d318fb26a",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
-    "Chapter 23 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
-    "Chapter 24 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 23.md",
-    "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
-    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
-    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
-    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md"
+    "10th Grade/Language/Weekly News Project 12.12.22.md",
+    "10th Grade/Language/Weekly News Project 1.8.23.md",
+    "10th Grade/Language/Weekly News Project 9.11.md",
+    "10th Grade/Language/Weekly News Project 9.18.md",
+    "10th Grade/Language/Weekly News Project 9.25.22.md",
+    "10th Grade/Language/Weekly News Project 10.2.22.md",
+    "10th Grade/Language/Weekly News Project 10.23.22.md",
+    "10th Grade/Language/Weekly News Project 10.30.22.md",
+    "10th Grade/Language/Weekly News Project 12.4.22.md",
+    "10th Grade/Notes.md"
   ]
 }
