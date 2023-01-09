@@ -4,35 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1911dcc099a47a36",
+        "id": "1a9e629f53f64af3",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf3c8109c1d7b4c",
+            "id": "19ca9ca7b388de4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/Language/Weekly News Project 12.12.22.md",
+                "file": "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ad1b05d318fb26a",
+            "id": "83098b73072ef55e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/Language/Weekly News Project 1.8.23.md",
+                "file": "Chapter 24 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7d64febb2956d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "451123ad92ac3bbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 23 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loop rule",
+                "query": "kinetic energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,38 +109,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0f5c3a66501fc6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/Language/Weekly News Project 1.8.23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bd0d63b6187ec617",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AP Government/AP Government Readings.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -136,17 +140,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6ad1b05d318fb26a",
+  "active": "f7d64febb2956d96",
   "lastOpenFiles": [
-    "10th Grade/Language/Weekly News Project 8.28.md",
-    "10th Grade/Language/Weekly News Project 10.23.22.md",
-    "10th Grade/Language/Weekly News Project 10.30.22.md",
-    "10th Grade/Language/Weekly News Project 12.12.22.md",
-    "10th Grade/Language/Weekly News Project 12.4.22.md",
-    "10th Grade/Language/Weekly News Project 10.2.22.md",
-    "10th Grade/Language/Weekly News Project 9.11.md",
-    "10th Grade/Language/Weekly News Project 1.8.23.md",
-    "10th Grade/Language/Weekly News Project 9.18.md",
-    "10th Grade/Language/Weekly News Project 9.25.22.md"
+    "Chapter 24 Notes.md",
+    "Chapter 23 Notes.md",
+    "10th Grade/AP Physics 2/Chapter 22.md",
+    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
+    "Attachments/Pasted image 20220323091704.png",
+    "Attachments/Pasted image 20220817212205.png",
+    "Attachments/Pasted image 20221030153201.png",
+    "Attachments/Scan_20220828 (2).pdf",
+    "10th Grade/AP Physics 2/Notes/22.6 - Energy and Power.md",
+    "10th Grade/AP Physics 2/Notes/22.5 - Ohm's Law and Resistor Circuits.md"
   ]
 }
