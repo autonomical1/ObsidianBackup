@@ -1,5 +1,11 @@
-Title: Brittney Griner lands in US after prisoner swap with Russia
-Author: Max Matza
-Source: BBC News
-Date Printed: 12/12/22
-Date Published: 12/9/22
+Title: Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting
+Author: Kathryn Watson, Melissa Quinn
+Source: CBS News
+Date Printed: 1/8/23
+Date Published: 1/7/23
+
+# Summary
+
+# Analysis
+
+#
