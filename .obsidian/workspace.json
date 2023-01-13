@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19ca9ca7b388de4e",
+            "id": "451123ad92ac3bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,117 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "83098b73072ef55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 24 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7d64febb2956d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/21.2 - Sources of Electric Potential.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee30bb5206c1da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43e875f3e4e7b2b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afad7e68535eccbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c3392a50e8e8496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd0a62bf613a8673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bbafb257c2aa668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "451123ad92ac3bbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 23 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Notes/21.2 - Sources of Electric Potential.md",
+                "file": "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,17 +103,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f7d64febb2956d96",
+  "active": "451123ad92ac3bbd",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Chapter 21.md",
-    "10th Grade/AP Physics 2/Chapter 20.md",
-    "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Chapter 23.md",
-    "10th Grade/AP Physics 2/Chapter 13.md",
-    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md",
-    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
-    "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
+    "10th Grade/Notes.md",
+    "conflict-files-obsidian-git.md",
+    "Chapter 24 Notes.md",
+    "Chapter 23 Notes.md",
+    "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md",
+    "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md",
     "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
-    "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md"
+    "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
+    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
+    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md"
   ]
 }
