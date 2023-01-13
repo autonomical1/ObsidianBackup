@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
+                "file": "10th Grade/AP Physics 2/Chapter 23.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
+                "file": "10th Grade/AP Physics 2/Chapter 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +105,7 @@
   },
   "active": "451123ad92ac3bbd",
   "lastOpenFiles": [
+    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
     "10th Grade/Notes.md",
     "conflict-files-obsidian-git.md",
     "Chapter 24 Notes.md",
@@ -113,7 +114,6 @@
     "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md",
     "10th Grade/AP Physics 2/Notes/23.3 - Series and Parallel Circuits.md",
     "10th Grade/AP Physics 2/Notes/23.4 - Measuring Voltage and Current.md",
-    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md",
-    "10th Grade/AP Physics 2/Notes/23.7 - RC Circuits.md"
+    "10th Grade/AP Physics 2/Notes/23.6 - Capacitors in Parallel and Series.md"
   ]
 }
