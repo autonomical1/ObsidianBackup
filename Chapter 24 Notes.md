@@ -34,5 +34,8 @@
 - Ordinary magnets are often called permanent magnets to distinguish between electromagnets.
 ### Magnetic Field of a Straight, Current Carrying Wire
 - **Right-Hand Rule of Fields**
-- Infinity has a limit.
-- 
+
+### Calculating the Magnetic Field due to a Current
+- Magnetic field strengths are measured in **Tesla**, T
+- The magnitude of the magnetic field around a long, straight current-carrying wire depends on the distance r from the wire and the *current* I through the wire:
+	- $$B = \mu $$
