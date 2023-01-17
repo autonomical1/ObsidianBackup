@@ -49,3 +49,8 @@
 - $$B = \frac{\mu_{0}I}{2R}$$(Magnetic field at the center of a current loop of radius R)
 - If N loops of wire carrying the same current I are all tightly wound into a single flat coil, then the magnitude of the field at the center is just N times bigger (since we're imposing N individual current loops):
 	- $$B = \frac{\mu_{0}NI}{2R}$$
+### Solenoids
+- The field inside a solenoid is fairly uniform.
+- The greater the ratio of N turns of wire to the length L of the solenoid (N/L), the stronger the field inside will be. 
+- The strength of the field will also be proportional to the current. The field does not depend on the radius of the solenoid.
+- $$B = \mu_{0}NI/$$
