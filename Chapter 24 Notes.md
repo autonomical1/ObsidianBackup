@@ -53,4 +53,5 @@
 - The field inside a solenoid is fairly uniform.
 - The greater the ratio of N turns of wire to the length L of the solenoid (N/L), the stronger the field inside will be. 
 - The strength of the field will also be proportional to the current. The field does not depend on the radius of the solenoid.
-- $$B = \mu_{0}NI/$$
+- $$B = \frac{\mu_{0}NI}{L} = \mu_{0}nI$$
+
