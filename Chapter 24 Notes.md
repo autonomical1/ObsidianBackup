@@ -47,3 +47,5 @@
 - The magnetic field due to a current loop is more complex than that of a straight wire.
 - Because the loop can be thought of as a wire bent into a circle, the expression for the strength of the field at the center of the loop is similar to that of a wire.
 - $$B = \frac{\mu_{0}I}{2R}$$(Magnetic field at the center of a current loop of radius R)
+- If N loops of wire carrying the same current I are all tightly wound into a single flat coil, then the magnitude of the field at the center is just N times bigger (since we're imposing N individual current loops):
+	- $$B = \frac{\mu_{0}NI}{2R}$$
