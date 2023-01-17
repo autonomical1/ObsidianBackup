@@ -38,4 +38,7 @@
 ### Calculating the Magnetic Field due to a Current
 - Magnetic field strengths are measured in **Tesla**, T
 - The magnitude of the magnetic field around a long, straight current-carrying wire depends on the distance r from the wire and the *current* I through the wire:
-	- $$B = \mu $$
+	- $$B = \frac{\mu_{0}I}{2\pi r}$$
+	- $\mu_0$ is the **permeability constant**. It relates the strength of the magnetic field to the currents that produce it.
+		- $\mu_{0} = 1.26 * 10^{-6}$ $T \cdot m/A$
+		- 
