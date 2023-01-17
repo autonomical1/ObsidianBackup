@@ -43,3 +43,7 @@
 		- $\mu_{0} = 1.26 * 10^{-6}$ $T \cdot m/A$ $= 4\pi * 10^{-7}$ $T\cdot \frac{m}{A}$
 ### Magnetic Fields from More than One Source
 - The total magnetic field at any point is the vector sum of the individual fields at that point. This is the principle of superposition.
+### Current Loops
+- The magnetic field due to a current loop is more complex than that of a straight wire.
+- Because the loop can be thought of as a wire bent into a circle, the expression for the strength of the field at the center of the loop is similar to that of a wire.
+- $$B = \frac{\mu_{0}I}{2R}$$(Magnetic field at the center of a current loop of radius R)
