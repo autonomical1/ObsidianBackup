@@ -62,4 +62,5 @@
 
 ### Paths of Charged Particles in Magnetic Fields
 - A particle moving perpendicular to a uniform magnetic field undergoes uniform circular motion at constant speed.
-- $$$$$
+- $$F = \frac{mv^{2}}{r}$$ to $$F = |q|vB = \frac{mv^{2}}{r}$$
+- 
