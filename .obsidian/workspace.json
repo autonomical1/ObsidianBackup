@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 13 Homework.md",
+                "file": "Chapter 24 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10th Grade/AP Physics 2/Homework/Chapter 13 Homework.md",
+                "file": "Chapter 24 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "451123ad92ac3bbd",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
-    "10th Grade/AP Physics 2/Chapter 22.md",
-    "Attachments/Pasted image 20220322185827.png",
-    "10th Grade/AP Physics 2/Chapter 11.md",
-    "10th Grade/AP Physics 2/Chapter 20.md",
-    "10th Grade/AP Physics 2/Electric Field Mapping Lab.md",
-    "Chapter 24 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 23.md",
-    "10th Grade/Notes.md"
+    "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
+    "10th Grade/AP Physics 2/Notes/21.5 - Connecting Potential and Field.md",
+    "10th Grade/AP Physics 2/Notes/21.7 - Capacitance and Capacitors.md",
+    "10th Grade/AP Physics 2/Notes/21.8 - Energy and Capacitors.md",
+    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
+    "10th Grade/AP Physics 2/Notes/22.3 - Batteries and emf.md",
+    "10th Grade/AP Physics 2/Notes/22.4 - Connecting Potential and Current.md",
+    "10th Grade/AP Physics 2/Notes/22.5 - Ohm's Law and Resistor Circuits.md",
+    "10th Grade/AP Physics 2/Notes/23.1 - Circuit Elements and Diagrams.md",
+    "10th Grade/AP Physics 2/Notes/23.2 - Kirchhoff's Laws.md"
   ]
 }
