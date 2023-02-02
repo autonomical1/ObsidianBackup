@@ -55,3 +55,7 @@
 - The strength of the field will also be proportional to the current. The field does not depend on the radius of the solenoid.
 - $$B = \frac{\mu_{0}NI}{L} = \mu_{0}nI$$
 
+### Magnetic Fields exert forces on moving charges
+- Magnetic fields also exert forces on moving charged particles and on electric currents in wires
+- If charge is stationary or moves parallel to a magnetic field, there is no magnetic force
+- 
