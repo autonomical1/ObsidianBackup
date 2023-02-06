@@ -77,3 +77,5 @@
 - A second wire with current $I_{2}$ will experience the magnetic force due to the wire with current $I_{1}$.
 - Using the right-hand rule for forces, we can see that when $I_{2}$ is in the same direction as $I_{1}$, the second wire is attracted to the first one.
 - If they were in opposite directions, the second wire would be repelled. 
+### Forces between Current Loops
+-
