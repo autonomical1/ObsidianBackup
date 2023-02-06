@@ -73,4 +73,7 @@
 		- $$F_{wire} = ILB$$
 ### Forces Between Currents
 - Because a current produced a magnetic field, and a magnetic field exerts a force on a current, it follows that two current-carrying wires will exert forces on each other.
-- A wire carrying a current $I_1$ will create a magnetic field $\$
+- A wire carrying a current $I_1$ will create a magnetic field $\overrightarrow{B_{1}}$ 
+- A second wire with current $I_{2}$ will experience the magnetic force due to the wire with current $I_{1}$.
+- Using the right-hand rule for forces, we can see that when $I_{2}$ is in the same direction as $I_{1}$, the second wire is attracted to the first one.
+- If they were in opposite directions, the second wire would be repelled. 
