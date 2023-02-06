@@ -81,3 +81,9 @@
 - Just as there is an attractive force between parallel wires that have currents in the same direction, there is an attractive force between parallel loops in the same direction.
 - There is a repulsive force between parallel loops with currents in opposite directions.
 - Current loop, like a bar magnet, is a magnetic dipole. 
+
+# 24.8
+### Ferromagnetism
+- Materials that are strongly attracted to a magnet and that can be magnetized is called **ferromagnetic**
+- Magnetism, at an atomic level, is due to the *inherent magnetic moment* of electrons.
+- 
