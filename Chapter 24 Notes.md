@@ -71,4 +71,6 @@
 	- $$F_{wire} = ILB \cdot \sin \alpha$$
 	- When the wire is perpendicular to the field, $\alpha = 90 \deg$ so:
 		- $$F_{wire} = ILB$$
-- 
+### Forces Between Currents
+- Because a current produced a magnetic field, and a magnetic field exerts a force on a current, it follows that two current-carrying wires will exert forces on each other.
+- A wire carrying a current $I_1$ will create a magnetic field $\$
