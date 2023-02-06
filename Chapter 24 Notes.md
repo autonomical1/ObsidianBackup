@@ -78,4 +78,6 @@
 - Using the right-hand rule for forces, we can see that when $I_{2}$ is in the same direction as $I_{1}$, the second wire is attracted to the first one.
 - If they were in opposite directions, the second wire would be repelled. 
 ### Forces between Current Loops
--
+- Just as there is an attractive force between parallel wires that have currents in the same direction, there is an attractive force between parallel loops in the same direction.
+- There is a repulsive force between parallel loops with currents in opposite directions.
+- 
