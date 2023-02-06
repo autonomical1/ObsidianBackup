@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20a382df255737ff",
+        "id": "1a9e629f53f64af3",
         "type": "tabs",
         "children": [
           {
-            "id": "223a01fc57f4e617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10th Grade/Language/Weekly News Project 2.5.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e576afbd0df1b8",
+            "id": "451123ad92ac3bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb1b075e813d3e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flow rate",
+                "query": "kinetic energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,14 +72,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0f5c3a66501fc6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
@@ -117,18 +84,6 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "bd0d63b6187ec617",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AP Government/AP Government Readings.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -148,17 +103,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "55e576afbd0df1b8",
+  "active": "451123ad92ac3bbd",
   "lastOpenFiles": [
-    "10th Grade/Language/Weekly News Project 2.5.23.md",
-    "conflict-files-obsidian-git.md",
-    "10th Grade/Language/Weekly News Project 1.8.23.md",
-    "10th Grade/Language/Weekly News Project 12.12.22.md",
-    "10th Grade/AP Physics 2/Notes/13.5 - Fluids In Motion.md",
-    "10th Grade/Language/Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting.md",
-    "10th Grade/AP Physics 2/Chapter 23.md",
-    "10th Grade/Language/U.S. to spend 703 million on improving ports.md",
+    "10th Grade/Language/Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting 1.md",
     "10th Grade/Language/Tens of thousands likely jobless after Hurricane Ian.md",
-    "10th Grade/Language/Weekly News Project 8.28.md"
+    "10th Grade/Language/Weekly News Project 2.5.23.md",
+    "Chapter 24 Notes.md",
+    "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
+    "10th Grade/AP Physics 2/Notes/21.5 - Connecting Potential and Field.md",
+    "10th Grade/AP Physics 2/Notes/21.7 - Capacitance and Capacitors.md",
+    "10th Grade/AP Physics 2/Notes/21.8 - Energy and Capacitors.md",
+    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
+    "10th Grade/AP Physics 2/Notes/22.3 - Batteries and emf.md"
   ]
 }
