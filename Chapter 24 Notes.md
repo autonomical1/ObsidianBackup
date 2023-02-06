@@ -64,3 +64,7 @@
 - A particle moving perpendicular to a uniform magnetic field undergoes uniform circular motion at constant speed.
 - $$F = \frac{mv^{2}}{r}$$ to $$F = |q|vB = \frac{mv^{2}}{r}$$
 - $$r = \frac{mv}{|q|B}$$
+### The Form of Magnetic Force on a Current
+- We learned that the magnetic field exerts no force on a charged particle moving parallel to a magnetic field.
+- If a current-carrying wire is parallel to a magnetic field, the force is also zero.
+- 
