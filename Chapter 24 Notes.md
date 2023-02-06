@@ -80,4 +80,4 @@
 ### Forces between Current Loops
 - Just as there is an attractive force between parallel wires that have currents in the same direction, there is an attractive force between parallel loops in the same direction.
 - There is a repulsive force between parallel loops with currents in opposite directions.
-- 
+- Current loop, like a bar magnet, is a magnetic dipole. 
