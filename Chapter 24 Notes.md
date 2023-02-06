@@ -86,4 +86,6 @@
 ### Ferromagnetism
 - Materials that are strongly attracted to a magnet and that can be magnetized is called **ferromagnetic**
 - Magnetism, at an atomic level, is due to the *inherent magnetic moment* of electrons.
-- 
+- In most atoms with many electrons, the electrons occur in pairs with magnetic moments in opposite directions.
+- Unpaired electrons are able to give an atom a net magnetic moment.
+- For most elements whose atoms have magnetic moments, the moments are randomly arranged when the atoms join together to form a solid, so there is no net magnetism.
