@@ -107,4 +107,5 @@
 - Motion of the wire through a magnetic field *induces* a potential difference between the ends of the conductor:$$\Delta V = vlB$$
 - **Motional emf of a conductor moving perpendicular to the magnetic field**:$$\epsilon = vlB$$
 ### Induced current in a circuit
-- A moving conductor could have an emf, but it could not 
+- A moving conductor could have an emf, but it could not sustain a current because the charges had no where to go. 
+- 
