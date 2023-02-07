@@ -105,4 +105,5 @@
 - The charge separation continues until the electric force equals the magnetic force:$$F_{e} = qE = F_{B} = qvB$$
 - **The magnetic force on the charge carriers in a moving conductor creates an electric field $E = vB$ inside the conductor.**
 - Motion of the wire through a magnetic field *induces* a potential difference between the ends of the conductor:$$\Delta V = vlB$$
-	- 
+- **Motional emf of a conductor moving perpendicular to the magnetic field**:$$\epsilon = vlB$$
+- 
