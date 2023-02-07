@@ -98,4 +98,4 @@
 - **Changing magnetic fields create current**
 - Faraday placed one coil directly above the other, without the iron ring
 	- there was no current in the lower circuit in the closed position, there was a momentary induced current
-- 
+- Faraday found that there is a current in a coil of wire if an d only if the magnetic field passing through the coil is changing.
