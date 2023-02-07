@@ -96,4 +96,6 @@
 - We now know that a current can create a magnetic field.
 - Michael Faraday experimented with two coils of wire wrapped around an iron ring in an attempt to generate a current from a magnetic field
 - **Changing magnetic fields create current**
+- Faraday placed one coil directly above the other, without the iron ring
+	- there was no current in the lower circuit in the closed position, there was a momentary induced current
 - 
