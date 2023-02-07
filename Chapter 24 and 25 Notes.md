@@ -102,6 +102,8 @@
 
 # Motional emf
 - As a conductor moves through a uniform B, the charge carriers inside the conductor also move with the same velocity.
-- The charge carriers feel a force = qvB
-- Forces on the charge carriers in a moving conductor cause a charge separation that creates an electric field in teh conductor. 
-- The car
+- The charge carriers feel a force = qvB. 
+- Forces on the charge carriers in a moving conductor cause a charge separation that creates an electric field in the conductor. 
+- The charge separation continues until the electric force equals the magnetic force.
+- **The magnetic force on the charge carriers in a moving conductor creates an electric field $E = vB$ inside the conductor.**
+- 
