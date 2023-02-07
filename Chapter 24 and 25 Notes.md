@@ -63,14 +63,13 @@
 ### Paths of Charged Particles in Magnetic Fields
 - A particle moving perpendicular to a uniform magnetic field undergoes uniform circular motion at constant speed.
 - $$F = \frac{mv^{2}}{r}$$ to $$F = |q|vB = \frac{mv^{2}}{r}$$
-- $$r = \frac{mv}{|q|B}$$
+- to$$r = \frac{mv}{|q|B}$$
 ### The Form of Magnetic Force on a Current
 - We learned that the magnetic field exerts no force on a charged particle moving parallel to a magnetic field.
 - If a current-carrying wire is parallel to a magnetic field, the force is also zero.
-- The length of the wire *L*, the current *I*, and the magnetic field *B* affect the magnitude of the force on the wire:
-	- $$F_{wire} = ILB \cdot \sin \alpha$$
-	- When the wire is perpendicular to the field, $\alpha = 90 \deg$ so:
-		- $$F_{wire} = ILB$$
+- The length of the wire *L*, the current *I*, and the magnetic field *B* affect the magnitude of the force on the wire:$$F_{wire} = ILB \cdot \sin \alpha$$
+- When the wire is perpendicular to the field, $\alpha = 90 \deg$ so:
+		$$F_{wire} = ILB$$
 ### Forces Between Currents
 - Because a current produced a magnetic field, and a magnetic field exerts a force on a current, it follows that two current-carrying wires will exert forces on each other.
 - A wire carrying a current $I_1$ will create a magnetic field $\overrightarrow{B_{1}}$ 
@@ -104,6 +103,6 @@
 - As a conductor moves through a uniform B, the charge carriers inside the conductor also move with the same velocity.
 - The charge carriers feel a force = qvB. 
 - Forces on the charge carriers in a moving conductor cause a charge separation that creates an electric field in the conductor. 
-- The charge separation continues until the electric force equals the magnetic force.
+- The charge separation continues until the electric force equals the magnetic force:$$F_{e} = qE = F_{B} = qvB$$
 - **The magnetic force on the charge carriers in a moving conductor creates an electric field $E = vB$ inside the conductor.**
 - 
