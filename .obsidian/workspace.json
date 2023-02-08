@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76e08ee79230d311",
+        "id": "ef713cd42878b94a",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a2b19474d802ed",
+            "id": "6b191e5a5aa6675f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -98,17 +98,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b8a2b19474d802ed",
+  "active": "6b191e5a5aa6675f",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
+    "Links/Literature.md",
     "10th Grade/AP Physics 2/Chapter 22.md",
+    "Chapter 24 and 25 Notes.md",
+    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
     "10th Grade/AP Physics 2/Chapter 12.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
     "10th Grade/AP Physics 2/Chapter 23.md",
-    "Chapter 24 and 25 Notes.md",
     "Chapter 25.md",
     "conflict-files-obsidian-git.md",
-    "10th Grade/Language/Balloon drama comes at precarious time in US-China relations.md",
-    "10th Grade/Language/Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting 1.md"
+    "10th Grade/Language/Balloon drama comes at precarious time in US-China relations.md"
   ]
 }
