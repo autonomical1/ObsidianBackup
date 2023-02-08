@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9e629f53f64af3",
+        "id": "76e08ee79230d311",
         "type": "tabs",
         "children": [
           {
-            "id": "451123ad92ac3bbd",
+            "id": "b8a2b19474d802ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 24 and 25 Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 24 and 25 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +98,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "451123ad92ac3bbd",
+  "active": "b8a2b19474d802ed",
   "lastOpenFiles": [
-    "Chapter 25.md",
+    "10th Grade/AP Physics 2/Notes/22.1 - A Model of Current.md",
+    "10th Grade/AP Physics 2/Chapter 22.md",
+    "10th Grade/AP Physics 2/Chapter 12.md",
+    "10th Grade/AP Physics 2/Chapter 21.md",
+    "10th Grade/AP Physics 2/Chapter 23.md",
     "Chapter 24 and 25 Notes.md",
+    "Chapter 25.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/Language/Balloon drama comes at precarious time in US-China relations.md",
-    "10th Grade/Language/Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting 1.md",
-    "10th Grade/Language/Tens of thousands likely jobless after Hurricane Ian.md",
-    "10th Grade/Language/Weekly News Project 2.5.23.md",
-    "10th Grade/AP Physics 2/Notes/21.4 - Calculating the Electric Potential.md",
-    "10th Grade/AP Physics 2/Notes/21.5 - Connecting Potential and Field.md",
-    "10th Grade/AP Physics 2/Notes/21.7 - Capacitance and Capacitors.md"
+    "10th Grade/Language/Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting 1.md"
   ]
 }
