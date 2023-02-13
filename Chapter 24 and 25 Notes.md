@@ -1,14 +1,17 @@
- Magnetism
+
+# 24.1
+Magnetism
 - A magnet free to pivot is a **compass**
 - Like poles repel, unlike poles attract
 - *Magnetic poles and electric charges share some similar behavior, but they are not the same*
 
-# The Magnetic Field
+# 24.2
+### The Magnetic Field
 - *Every magnet sets up a magnetic field in the space around it*
 - Symbol: $\overrightarrow{B}$
 	- represents strength/magnitude of field
 
-# Measuring the Magnetic Field
+### Measuring the Magnetic Field
 - An electric dipole rotates to line up with the electric field
 	- electric dipole experiences a torque when placed in an electric field
 - The compass, a magnetic dipole, rotates so that its north pole points in the direction of the magnetic field.
@@ -22,8 +25,8 @@
 
 ### The Magnetic Field of the Earth
 - *The south pole of the earth's magnet is located near - not exactly coincident with - the earth's south end*
-
-# Electric Currents also create Magnetic Fields
+# 24.3
+### Electric Currents also create Magnetic Fields
 - Compass with react to the presence of a bar magnet
 	- will also deflect if you place the compass near a wire and pass a current through the wire. 
 - Magnetic field lines form circles around the wire. Magnetic force strength decreases as distance from wire increases.
@@ -32,6 +35,8 @@
 	- ![[Pasted image 20230105145152.png]]
 - Magnetic field lines due to currents have no start or end, they  form complete closed curves
 - Ordinary magnets are often called permanent magnets to distinguish between electromagnets.
+
+# 24.4
 ### Magnetic Field of a Straight, Current Carrying Wire
 - **Right-Hand Rule of Fields**
 
@@ -41,6 +46,7 @@
 	- $$B = \frac{\mu_{0}I}{2\pi r}$$(Magnetic field due to a long, straight current-carrying wire)
 	- $\mu_0$ is the **permeability constant**. It relates the strength of the magnetic field to the currents that produce it.
 		- $\mu_{0} = 1.26 * 10^{-6}$ $T \cdot m/A$ $= 4\pi * 10^{-7}$ $T\cdot \frac{m}{A}$
+# 24.5
 ### Magnetic Fields from More than One Source
 - The total magnetic field at any point is the vector sum of the individual fields at that point. This is the principle of superposition.
 ### Current Loops
@@ -54,7 +60,7 @@
 - The greater the ratio of N turns of wire to the length L of the solenoid (N/L), the stronger the field inside will be. 
 - The strength of the field will also be proportional to the current. The field does not depend on the radius of the solenoid.
 - $$B = \frac{\mu_{0}NI}{L} = \mu_{0}nI$$
-
+# 24.6
 ### Magnetic Fields exert forces on moving charges
 - Magnetic fields also exert forces on moving charged particles and on electric currents in wires
 - If charge is stationary or moves parallel to a magnetic field, there is no magnetic force
@@ -63,6 +69,7 @@
 ### Paths of Charged Particles in Magnetic Fields
 - A particle moving perpendicular to a uniform magnetic field undergoes uniform circular motion at constant speed.
 - $$F = \frac{mv^{2}}{r}$$--------------------------------------------------------------------$$F = |q|vB = \frac{mv^{2}}{r}$$--------------------------------------------------------------------$$r = \frac{mv}{|q|B}$$
+# 24.7
 ### The Form of Magnetic Force on a Current
 - We learned that the magnetic field exerts no force on a charged particle moving parallel to a magnetic field.
 - If a current-carrying wire is parallel to a magnetic field, the force is also zero.
@@ -97,8 +104,8 @@
 - Faraday placed one coil directly above the other, without the iron ring
 	- there was no current in the lower circuit in the closed position, there was a momentary induced current
 - Faraday found that there is a current in a coil of wire if an d only if the magnetic field passing through the coil is changing.
-
-# Motional emf
+---------------------------------------------------
+### Motional emf
 - As a conductor moves through a uniform B, the charge carriers inside the conductor also move with the same velocity.
 - The charge carriers feel a force = qvB. 
 - Forces on the charge carriers in a moving conductor cause a charge separation that creates an electric field in the conductor. 
