@@ -105,6 +105,7 @@ Magnetism
 	- there was no current in the lower circuit in the closed position, there was a momentary induced current
 - Faraday found that there is a current in a coil of wire if an d only if the magnetic field passing through the coil is changing.
 ---------------------------------------------------
+# 25.1
 ### Motional emf
 - As a conductor moves through a uniform B, the charge carriers inside the conductor also move with the same velocity.
 - The charge carriers feel a force = qvB. 
