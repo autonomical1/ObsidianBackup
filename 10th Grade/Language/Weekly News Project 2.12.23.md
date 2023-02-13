@@ -18,9 +18,7 @@ The Florida Department of Education is expected to review the course for conside
 in schools starting next fall.
 # Analysis
 
-The CollegeBoard article presents a balanced analysis of the recent election win,
-despite the organization's known liberal leanings. The author highlights the unprecedented 
-length of the voting process, making it an intriguing event. The article finishes with a personal 
+The CollegeBoard article presents a balanced analysis of the recent election win, despite the organization's known liberal leanings. The author highlights the unprecedented length of the voting process, making it an intriguing event. The article finishes with a personal 
 touch, suggesting that another member's involvement could ignite a challenge against McCarthy. 
 The author's neutral tone and absence of partisan commentary makes the analysis trustworthy and credible. 
 The focus remains on the unique aspects of the election, rather than taking a political stance. The article 
@@ -30,5 +28,5 @@ effectively informs readers about the historical significance of the event.
 My personal takeaway is that the idea that
 allowing governments to have any amount of control
 on content of any classes is wrong. It is even part
-of the constitution to not allow any main govenrment
-agencies to control the content in classes.
+of the constitution to not allow any main government
+agencies to control the content in classes. 
