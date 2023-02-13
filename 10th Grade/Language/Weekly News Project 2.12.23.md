@@ -1,5 +1,5 @@
 Title: The College Board slams DeSantis administration comments on African American studies
-Author: Bianca 
+Author: Bianca Quilantan and Andrew Attenbury
 Source: Politico
 Date Published: 2/12/23
 Date Printed: 2/12/23
@@ -12,8 +12,4 @@ The College Board has denied claims of negotiating the content of its new Africa
 The CollegeBoard article presents a balanced analysis of the recent election win, despite the organization's known liberal leanings. The author highlights the unprecedented length of the voting process, making it an intriguing event. The article finishes with a personal touch, suggesting that another member's involvement could ignite a challenge against McCarthy. The author's neutral tone and absence of partisan commentary makes the analysis trustworthy and credible. The focus remains on the unique aspects of the election, rather than taking a political stance. The article effectively informs readers about the historical significance of the event.
 
 # Personal Response
-My personal takeaway is that the idea that
-allowing governments to have any amount of control
-on content of any classes is wrong. It is even part
-of the constitution to not allow any main government
-agencies to control the content in classes. 
+My personal takeaway is that the idea that allowing governments to have any amount of control on content of any classes is wrong. It is even part of the constitution to not allow any main government agencies to control the content in classes. I also think that CollegeBoard should not be allowed to have anyone other than subject experts alter course content for  any of their classes, 
