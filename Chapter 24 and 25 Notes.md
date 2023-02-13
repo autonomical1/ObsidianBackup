@@ -14,7 +14,7 @@
 [[24.7]]
 
 [[24.8]]
-	
+		 
 # 25.1
 ### Motional emf
 - As a conductor moves through a uniform B, the charge carriers inside the conductor also move with the same velocity.
