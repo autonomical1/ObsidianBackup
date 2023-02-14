@@ -37,4 +37,6 @@
 - Device that converts mechanical energy to electric energy
 
 # 25.3 - Magnetic Flux
-- Faraday found that a current was induced when the amount of magnetic field pas
+- Faraday found that a current was induced when the amount of magnetic field passing through a coil or look changes.
+- This is what happens when we slide a wire along a rail
+- 
