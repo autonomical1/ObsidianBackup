@@ -39,4 +39,6 @@
 # 25.3 - Magnetic Flux
 - Faraday found that a current was induced when the amount of magnetic field passing through a coil or look changes.
 - This is what happens when we slide a wire along a rail
-- The magnetic field passing through a loop 
+- The magnetic field passing through a loop is also affected by the tipping of the loop.
+- The effective area:
+	- $$A_{eff} = ab cos \theta = A cos \theta$$ 
