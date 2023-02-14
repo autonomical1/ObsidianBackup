@@ -27,3 +27,4 @@
 ### Induced current in a circuit
 - A moving conductor could have an emf, but it could not sustain a current because the charges had no where to go. 
 - The current in a circuit with a moving conductor is an induced current. 
+- 
