@@ -42,5 +42,7 @@
 - The magnetic field passing through a loop is also affected by the tipping of the loop.
 - The effective area:
 	- $$A_{eff} = ab cos \theta = A cos \theta$$
-- $$\phi = A \cdot B$$
-- 
+- Magnetic flux: $\phi_{b}$ 
+	- $$\phi_{B} = \overrightarrow{A} \cdot \overrightarrow{B}$$
+	- $$\phi_{B}= A \cdot B \cdot \cos \theta$$
+	- 
