@@ -41,4 +41,6 @@
 - This is what happens when we slide a wire along a rail
 - The magnetic field passing through a loop is also affected by the tipping of the loop.
 - The effective area:
-	- $$A_{eff} = ab cos \theta = A cos \theta$$ 
+	- $$A_{eff} = ab cos \theta = A cos \theta$$
+- $$\phi = A \cdot B$$
+- 
