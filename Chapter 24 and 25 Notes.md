@@ -27,4 +27,6 @@
 ### Induced current in a circuit
 - A moving conductor could have an emf, but it could not sustain a current because the charges had no where to go. 
 - The current in a circuit with a moving conductor is an induced current. 
-- 
+- Current in circuit is induced when moving wire acts like a battery:
+	- $$I = \frac{\epsilon}{r} = \frac{vlB}{r}$$
+	- induced current I creates induced magnetic field which creates magnetic force
