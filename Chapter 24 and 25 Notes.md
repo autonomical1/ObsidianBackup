@@ -30,3 +30,5 @@
 - Current in circuit is induced when moving wire acts like a battery:
 	- $$I = \frac{\epsilon}{r} = \frac{vlB}{r}$$
 	- induced current I creates induced magnetic field which creates magnetic force
+	- ![[Pasted image 20230214144025.png]]
+	- 
