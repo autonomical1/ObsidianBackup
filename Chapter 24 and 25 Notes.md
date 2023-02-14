@@ -34,4 +34,7 @@
 	- $F_{pull}$ comes from some force causing the conductor to move, creating an induced current.
 	- $$F_{pull}= F_{mag} = IlB = (\frac{vlB}{r})lB = \frac{vl^{2}b^{2}}{R}$$
 ### Generators
-- Device that converts mechanical energy to electric energy using 
+- Device that converts mechanical energy to electric energy
+
+# 25.3 - Magnetic Flux
+- 
