@@ -37,4 +37,4 @@
 - Device that converts mechanical energy to electric energy
 
 # 25.3 - Magnetic Flux
-- 
+- Faraday found that a current was induced when the amount of magnetic field pas
