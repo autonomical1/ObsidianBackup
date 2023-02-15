@@ -52,4 +52,5 @@
 ### Lenz's Law
 - **Current is induced in a loop of wire when the magnetic flux through the loop changes**
 - Motion is not required to induce a current
-- 
+- To determine direction of induced current:
+	- There is an induced current in a closed, conducting loop if and only if the magnetic flux through the l
