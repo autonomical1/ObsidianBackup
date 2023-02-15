@@ -45,4 +45,4 @@
 - Magnetic flux: $\phi_{b}$ 
 	- $$\phi_{B} = \overrightarrow{A} \cdot \overrightarrow{B}$$
 	- $$\phi_{B}= A \cdot B \cdot \cos \theta$$
-	- 
+- 
