@@ -46,4 +46,10 @@
 	- $$\phi_{B} = \overrightarrow{A} \cdot \overrightarrow{B}$$
 	- $$\phi_{B}= A \cdot B \cdot \cos \theta$$
 - The **magnetic flux** depends on the strength of field and the effective area of the loop:
-	- $$\phi = A_{eff} B = AB \$$
+	- $$\phi = A_{eff} B = AB \cos \theta$$
+	- SI Unit: Weber
+	- 1 weber = 1 Wb = 1 T $\cdot$ $m^2$
+### Lenz's Law
+- **Current is induced in a loop of wire when the magnetic flux through the loop changes**
+- Motion is not required to induce a current
+- 
