@@ -54,4 +54,8 @@
 - Motion is not required to induce a current
 - To determine direction of induced current:
 	- There is an induced current in a closed, conducting loop if and only if the magnetic flux through the loop is changing. The direction of the induced current is such that the induced magnetic field opposes the change in the flux.
-- 
+- The flux can change in 3 ways:
+	- 1. B-Field through loop changes
+	- 2. Loop changes in area/angle
+	- 3. Loop moves in/out magnetic field
+- Induced current produces its own magnetic field. **It is this induced field that opposes the flux change**
