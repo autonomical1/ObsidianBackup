@@ -59,3 +59,4 @@
 	- 2. Loop changes in area/angle
 	- 3. Loop moves in/out magnetic field
 - Induced current produces its own magnetic field. **It is this induced field that opposes the flux change**
+- 
