@@ -65,5 +65,4 @@
 	- Direction of current is determined by Lenz's law, size of induced emf determined by Faraday's law.
 - Basic law of electromagnetic induction**
 	- Rate of change of the magnetic flux through the loop:
-		- $$\epsilon = |\frac{\Delta \phi}{\Delta t}|$$
-		- An emf is induced throig
+		- An emf is induced in a conducting loop if the magnetic flux through the loop changes. If the flux changes during a certain time interval, the magnitude of the emf is $$\epsilon = |\frac{\Delta \phi}{\Delta t}|$$ and the direction of the emf is such as to drive an induced current in the direction given by Lenz's law
