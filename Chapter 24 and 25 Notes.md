@@ -59,3 +59,7 @@
 	- 2. Loop changes in area/angle
 	- 3. Loop moves in/out magnetic field
 - Induced current produces its own magnetic field. **It is this induced field that opposes the flux change**
+### Faraday's Law
+- An **induced emf** $\epsilon$ is the emf associated with a changing magnetic flux
+	- $$I_{induced}=\frac{\epsilon}{R}$$
+	- Direction of current is determined by Lenz's law, size of induced emf determined by Faraday's law.
