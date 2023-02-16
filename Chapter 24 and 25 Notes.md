@@ -63,3 +63,7 @@
 - An **induced emf** $\epsilon$ is the emf associated with a changing magnetic flux
 	- $$I_{induced}=\frac{\epsilon}{R}$$
 	- Direction of current is determined by Lenz's law, size of induced emf determined by Faraday's law.
+- Basic law of electromagnetic induction**
+	- Rate of change of the magnetic flux through the loop:
+		- $$\epsilon = |\frac{\Delta \phi}{\Delta t}|$$
+		- An emf is induced throig
