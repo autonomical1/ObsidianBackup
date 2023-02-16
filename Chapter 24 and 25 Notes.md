@@ -68,4 +68,5 @@
 		- An emf is induced in a conducting loop if the magnetic flux through the loop changes. If the flux changes during a certain time interval, the magnitude of the emf is $$\epsilon = |\frac{\Delta \phi}{\Delta t}|$$ and the direction of the emf is such as to drive an induced current in the direction given by Lenz's law
 	- A coil wire consisting of N turns acts like N batteries in series, so induced emf:
 		- $$\epsilon_{coil} = N|\Delta \frac{\Phi_{coil}}{\Delta t}$$
-- Two 
+- Electromagnetic induction:
+	- Faraday's law finds magnitude, Lenz's law finds direction
