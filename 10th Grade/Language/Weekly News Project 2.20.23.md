@@ -9,4 +9,4 @@ The article reports that tensions have escalated between Russia and Ukraine in r
 # Analysis
 The article provides a mostly fair account of the phone call between Putin and Zelensky, but some language choices could be biased. The use of words like "tensions have risen" suggests a subjective view, and mentioning Biden's support for Ukraine may appear biased towards Ukraine. Overall, the article uses objective language but requires careful reading to avoid any potential biases.
 # Personal Response
-I think the way that Russia handles diplomatic relations with other countries, especially regarding Ukraine, is plain wrong and bad. They are entirely handling it incorrectly, as well as being way too aggressive in all of their fronts. I don't think that 
+I think the way that Russia handles diplomatic relations with other countries, especially regarding Ukraine, is plain wrong and bad. They are entirely handling it incorrectly, as well as being way too aggressive in all of their fronts. I think Russia should be less aggressive and 
