@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "10dbfceb8b56c975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10th Grade/Language/Weekly News Projecet 2.20.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cb1b075e813d3e52",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moscow downplays significance of Biden's visit to Kyiv.md",
+                "file": "10th Grade/Language/Weekly News Projecet 2.20.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,11 +144,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2164850226d03163",
+  "active": "10dbfceb8b56c975",
   "lastOpenFiles": [
+    "Moscow downplays significance of Biden's visit to Kyiv.md",
     "10th Grade/Language/Weekly News Project 2.5.23.md",
     "10th Grade/Language/Balloon drama comes at precarious time in US-China relations.md",
-    "Moscow downplays significance of Biden's visit to Kyiv.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/Language/Weekly News Project 1.8.23.md",
     "10th Grade/Language/Weekly News Project 12.12.22.md",
