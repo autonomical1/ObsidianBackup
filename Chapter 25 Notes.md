@@ -7,6 +7,8 @@
 - **The magnetic force on the charge carriers in a moving conductor creates an electric field $E = vB$ inside the conductor.**
 - Motion of the wire through a magnetic field *induces* a potential difference between the ends of the conductor:$$\Delta V = vlB$$
 - **Motional emf of a conductor moving perpendicular to the magnetic field**:$$\epsilon = vlB$$
+
+# 25.2
 ### Induced current in a circuit
 - A moving conductor could have an emf, but it could not sustain a current because the charges had no where to go. 
 - The current in a circuit with a moving conductor is an induced current. 
@@ -32,6 +34,8 @@
 	- $$\phi = A_{eff} B = AB \cos \theta$$
 	- SI Unit: Weber
 	- 1 weber = 1 Wb = 1 T $\cdot$ $m^2$
+
+# 25.4
 ### Lenz's Law
 - **Current is induced in a loop of wire when the magnetic flux through the loop changes**
 - Motion is not required to induce a current
