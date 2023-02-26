@@ -93,14 +93,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0f5c3a66501fc6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
@@ -144,10 +136,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "10dbfceb8b56c975",
+  "active": "69f1923f4f3cfc33",
   "lastOpenFiles": [
-    "10th Grade/AP Physics 2/Notes/24.8.md",
     "Chapter 25 Notes.md",
+    "10th Grade/AP Physics 2/Notes/24.8.md",
     "10th Grade/Language/Weekly News Project 2.20.23.md",
     "10th Grade/Language/Weekly News Project 2.12.23.md",
     "10th Grade/Language/Moscow downplays significance of Biden's visit to Kyiv.md",
