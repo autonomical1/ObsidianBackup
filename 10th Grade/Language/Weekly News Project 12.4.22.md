@@ -1,4 +1,3 @@
-
 Title: Biden signs law bringing rail strike saga to an end
 Author: Nick Niedzwiadek
 Source: Politico
