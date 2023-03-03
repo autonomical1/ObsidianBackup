@@ -13,4 +13,6 @@
 - **Electromagnetic waves**: waves of an *electromagnetic field*. Includes visible light, radio waves, microwaves, etc.
 	- req. no material medium and can travel through a vacuum.
 - **Matter waves:** wave-like characteristics of material particles such as electrons and atoms
-- 
+
+### Transverse and Longitudinal Waves
+- **transverse**: wave in which the particles in the medium move perpendicularly to the direction in which the waves travels. 
