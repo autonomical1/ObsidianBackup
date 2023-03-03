@@ -18,3 +18,4 @@
 - **transverse**: wave in which the particles in the medium move perpendicularly to the direction in which the waves travels. 
 - **longitudinal**: particles in the medium move parallel to the direction in which the wave travels.
 	- sound waves are the most common form of longitudinal waves.
+- 
