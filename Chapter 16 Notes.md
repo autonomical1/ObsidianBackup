@@ -4,4 +4,5 @@
 
 ### Mechanical Waves
 - **Mechanical Waves**: involve motion of the substance through which they move. Substance = medium
-- **Distbr
+- **Disturbance**: wave that passes through a medium, displacing the atoms that make up the medium from their equilibrium position
+	- t
