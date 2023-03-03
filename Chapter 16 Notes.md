@@ -21,3 +21,8 @@
 - earthquake waves: S waves (transverse) and P waves (longitudinal)
 
 # 16.2 - Travelling Waves
+### Wave Speed is a Property of the Medium
+- **The wave speed does not depend on the size and shape of the pulse, how the pulse was generated, or how far it has traveled.**
+- speed depends on mass-to-length ratio, the **linear density** of the string
+	- $$\mu = \frac{m}{L}$$
+- Wave speed in
