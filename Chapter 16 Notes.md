@@ -25,4 +25,7 @@
 - **The wave speed does not depend on the size and shape of the pulse, how the pulse was generated, or how far it has traveled.**
 - speed depends on mass-to-length ratio, the **linear density** of the string
 	- $$\mu = \frac{m}{L}$$
-- Wave speed in
+- Wave speed increases with increasing tension
+- Wave speed decreases with increasing linear density:
+	- $$v_{string} = \sqrt{\frac{T_{s}}{\mu}}$$
+	- 
