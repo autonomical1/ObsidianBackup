@@ -19,4 +19,5 @@
 - **longitudinal**: particles in the medium move parallel to the direction in which the wave travels.
 	- sound waves are the most common form of longitudinal waves.
 - earthquake waves: S waves (transverse) and P waves (longitudinal)
-- 
+
+# 16.2 - Travelling Waves
