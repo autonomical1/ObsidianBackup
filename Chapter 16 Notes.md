@@ -8,4 +8,9 @@
 	- travels with a **wave speed**
 	- wave transfers energy, but **medium as a whole does not travel**
 - **Waves transfer energy, but it does not transfer any material or substance outward from the source.**
+
+### Electromagnetic and Matter Waves
+- **Electromagnetic waves**: waves of an *electromagnetic field*. Includes visible light, radio waves, microwaves, etc.
+	- req. no material medium and can travel through a vacuum.
+- **Matter waves:** wave-like characteristics of material particles such as electrons and atoms
 - 
