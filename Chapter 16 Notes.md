@@ -28,10 +28,11 @@
 - Wave speed increases with increasing tension
 - Wave speed decreases with increasing linear density:
 	- $$v_{string} = \sqrt{\frac{T_{s}}{\mu}}$$
-- 
+- For calculations, use speed of sound in the air ($20 \degree C$)
+- **Speed of light**
 ### Sound Waves
 - When a loudspeaker cone moves forward, it compresses the air in front of it.
 - The **compression** is the disturbance that travels through the air
 - **sound wave is a longitudinal wave**
 - motion of the sound waves determined by the properties of the air
-- For calculations, use speed of sound in the air ($20 \degree C$)
+
