@@ -48,4 +48,5 @@
 - Wave frequency is related to the period T = 1/f, exactly the same as in SHM. Motion of the point is: $$y(t) = A \cos (2\pi \frac{t}{T})$$
 - **Wave function:**$$y(x,t) = A \cos(2\pi(\frac{x}{\lambda} - \frac{t}{T}))$$
 	- negative changes to positive if the wave is moving left
-- 
+
+### The Fundamental Relations
