@@ -36,4 +36,8 @@
 - **sound wave is a longitudinal wave**
 - motion of the sound waves determined by the properties of the air
 
-### Si
+### Sinusoidal Waves
+- **sinusoidal wave**: type of wave produced by a source that oscillates with simple harmonic motion
+- **amplitude**: *A*, maximum value of displacement
+	- crests have displacement of $A$ and troughs have displacement of $-A$ 
+- 
