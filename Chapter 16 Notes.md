@@ -46,4 +46,5 @@
 	- Wave number: $k = \frac{2\pi}{\lambda}$
 - $$y(x = \lambda) = A \cos (\frac{2\pi}{\lambda}\lambda)$$
 - Wave frequency is related to the period T = 1/f, exactly the same as in SHM. Motion of the point is: $$y(t) = A \cos (2\pi \frac{t}{T})$$
-- Wave function:
+- **Wave function:**$$y(x,t) = A \cos(2\pi(\frac{x}{\lambda} - \frac{t}{T}))$$
+- 
