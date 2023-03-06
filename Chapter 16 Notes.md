@@ -49,4 +49,8 @@
 - **Wave function:**$$y(x,t) = A \cos(2\pi(\frac{x}{\lambda} - \frac{t}{T}))$$
 	- negative changes to positive if the wave is moving left
 
-### The Fundamental Relations
+### The Fundamental Relationship for sinusoidal waves
+- During a time interval of exactly one period T, each crest of a sinusoidal wave travels forward at a distance of exactly one wavelength: $$v = \frac{distance}{time} = \frac{\lambda}{T}$$
+- In terms of frequency:$$v = \lambda f$$
+### Light and other EM waves
+- 
