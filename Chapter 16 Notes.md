@@ -53,4 +53,8 @@
 - During a time interval of exactly one period T, each crest of a sinusoidal wave travels forward at a distance of exactly one wavelength: $$v = \frac{distance}{time} = \frac{\lambda}{T}$$
 - In terms of frequency:$$v = \lambda f$$
 ### Light and other EM waves
-- 
+- EM wave is oscillation of the electromagnetic field
+- visible light, radio waves, microwaves, etc.
+- All EM waves travel through a vacuum at the same speed: $c = 3.00 \cdot 10^{8}$
+	- $$C = \frac{1}{\sqrt{\epsilon_{0}\mu_{0}}}$$
+	- 
