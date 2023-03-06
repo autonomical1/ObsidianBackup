@@ -40,4 +40,5 @@
 - **sinusoidal wave**: type of wave produced by a source that oscillates with simple harmonic motion
 - **amplitude**: *A*, maximum value of displacement
 	- crests have displacement of $A$ and troughs have displacement of $-A$ 
+- **wavelength**: distance in one c
 - 
