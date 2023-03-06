@@ -62,4 +62,6 @@
 ### Reflections
 - A wave pulse traveling along a strong attached to a wall will be reflected when it reaches the wall/boundary
 - All of the wave's energy will be reflected; hence **the amplitude of a wave reflected from a boundary is unchanged**
+- Waves also reflect from a discontinuity, a point where there is a change in the properties of the medium.
+- At a discontinuity, some of the wave's energy is transmitted forward and some is reflected
 - 
