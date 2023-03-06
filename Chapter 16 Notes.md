@@ -61,4 +61,5 @@
 # 16.1 - Principle of Superposition
 ### Reflections
 - A wave pulse traveling along a strong attached to a wall will be reflected when it reaches the wall/boundary
-- All of the wave's energy will be reflected; hence **the amplitude of a wave reflected from a boundary
+- All of the wave's energy will be reflected; hence **the amplitude of a wave reflected from a boundary is unchanged**
+- 
