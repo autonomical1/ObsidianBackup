@@ -57,4 +57,8 @@
 - visible light, radio waves, microwaves, etc.
 - All EM waves travel through a vacuum at the same speed: $c = 3.00 \cdot 10^{8}$
 	- $$C = \frac{1}{\sqrt{\epsilon_{0}\mu_{0}}}$$
-	- 
+
+# 16.1 - Principle of Superposition
+### Reflections
+- A wave pulse traveling along a strong attached to a wall will be reflected when it reaches the wall/boundary
+- All of the wave's energy will be reflected; hence **the amplitude of a wave reflected from a boundary
