@@ -40,5 +40,8 @@
 - **sinusoidal wave**: type of wave produced by a source that oscillates with simple harmonic motion
 - **amplitude**: *A*, maximum value of displacement
 	- crests have displacement of $A$ and troughs have displacement of $-A$ 
-- **wavelength**: distance in one c
-- 
+- **wavelength**: distance in one cycle of motion
+- $$y(x) = A \cos{2\pi \frac{x}{\lambda}}$$
+	- In distance $x=\lambda$, phase shift $2\pi$
+	- Wave number: $k = \frac{2\pi}{\lambda}$
+- $$y(x = \lambda) = A \cos (2\)$$
