@@ -81,4 +81,7 @@
 - When the opening is many times larger than the wavelength of the wave, the wave continues to move straight forward
 - This is similar to the straight-line appearance of light with sharp shadows as light passes through large windows.
 ### Light is an Electromagnetic Wave
-- All EM waves
+- All EM waves move at the speed of light: $c = 3.00 \cdot 10^8$ 
+- $$f = \frac{v}{\lambda} = \frac{3.00 \cdot 10^{8}}{600 \cdot 10^9}$$
+
+### I
