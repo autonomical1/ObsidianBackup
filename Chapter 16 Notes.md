@@ -86,4 +86,5 @@
 
 ### Index of Refraction
 - Speed of light in a material is characterized by the material's **index of refraction**$$n = \frac{\text{speed of light in a vacuum}}{\text{speed of light in the material}} = \frac{c}{v}$$
-	- n is always greater th
+	- n is always greater than 1 because v is always less than C, vacuum has n = 1.
+- 
