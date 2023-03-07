@@ -91,3 +91,6 @@
 - **The wavelength in the transparent material is shorter than the wavelength in a vacuum.**
 
 
+### The Interference of Light
+- Because light acts as a wave, light waves can overlap and interfere constructively and destructively
+- 
