@@ -77,4 +77,4 @@
 ### The Propagation of Light Waves
 - A water wave passes through a window-like opening in a barrier.
 - Wave spreads out to fill the space behind the opening. **Diffraction**
-	- clear signt
+	- clear sign that the wave is passing through the opening
