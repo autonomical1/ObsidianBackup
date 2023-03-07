@@ -84,4 +84,6 @@
 - All EM waves move at the speed of light: $c = 3.00 \cdot 10^8$ 
 - $$f = \frac{v}{\lambda} = \frac{3.00 \cdot 10^{8}}{600 \cdot 10^9}$$
 
-### I
+### Index of Refraction
+- Speed of light in a material is characterized by the material's **index of refraction**$$n = \frac{\text{speed of light in a vacuum}}{\text{speed of light in the material}} = \frac{c}{v}$$
+	- n is always greater th
