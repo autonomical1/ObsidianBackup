@@ -71,4 +71,10 @@
 	- Wave model: wave optics
 	- Ray model: light travels in a straight line
 		- ray optics
-	- Photon models: photons have both wave-like and photon-like particles. photons = quanta of light, 
+	- Photon models: photons have both wave-like and photon-like particles. photons = quanta of light
+
+
+### The Propagation of Light Waves
+- A water wave passes through a window-like opening in a barrier.
+- Wave spreads out to fill the space behind the opening. **Diffraction**
+	- clear signt
