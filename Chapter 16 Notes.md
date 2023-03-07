@@ -93,4 +93,6 @@
 
 ### The Interference of Light
 - Because light acts as a wave, light waves can overlap and interfere constructively and destructively
-- double slit experiment: 
+- double slit experiment
+- light spreads out behind each slit
+- 
