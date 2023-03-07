@@ -64,4 +64,11 @@
 - All of the wave's energy will be reflected; hence **the amplitude of a wave reflected from a boundary is unchanged**
 - Waves also reflect from a discontinuity, a point where there is a change in the properties of the medium.
 - At a discontinuity, some of the wave's energy is transmitted forward and some is reflected
-- 
+
+### What is Light?
+- Has property of both waves and particles
+- 3 models:
+	- Wave model: wave optics
+	- Ray model: light travels in a straight line
+		- ray optics
+	- Photon models: photons have both wave-like and photon-like particles. photons = quanta of light, 
