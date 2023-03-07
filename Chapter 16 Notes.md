@@ -79,4 +79,5 @@
 - Wave spreads out to fill the space behind the opening. **Diffraction**
 	- clear sign that the wave is passing through the opening
 - When the opening is many times larger than the wavelength of the wave, the wave continues to move straight forward
-- This is similar to the straight-l
+- This is similar to the straight-line appearance of light with sharp shadows as light passes through large windows.
+- 
