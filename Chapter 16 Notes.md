@@ -89,4 +89,5 @@
 	- n is always greater than 1 because v is always less than C, vacuum has n = 1.
 - **The frequency of a wave does not change as the wave moves from one medium to another.**
 - **The wavelength in the transparent material is shorter than the wavelength in a vacuum.**
-  
+
+
