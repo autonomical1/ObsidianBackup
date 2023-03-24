@@ -31,3 +31,4 @@
 	- Constructive interference when $\Delta r = m \lambda$, where $m = 0,1,2,3, ...$ 
 		- bright fringes occur at these point
 	- path-length interference = $$\Delta r = d \sin \theta$$
+		- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => $
