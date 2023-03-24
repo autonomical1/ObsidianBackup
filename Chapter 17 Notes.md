@@ -76,4 +76,6 @@
 - each point on a wave front can be thought of as a source of the spherical wavelet
 - they overlap and interfere, which produces the diffraction pattern
 - several travel straight ahead in phase
-- constructive interference occurs 
+- constructive interference occurs at the central maximum
+- At points away from the center of the screen, interference occurs
+- Wavelets 1 and 2 start at a distance 
