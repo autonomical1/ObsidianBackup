@@ -28,13 +28,16 @@
 	- For experiment: light shown through 2 slits, light passing through the slits impinge on the viewing screen.
 	- light spreads out behind each slit
 	- constructive interference at the point where distance $r_{1}$ and $r_{2}$ are a whole wavelength apart
-	- Constructive interference when $\Delta r = m \lambda$, where $m = 0,1,2,3, ...$ 
-		- bright fringes occur at these point
-	- **path-length interference** = $$\Delta r = d \sin \theta$$
-		- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => y_{m} = \frac{m\lambda L}{d}$$
-	- For destructive interference: $$\Delta r = (m + \frac{1}{2})\lambda$$
-	- Diffraction Grating: multi-slit device
-- **Thin Film Interference**: interference of light waves reflected from 2 boundaries of a thin film
+### Analyzing Double Slit Interference
+- Constructive interference when $\Delta r = m \lambda$, where $m = 0,1,2,3, ...$ 
+	- bright fringes occur at these point
+- **path-length interference** = $$\Delta r = d \sin \theta$$
+	- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => y_{m} = \frac{m\lambda L}{d}$$
+- For destructive interference: $$\Delta r = (m + \frac{1}{2})\lambda$$
+### Diffraction Grating
+- multi-slit device
+# 17.4 -  Thin Film Interference:
+- interference of light waves reflected from 2 boundaries of a thin film
 - Interferences of reflected light waves:
 	- Light wave reflected partially from any boundary between 2 transparent media with different indices of refraction
 	- light wave undergoes a phase change if it reflects from a boundary at which index of refraction increases
@@ -56,4 +59,4 @@
 		- 1 is constructive
 - Thin Films of Air:
 	- Film does not have to be solid
-- Single Slit Diffraction: 
+# 17.5 - Single Slit Diffraction
