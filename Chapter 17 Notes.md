@@ -67,4 +67,13 @@
 ### Huygens's Principle
 - Built model to visulaize how any wave, like wave passing through a slit, evolves.
 - 2 parts: 
-	- each point on a wave front is a source of a spherical wv
+	- each point on a wave front is a source of a spherical wavelet that spreads at wave speed
+	- later, the shape of the wave front is the curve tangent to all of the wavelets.
+- Curve tangent to wavelets is in the plane propagating to the right
+	- curve tangent to wavelets of a spherical wave is a larger wave
+
+### Analyzing Single-Slit Diffraction
+- each point on a wave front can be thought of as a source of the spherical wavelet
+- they overlap and interfere, which produces the diffraction pattern
+- several travel straight ahead in phase
+- constructive interference occurs 
