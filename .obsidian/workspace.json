@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c66ee2b7b8fc61cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 17 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 16 Notes.md",
+                "file": "Chapter 17 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +136,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4a1e62f4cf4b49d",
+  "active": "c66ee2b7b8fc61cc",
   "lastOpenFiles": [
-    "Chapter 25 Notes.md",
     "Chapter 16 Notes.md",
+    "Chapter 17 Notes.md",
+    "Chapter 25 Notes.md",
     "10th Grade/Language/U.S. to spend 703 million on improving ports.md",
     "10th Grade/Language/Trimester 1 Reflection.md",
     "10th Grade/Language/Tens of thousands likely jobless after Hurricane Ian.md",

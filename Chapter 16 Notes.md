@@ -1,3 +1,4 @@
+# 16.1 - Principle of Superposition
 ### The Wave Model
 - The **wave model** describes the basic properties of waves and emphasizes those aspects of wave behaviors common to all waves.
 - **travelling wave** is an organized disturbance that travels with a well-defined wave speed
@@ -58,7 +59,7 @@
 - All EM waves travel through a vacuum at the same speed: $c = 3.00 \cdot 10^{8}$
 	- $$C = \frac{1}{\sqrt{\epsilon_{0}\mu_{0}}}$$
 
-# 16.1 - Principle of Superposition
+
 ### Reflections
 - A wave pulse traveling along a strong attached to a wall will be reflected when it reaches the wall/boundary
 - All of the wave's energy will be reflected; hence **the amplitude of a wave reflected from a boundary is unchanged**
