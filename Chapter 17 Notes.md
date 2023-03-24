@@ -51,4 +51,9 @@
 	- $$ 2t = m \frac{\lambda}{n} \text{, where } m = 0, 1, 2, ...$$
 		- 0, 2 is constructive
 		- 1 is destructive
-	- 
+	- $$2t = \left(m + \frac{1}{2}\right) \frac{\lambda}{n} \text{, where } m = 0,1, 2,...$$
+		- 0, 2 is destructive
+		- 1 is constructive
+- Thin Films of Air:
+	- Film does not have to be solid
+- Single Slit Diffraction: 
