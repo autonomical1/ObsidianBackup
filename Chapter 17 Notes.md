@@ -78,4 +78,5 @@
 - several travel straight ahead in phase
 - constructive interference occurs at the central maximum
 - At points away from the center of the screen, interference occurs
-- Wavelets 1 and 2 start at a distance 
+- Wavelets 1 and 2 start at a distance $\frac{a}{2}$ apart; $\Delta R_{12} = \frac{\lambda}{2}$ for out of phase (destructive interference)
+	- 
