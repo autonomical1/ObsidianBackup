@@ -24,5 +24,10 @@
 # 17.2 - The Interference of Light
 - Because light acts as a wave, light waves can overlap and interfere constructively and destructively
 - Young's Double-Slit Experiment
-	- To observe interference, 2 lgiht sources need to overlap and interfere
-	- For experiment: light shown through 2 slits, light passing through the slits i
+	- To observe interference, 2 light sources need to overlap and interfere
+	- For experiment: light shown through 2 slits, light passing through the slits impinge on the viewing screen.
+	- light spreads out behind each slit
+	- constructive interference at the point where distance $r_{1}$ and $r_{2}$ are a whole wavelength apart
+	- Constructive interference when $\Delta r = m \lambda$, where $m = 0,1,2,3, ...$ 
+		- bright fringes occur at these point
+	- path-length interference = $$\Delta r = d \sin \theta$$
