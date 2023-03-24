@@ -34,7 +34,7 @@
 - **path-length interference** = $$\Delta r = d \sin \theta$$
 	- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => y_{m} = \frac{m\lambda L}{d}$$
 - For destructive interference: $$\Delta r = (m + \frac{1}{2})\lambda$$
-### Diffraction Grating
+# 17.3 - Diffraction Grating
 - multi-slit device
 # 17.4 -  Thin Film Interference:
 - interference of light waves reflected from 2 boundaries of a thin film
@@ -60,3 +60,11 @@
 - Thin Films of Air:
 	- Film does not have to be solid
 # 17.5 - Single Slit Diffraction
+- Diffraction through tall, narrow slit of width $a$ 
+	- light pattern has a **central maximum** and series of weaker **secondary minima** and dark fringes
+		- central max is broad and bright
+
+### Huygens's Principle
+- Built model to visulaize how any wave, like wave passing through a slit, evolves.
+- 2 parts: 
+	- each point on a wave front is a source of a spherical wv
