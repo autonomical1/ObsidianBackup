@@ -31,4 +31,7 @@
 	- Constructive interference when $\Delta r = m \lambda$, where $m = 0,1,2,3, ...$ 
 		- bright fringes occur at these point
 	- path-length interference = $$\Delta r = d \sin \theta$$
-		- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => $
+		- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => y_{m} = \frac{m\lambda L}{d}$$
+	- For destructive interference: $$\Delta r = (m + \frac{1}{2})\lambda$$
+	- Diffraction Grating: multi-slit device
+- Thin 
