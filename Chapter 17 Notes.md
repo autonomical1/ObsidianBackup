@@ -30,7 +30,7 @@
 	- constructive interference at the point where distance $r_{1}$ and $r_{2}$ are a whole wavelength apart
 	- Constructive interference when $\Delta r = m \lambda$, where $m = 0,1,2,3, ...$ 
 		- bright fringes occur at these point
-	- path-length interference = $$\Delta r = d \sin \theta$$
+	- **path-length interference** = $$\Delta r = d \sin \theta$$
 		- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => y_{m} = \frac{m\lambda L}{d}$$
 	- For destructive interference: $$\Delta r = (m + \frac{1}{2})\lambda$$
 	- Diffraction Grating: multi-slit device
@@ -39,4 +39,8 @@
 	- Light wave reflected partially from any boundary between 2 transparent media with different indices of refraction
 	- light wave undergoes a phase change if it reflects from a boundary at which index of refraction increases
 		- no phase change occurs when index decreases
-	- For thin, transparent film, most of the light is transmitted into the film. Some light re
+	- For thin, transparent film, most of the light is transmitted into the film. Some light reflects off of the first (air-film) boundary, and some of it is reflected at the second (film-glass) boundary
+		- reflected waves interfere
+	- If waves are in phase - constructive interference occurs
+	- If waves are out of phase - destructive interference occurs.
+	- **path-length difference**: $$\Delta d = 2t$$
