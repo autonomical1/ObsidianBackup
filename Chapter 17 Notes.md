@@ -34,4 +34,9 @@
 		- $$\sin \theta_{m} = \theta_{m} = m \frac{\lambda}{d} => y_{m} = \frac{m\lambda L}{d}$$
 	- For destructive interference: $$\Delta r = (m + \frac{1}{2})\lambda$$
 	- Diffraction Grating: multi-slit device
-- Thin 
+- **Thin Film Interference**: interference of light waves reflected from 2 boundaries of a thin film
+- Interferences of reflected light waves:
+	- Light wave reflected partially from any boundary between 2 transparent media with different indices of refraction
+	- light wave undergoes a phase change if it reflects from a boundary at which index of refraction increases
+		- no phase change occurs when index decreases
+	- For thin, transparent film, most of the light is transmitted into the film. Some light re
