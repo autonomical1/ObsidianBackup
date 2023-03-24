@@ -44,3 +44,6 @@
 	- If waves are in phase - constructive interference occurs
 	- If waves are out of phase - destructive interference occurs.
 	- **path-length difference**: $$\Delta d = 2t$$
+		- between reflected waves because second wave travels through the film twice
+	- phase change from wave reflected from higher index of refraction means that there is an extra half-wavelength added to the distance travelled
+	- if neither/both waves have a phase change, net addition to the path-length difference is zero, so effect
