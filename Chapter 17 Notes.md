@@ -65,7 +65,7 @@
 		- central max is broad and bright
 
 ### Huygens's Principle
-- Built model to visulaize how any wave, like wave passing through a slit, evolves.
+- Built model to visualize how any wave, like wave passing through a slit, evolves.
 - 2 parts: 
 	- each point on a wave front is a source of a spherical wavelet that spreads at wave speed
 	- later, the shape of the wave front is the curve tangent to all of the wavelets.
@@ -84,4 +84,6 @@
 - small angle approximation: $\theta_{p} = p \frac{\lambda}{a} \text{, where } p = 1,2,3,...$
 	- p = 0 is excluded because it is the central maximum
 - Dark fringes in pattern:
-	- $$y_{p} = p\$$
+	- $$y_{p} = \frac{p\lambda L}{a}$$
+- Width of Central maximum: 2y
+- the smaller the opening, the more the light wave spreads out
