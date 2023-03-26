@@ -4,23 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa2d6a88c875a43",
+        "id": "20a382df255737ff",
         "type": "tabs",
         "children": [
           {
-            "id": "f4a1e62f4cf4b49d",
+            "id": "2164850226d03163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 16 Notes.md",
+                "file": "10th Grade/Language/Moscow downplays significance of Biden's visit to Kyiv.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c66ee2b7b8fc61cc",
+            "id": "10dbfceb8b56c975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 25 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb1b075e813d3e52",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d4cb5030e6e68ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,14 +105,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0f5c3a66501fc6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
@@ -136,31 +148,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c66ee2b7b8fc61cc",
+  "active": "7d4cb5030e6e68ee",
   "lastOpenFiles": [
-    "Chapter 25 Notes.md",
-    "Chapter 16 Notes.md",
+    "10th Grade/Language/Weekly News Project 2.20.23.md",
+    "conflict-files-obsidian-git.md",
     "Chapter 17 Notes.md",
+    "Chapter 16 Notes.md",
+    "10th Grade/Language/Weekly News Project 2.12.23.md",
+    "10th Grade/Language/Weekly News Project 2.5.23.md",
+    "10th Grade/Language/Weekly News Project 1.8.23.md",
+    "10th Grade/Language/Weekly News Project 12.12.22.md",
+    "10th Grade/Language/Weekly News Project 12.4.22.md",
+    "10th Grade/Language/Weekly News Project 9.18.md",
+    "10th Grade/Language/Weekly News Project 10.30.22.md",
+    "10th Grade/Language/Weekly News Project 10.2.22.md",
+    "10th Grade/Language/Weekly News Project 10.23.22.md",
+    "10th Grade/AP Physics 2/Chapter 23.md",
+    "Chapter 25 Notes.md",
+    "10th Grade/AP Physics 2/Notes/24.8.md",
+    "10th Grade/Language/Moscow downplays significance of Biden's visit to Kyiv.md",
+    "10th Grade/Language/Balloon drama comes at precarious time in US-China relations.md",
     "10th Grade/Language/U.S. to spend 703 million on improving ports.md",
     "10th Grade/Language/Trimester 1 Reflection.md",
-    "10th Grade/Language/Tens of thousands likely jobless after Hurricane Ian.md",
-    "10th Grade/Language/Moscow downplays significance of Biden's visit to Kyiv.md",
-    "10th Grade/Language/Kevin McCarthy wins speaker race after a grueling 4 days and 15 rounds of voting.md",
-    "10th Grade/Language/Balloon drama comes at precarious time in US-China relations.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 13 Homework.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 21 Homework.md",
-    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
-    "10th Grade/AP Physics 2/Chapter 12.md",
-    "10th Grade/AP Physics 2/Chapter 21.md",
-    "10th Grade/AP Physics 2/Chapter 23.md",
-    "10th Grade/AP Physics 2/Chapter 24.md",
-    "conflict-files-obsidian-git.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 12.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 11.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 10.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 9.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 5.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 6.md",
-    "9th Grade/AP Physics 1/Readings/Chapter 7.md"
+    "10th Grade/Language/Tens of thousands likely jobless after Hurricane Ian.md"
   ]
 }

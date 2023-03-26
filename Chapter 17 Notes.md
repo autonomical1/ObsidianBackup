@@ -79,4 +79,5 @@
 - constructive interference occurs at the central maximum
 - At points away from the center of the screen, interference occurs
 - Wavelets 1 and 2 start at a distance $\frac{a}{2}$ apart; $\Delta R_{12} = \frac{\lambda}{2}$ for out of phase (destructive interference)
-	- 
+- Condition for destructive interference: $\Delta r_{12} = \frac{a}{2} \text{, } \sin \theta_{1} = \frac{\lambda}{2}$
+	- complete destructive interference: $a$
