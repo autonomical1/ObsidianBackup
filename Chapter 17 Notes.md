@@ -80,4 +80,8 @@
 - At points away from the center of the screen, interference occurs
 - Wavelets 1 and 2 start at a distance $\frac{a}{2}$ apart; $\Delta R_{12} = \frac{\lambda}{2}$ for out of phase (destructive interference)
 - Condition for destructive interference: $\Delta r_{12} = \frac{a}{2} \text{, } \sin \theta_{1} = \frac{\lambda}{2}$
-	- complete destructive interference: $a$
+	- complete destructive interference: $a sin \theta_{p} = p\lambda$ where $p= 1,2,3,...$
+- small angle approximation: $\theta_{p} = p \frac{\lambda}{a} \text{, where } p = 1,2,3,...$
+	- p = 0 is excluded because it is the central maximum
+- Dark fringes in pattern:
+	- $$y_{p} = p\$$
