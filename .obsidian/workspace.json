@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2dec1366dfcf3a8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +158,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7d4cb5030e6e68ee",
+  "active": "2dec1366dfcf3a8f",
   "lastOpenFiles": [
     "10th Grade/Language/Weekly News Project 2.20.23.md",
     "conflict-files-obsidian-git.md",
