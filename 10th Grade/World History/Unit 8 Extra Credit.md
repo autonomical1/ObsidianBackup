@@ -7,6 +7,6 @@
 2. In what specific ways (give textual and/or visual evidence) does the song showcase this time period? **The singer uses multiple references to how the nuclear testing that countries were participating in were far too dangerous and mysterious for the scientists to understand, and the threat of them, was entirely out of their reach, which can be seen in the line "And they're doing the atomic bomb, do they know where the dance comes from." They also make references to the USSR, GDR, London, New York, and Peking, which are all places where the power is being focused.**
 3. What is your opinion of the song? Why? **I like the song because I think the way that the band integrated their references to the lives of the people living at the time, as well as historical references to the causes and reasonings behind the Cold War, brings it all together.**
 # Song 3: "Paper Planes" - M.I,A., 2007
-1. What is the overall message of the song? **It is a very politically charged song, with **
+1. What is the overall message of the song? **It is a very politically charged song, with main themes surrounding immigration, globalization, and struggling for survival in a marginalized community. They also reference drug use, violence, and criminal activity, which can be seen as a commentary on how harsh the reality of living among a marginalized community is. S**
 2. In what specific ways (give textual and/or visual evidence) does the song showcase this time period? ****
 3. What is your opinion of the song? Why? ****
