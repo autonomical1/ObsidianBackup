@@ -162,4 +162,9 @@
 				- $E_{1}$ : ground state energy
 				- $E_{1} \gt 0$ 
 				- $n$: quantum number (n = principle quantum number - describes energy level)
-				- 
+
+
+### Energy Level Diagrams
+- useful visual representation of the quantized energies
+- vertical axis represents energy (in eV)
+- 
