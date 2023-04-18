@@ -143,5 +143,23 @@
 		- Consider a particle of mass $m$ confined to a region of space with some dimension $L$. 
 		- Classically, particle bounces back and forth between x = 0 and x = L
 		- Non-classically ($l \leq \lambda$)
-			- Matter wave must vanish at x = 0 and x = L.
-			- 
+			- Boundary condition: Matter wave must vanish at x = 0 and x = L.
+		- First harmonic: $\lambda_{1} = 2L$
+		- Second harmonic: $\lambda_{2} = L$
+		- Third harmonic: $\lambda_{3} = \frac{2L}{3}$
+		- **General**: $\lambda_{n} = \frac{2L}{n}$
+			- n = 1, 2, 3, . . .
+		- De Broglie wavelength: $\lambda_{n} = \frac{h}{p_{n}}$
+			- $p_{n}= \frac{h}{\lambda_{n}} = \frac{nh}{2L}$
+			- $p_{n} = \frac{nh}{2L}$
+		- Energy: $K = \frac{1}{2} mv^{2} = \frac{p^{2}}{2m}$
+			- Substituting for momentum: 
+				- $K_{n} = \frac{p_{n}^{2}}{2m} = \frac{1}{2m}[\frac{nh}{2L}]^{2}$
+				- $$K_{n} = \frac{n^{2}h^{2}}{8mL^{2}} \text{ where } K_{n} \propto n^{2} \text{ ; } n = 1, 2, 3, ...$$
+				- Energies are **quantized**
+				- Assumes $L \approx \lambda$ (on a small scale)
+				- $E_{n} = n^{2}E_{1}$
+				- $E_{1}$ : ground state energy
+				- $E_{1} \gt 0$ 
+				- $n$: quantum number (n = principle quantum number - describes energy level)
+				- 
