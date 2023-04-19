@@ -167,3 +167,10 @@
 ### Energy Level Diagrams
 - useful visual representation of the quantized energies
 - vertical axis represents energy (in eV)
+- lowest rung is ground states, the highest rungs are the excited states
+- If system drops energy levels, excess energy emitted in photons
+- A quantum system in energy level $E_{i}$ that jumps down to energy level $E_{f}$ loses an energy: $\Delta E_{system} = |E_{f} - E_{i}|$ 
+- The jump corresponds to the emission of a photon with frequency: $$f_{photon} = \frac{\Delta E_{system}}{h}$$
+- If the system absorbs a photon, it can "jump up" to a higher energy level
+- Energy jumps are called **transitions or quantum jumps**
+- 
