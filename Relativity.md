@@ -188,4 +188,12 @@
 	- Gold Foil experiment showed a very small very dense nucleus
 - Rutherford Model: 
 	- Small dense nucleus surrounded by a "cloud" of electrons
+- c. 1932: Neutron discovered ($n^{0}$)
+- Atoms composed of : $p^{+}, e^{-}, n^{0}$
+	- $m_{p} \approx m_{n} \approx 1800m_{e}$
+- Nomenclature:
+	- Atomic number: $Z$ (number of protons)
+	- $N$ (number of neutrons)
+	- $A$ (atomic mass) - ($p^{+} + n^{0}$)
+		- Z + N
 	- 
