@@ -167,4 +167,3 @@
 ### Energy Level Diagrams
 - useful visual representation of the quantized energies
 - vertical axis represents energy (in eV)
-- 
