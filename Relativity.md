@@ -196,4 +196,10 @@
 	- $N$ (number of neutrons)
 	- $A$ (atomic mass) - ($p^{+} + n^{0}$)
 		- Z + N
+- Atomic mass unit (amu or u)
+	- Mass of $_{6}^{12}C$ defined to be exactly 12 u
+	- $1u = 1.66 \cdot 10^{-27} kg$ 
+- Isotopes:
+	- same element
+	- different number of $n^{0}$
 	- 
