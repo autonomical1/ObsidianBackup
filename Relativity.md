@@ -156,6 +156,7 @@
 			- Substituting for momentum: 
 				- $K_{n} = \frac{p_{n}^{2}}{2m} = \frac{1}{2m}[\frac{nh}{2L}]^{2}$
 				- $$K_{n} = \frac{n^{2}h^{2}}{8mL^{2}} \text{ where } K_{n} \propto n^{2} \text{ ; } n = 1, 2, 3, ...$$
+					- L is the length of the particle in a box
 				- Energies are **quantized**
 				- Assumes $L \approx \lambda$ (on a small scale)
 				- $E_{n} = n^{2}E_{1}$
@@ -173,4 +174,18 @@
 - The jump corresponds to the emission of a photon with frequency: $$f_{photon} = \frac{\Delta E_{system}}{h}$$
 - If the system absorbs a photon, it can "jump up" to a higher energy level
 - Energy jumps are called **transitions or quantum jumps**
-- 
+
+### Atoms and Atomic Theory
+- c. 1887, J.J. Thomson discovers the electron 
+	- Found that $m_{e} \lt \lt m_{atom}$ 
+- Atomic structure: some positive sphere about $10^{-10} m$ across with charge
+	- "raisin cake model"
+- Ernest Rutherford 
+	- Found that $U$ could emit alpha and beta rays ($\alpha \text{ and } \beta$)
+		- $\alpha$-ray (particle) $\rightarrow_2^4He$ 
+		- $\beta$-ray (particle) $\rightarrow$ high energy $e^{-}$ 
+	- Further suggest nuclear structure and nuclear stability/instability
+	- Gold Foil experiment showed a very small very dense nucleus
+- Rutherford Model: 
+	- Small dense nucleus surrounded by a "cloud" of electrons
+	- 
