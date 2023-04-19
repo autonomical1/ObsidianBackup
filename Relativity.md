@@ -202,4 +202,7 @@
 - Isotopes:
 	- same element
 	- different number of $n^{0}$
-	- 
+### Bohr Model of the Atom: 
+- Adds quantization to the Rutherford model.
+- Stationary states: Stable electron orbits have specific, discrete energies
+- 
