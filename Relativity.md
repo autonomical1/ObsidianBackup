@@ -47,7 +47,7 @@
 ### Special Relativity
 - Time is no longer an absolute quantity
 - 4-D space-time is ***invariant*** (doesn't change) in special relativity)
-- Gamma factor: $\gamma == \frac{1}{sqrt{\frac{1-v^{2}}{c^{2}}}}$
+- Gamma factor: $\gamma == \frac{1}{\sqrt{\frac{1-v^{2}}{c^{2}}}}$
 	- $\gamma \geq 1$ 
 		- $\gamma = 1 \text{ only if } v = 0$
 ### Time Dilation: 
@@ -186,8 +186,8 @@
 		- $\beta$-ray (particle) $\rightarrow$ high energy $e^{-}$ 
 	- Further suggest nuclear structure and nuclear stability/instability
 	- Gold Foil experiment showed a very small very dense nucleus
-- Rutherford Model: 
-	- Small dense nucleus surrounded by a "cloud" of electrons
+### Rutherford Model: 
+- Small dense nucleus surrounded by a "cloud" of electrons
 - c. 1932: Neutron discovered ($n^{0}$)
 - Atoms composed of : $p^{+}, e^{-}, n^{0}$
 	- $m_{p} \approx m_{n} \approx 1800m_{e}$
@@ -203,6 +203,10 @@
 	- same element
 	- different number of $n^{0}$
 ### Bohr Model of the Atom: 
+- Problem with Rutherford Atom: accelerating charges emit electromagnetic radiation
+	- The energy carried off by the waves cause the electrons to spiral into the nucleus
+	- Rutherford atom is inherently unstable
 - Adds quantization to the Rutherford model.
+- According to Bohr's model, the electrons in an atom can exist in only certain *allowed orbits*. A particular arrangement of the electrons in these orbits are called **stationary states**.
 - Stationary states: Stable electron orbits have specific, discrete energies
 - 
