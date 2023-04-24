@@ -212,4 +212,5 @@
 	- Each stationary state has a discrete, well-defined energy $E_{n}$. 
 	- Atomic energies are quantized.
 	- Stationary states are labeled by the *quantum number* n in order of increasing energy: $$E_{1} \lt E_{2} \lt E_{3} \lt E_{...}$$
+	- Bottom state is the ground state. Stable and can persist indefinitely.
 	- 
