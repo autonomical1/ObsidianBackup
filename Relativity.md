@@ -220,4 +220,11 @@
 - The proton exerts a Coulomb electric force on the electron $$F_{elec}= \left(\frac{1}{4\pi\epsilon_{0}}\right)\frac{e^{2}}{r^{2}} $$
 - If we treat the electron as a de Broglie wave, the particle will set up a standing wave, just like the particle in a box, if there are waves travelling in both directions and if the round-trip distance is an integer number of wavelengths.
 - The standing circular waves: $$2\pi r = n\lambda \text { where n = 1, 2, 3, ...}$$
+- The de Broglie wavelength for a particle: $$2\pi r = n \frac{h}{mv}$$
+	- Condition only true if electron's speed is: $$v = \frac{nh}{2\pi mr} \text { where n = 1, 2, 3, ...}$$
+	- Electron cannot have just any speed, only the discrete values given by this equation
+- The quantity $\frac{h}{2\pi}$ occurs so often that we can define quantity as: $1.05 ** 10^{-34} J \cdot s$ 
+- Bohr radius: $$a_{B} = \frac{4\pi\epsilon_{0}\hbar^{2}}{me^{2}} =5.29 * 10^{-11} \text{ m} = 0.0529 \text { nm}$$
+- The radius of the electron's orbit is: $$r_{n} = n^{2}a_{B}$$
+- Energy levels of the stationary states of the hydrogen atom are: $$E_{n} = \frac{-E_{1}}{n^{2}} = - \frac{13.6 \text { eV}}{n^{2}} \text { where n = 1, 2, 3, ...}$$
 - 
