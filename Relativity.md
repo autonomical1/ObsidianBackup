@@ -213,4 +213,11 @@
 	- Atomic energies are quantized.
 	- Stationary states are labeled by the *quantum number* n in order of increasing energy: $$E_{1} \lt E_{2} \lt E_{3} \lt E_{...}$$
 	- Bottom state is the ground state. Stable and can persist indefinitely.
-	- 
+- An atom can undergo a *transition or quantum jump* from one stationary state to another by emitting/absorbing a photon 
+
+### The Stationary States of the Hydrogen Atom
+- A Rutherford hydrogen atom has a single electron orbiting a proton
+- The proton exerts a Coulomb electric force on the electron $$F_{elec}= \left(\frac{1}{4\pi\epsilon_{0}}\right)\frac{e^{2}}{r^{2}} $$
+- If we treat the electron as a de Broglie wave, the particle will set up a standing wave, just like the particle in a box, if there are waves travelling in both directions and if the round-trip distance is an integer number of wavelengths.
+- The standing circular waves: $$2\pi r = n\lambda \text { where n = 1, 2, 3, ...}$$
+- 
