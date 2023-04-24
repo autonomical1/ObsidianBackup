@@ -209,4 +209,7 @@
 - Adds quantization to the Rutherford model.
 - According to Bohr's model, the electrons in an atom can exist in only certain *allowed orbits*. A particular arrangement of the electrons in these orbits are called **stationary states**.
 - Stationary states: Stable electron orbits have specific, discrete energies
-- 
+	- Each stationary state has a discrete, well-defined energy $E_{n}$. 
+	- Atomic energies are quantized.
+	- Stationary states are labeled by the *quantum number* n in order of increasing energy: $$E_{1} \lt E_{2} \lt E_{3} \lt E_{...}$$
+	- 
