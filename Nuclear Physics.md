@@ -16,4 +16,7 @@
 	- Neutrons contribute nuclear "glue" without coulombic repulsion
 	- Coulombic potential energy
 - Binding Energy:
+	- Mass-Energy Equivalence: $E_{0} = m_{0}c^{2}$
+		- $\Delta m = \Delta E_{0}$
+			- $E_{0}$ is the binding energy for nucleons
 	- 
