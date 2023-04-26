@@ -1,0 +1,10 @@
+- Nuclear structure:
+	- Atomic nuclei consist of protons and neutrons (nucleons)
+	- Proton: charge = $+e$, mass = $1.00728 u$  
+	- Neutron: charge = $0$, mass = $1.00866 u$ 
+	- Notation for elements: $_{A}^{Z}<element>$ 
+		- $_{6}^{12}C$ , $^{238}_{92}U$, $^{4}_{2}He$
+		- Neutron number: N = A - Z
+- Isotopes: Atoms of the same element($Z$), but different neutron number ($N$)
+	- e.g.: $^{12}_{6}C$, $^{13}_{6}C$
+	- 
