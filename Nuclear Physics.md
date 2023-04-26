@@ -15,4 +15,5 @@
 	- Heavy nuclei are stable when $N \gt Z$
 	- Neutrons contribute nuclear "glue" without coulombic repulsion
 	- Coulombic potential energy
+- Binding Energy:
 	- 
