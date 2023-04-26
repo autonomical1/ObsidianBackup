@@ -11,4 +11,8 @@
 	- Light nuclei with $N \approx Z$ are most stable.
 	- Why?
 		- As the nucleus gets bigger, the strong force exerts the same relative amount of force, but the coulombic repulsion increases
-		- Energy
+		- Nuclear Potential Energy
+	- Heavy nuclei are stable when $N \gt Z$
+	- Neutrons contribute nuclear "glue" without coulombic repulsion
+	- Coulombic potential energy
+	- 
