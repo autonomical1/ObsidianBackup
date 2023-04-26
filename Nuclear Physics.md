@@ -7,4 +7,8 @@
 		- Neutron number: N = A - Z
 - Isotopes: Atoms of the same element($Z$), but different neutron number ($N$)
 	- e.g.: $^{12}_{6}C$, $^{13}_{6}C$
-	- 
+- Nuclear Stability: 
+	- Light nuclei with $N \approx Z$ are most stable.
+	- Why?
+		- As the nucleus gets bigger, the strong force exerts the same relative amount of force, but the coulombic repulsion increases
+		- Energy
