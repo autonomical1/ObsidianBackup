@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c3cbe178b96169b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nuclear Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relativity.md",
+                "file": "Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,16 +137,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f5c079fc8169c44c",
+  "active": "7c3cbe178b96169b",
   "lastOpenFiles": [
     "Chapter 25 Notes.md",
+    "Relativity.md",
+    "Nuclear Physics.md",
     "Chapter 18 Notes.md",
     "Chapter 17 Notes.md",
     "Chapter 16 Notes.md",
-    "Relativity.md",
     "10th Grade/AP Physics 2/Chapter 20.md",
     "10th Grade/AP Physics 2/Chapter 21.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
     "10th Grade/AP Physics 2/Notes/20.3 - Coulomb's Law.md",

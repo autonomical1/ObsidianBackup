@@ -227,4 +227,3 @@
 - Bohr radius: $$a_{B} = \frac{4\pi\epsilon_{0}\hbar^{2}}{me^{2}} =5.29 * 10^{-11} \text{ m} = 0.0529 \text { nm}$$
 - The radius of the electron's orbit is: $$r_{n} = n^{2}a_{B}$$
 - Energy levels of the stationary states of the hydrogen atom are: $$E_{n} = \frac{-E_{1}}{n^{2}} = - \frac{13.6 \text { eV}}{n^{2}} \text { where n = 1, 2, 3, ...}$$
-- 
