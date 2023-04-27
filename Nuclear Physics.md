@@ -40,4 +40,9 @@
 			- Alpha particle
 				- Helium nucleus
 				- via tunneling
-		- 
+- Gamma Decay:
+	- Transition between high state to a lower state
+		- same number of protons and neutrons
+		- to conserve energy, emits high energy photon -  *gamma ray*
+			- has $keV$ to $meV$ energy state
+- 
