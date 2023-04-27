@@ -19,4 +19,8 @@
 	- Mass-Energy Equivalence: $E_{0} = m_{0}c^{2}$
 		- $\Delta m = \Delta E_{0}$
 			- $E_{0}$ is the binding energy for nucleons
-	- 
+	- Nuclear binding energy is computed by considering the mass difference between the atom and its separate components, Z hydrogen atoms and N neutrons: $$B = (Zm_{H} + Nm_{n} - m_{atom}) * (931.49 \text {MeV/u})$$
+		- Nuclear binding energy for an atom
+	- curve of binding energy
+		- ![[Pasted image 20230426151317.png]]
+		- 
