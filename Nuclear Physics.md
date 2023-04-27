@@ -45,4 +45,6 @@
 		- same number of protons and neutrons
 		- to conserve energy, emits high energy photon -  *gamma ray*
 			- has $keV$ to $meV$ energy state
-- 
+- Fission: Heavy nucleus $\rightarrow$ lighter nuclei
+	- Ex: $n^{0} + ^{235}_{92}U \rightarrow ^{236}_{92}U\rightarrow <D_{1}> + <D_{2}> + \text{ several } n^{0} + <\text{ energy }>$
+	- 
