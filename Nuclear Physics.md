@@ -31,5 +31,13 @@
 	- Neutrons and protons fill energy levels to the same height, takes more neutrons than protons
 - Beta Decay:
 	- $\beta^{-}$: $n^{0} \rightarrow p^{+} + e^{-} + v_{e}$
-	- $\beta^{+}$ : $p^{+} \rightarrow n^{0} + e^{+} + v_{e}$ 
-	- 
+		- $e^{-}$ has K.E
+	- $\beta^{+}$ : $p^{+} \rightarrow n^{0} + e^{+} + v_{e}$
+		- $e^{+}$ has K.E.
+- Alpha Decay:
+	- $_Z^{A<E_{1}>}\rightarrow _{Z-2}^{A-4}<E_{2}> + ^4_2\alpha$
+		- $\alpha$ has K.E
+			- Alpha particle
+				- Helium nucleus
+				- via tunneling
+		- 
