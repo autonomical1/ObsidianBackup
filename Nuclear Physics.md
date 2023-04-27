@@ -23,4 +23,8 @@
 		- Nuclear binding energy for an atom
 	- curve of binding energy
 		- ![[Pasted image 20230426151317.png]]
-		- 
+- Low-Z Nuclei
+	- Proton and neutron potential energy are almost equal when $Z$ is small
+	- Nuclear energy-level diagram of $^{12}C$, which has 6 protons and 6 neutrons, showing it is in its lowest possible energy state
+	- $^{12}B$ and $^{12}N$ could lower their energies in a process called *beta decay* - where a proton turns into a neutron or vice versa.
+	- 
