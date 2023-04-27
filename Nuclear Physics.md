@@ -31,4 +31,5 @@
 	- Neutrons and protons fill energy levels to the same height, takes more neutrons than protons
 - Beta Decay:
 	- $\beta^{-}$: $n^{0} \rightarrow p^{+} + e^{-} + v_{e}$
+	- $\beta^{+}$ : $p^{+} \rightarrow n^{0} + e^{+} + v_{e}$ 
 	- 
