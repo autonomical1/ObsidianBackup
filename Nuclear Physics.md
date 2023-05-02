@@ -35,7 +35,7 @@
 	- $\beta^{+}$ : $p^{+} \rightarrow n^{0} + e^{+} + v_{e}$
 		- $e^{+}$ has K.E.
 - Alpha Decay:
-	- $_Z^{A<E_{1}>}\rightarrow _{Z-2}^{A-4}<E_{2}> + ^4_2\alpha$
+	- $_Z^{A}<E_{1}>\rightarrow _{Z-2}^{A-4}<E_{2}> + ^4_2\alpha$
 		- $\alpha$ has K.E
 			- Alpha particle
 				- Helium nucleus
