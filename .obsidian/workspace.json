@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f214d61b441ce8c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,6 +90,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "5d7a091573ef0380",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -140,7 +158,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "685819842df88a0e",
+  "active": "f214d61b441ce8c5",
   "lastOpenFiles": [
     "Nuclear Physics.md",
     "Relativity.md",
