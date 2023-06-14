@@ -8,4 +8,9 @@
 4. I would have called my teacher over, and started washing myself in case I got chemicals on myself.
 
 ![[Pasted image 20230614145136.png|100]]
-- Wear a hazmat suit 
+- Wear a hazmat suit and extensive amounts of PPE since the chemical is a biohazard
+![[Pasted image 20230614145317.png|100]]
+- Make sure to wear thick gloves, long pants, closed-toed shoes, and goggles, and remain extremely careful when handling to ensure it doesn't spill.
+![[Pasted image 20230614145409.png|100]]
+- Make sure there is no source of ignition near the chemical.
+![[Pasted image 20230614145445.png|100]]
