@@ -6,4 +6,4 @@
 2. ^^
 3. In the case of a splash or broken glass, the goggles and protective clothing would have kept the chemicals or glass away from skin.
 4. I would have called my teacher over, and started washing myself in case I got chemicals on myself.
-
+[![obsidian|100](https://forum.obsidian.md/uploads/default/original/1X/bf119bd48f748f4fd2d65f2d1bb05d3c806883b5.png)](https://forum.obsidian.md/t/embed-hyperlink-into-image-icon/32654)
