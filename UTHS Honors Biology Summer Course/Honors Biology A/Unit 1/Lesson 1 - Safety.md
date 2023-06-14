@@ -14,3 +14,6 @@
 ![[Pasted image 20230614145409.png|100]]
 - Make sure there is no source of ignition near the chemical.
 ![[Pasted image 20230614145445.png|100]]
+- Do not ingest or allow to touch skin.
+![[Pasted image 20230614145515.png|100]]
+- Wear lead-lined PPE.
