@@ -4,4 +4,3 @@
 
 - A **hypothesis** is a statement that can be tested through experimentation - a prediction to a question or a problem that can be tested.
 - Characteristics acquired throughout one's life is not passed down to offspring.
-- 
