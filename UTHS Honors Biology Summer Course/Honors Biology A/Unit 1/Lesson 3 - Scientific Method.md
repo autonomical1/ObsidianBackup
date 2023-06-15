@@ -12,4 +12,7 @@ The 6 steps of the Scientific Method:
 # Experimental Design Lab
 1. The question is: Which brand of paper towel is the most absorbent?
 2. I think that Bounty is the most absorbent brand of paper towel. 
-3. Using the dropper, I will drop 5 mL of water in the center of eac
+3. Using the dropper, I will drop 5 mL of water in the center of each of the paper towels. I will wait for a minute to allow the paper towels to absorb the water, and then I will measure the distance from the center of the paper towel to the farthest edge of the wet part of the towel.
+4. ----
+5. ----
+6. ----
