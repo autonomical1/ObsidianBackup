@@ -14,6 +14,5 @@ The 6 steps of the Scientific Method:
 2. I think that Bounty is the most absorbent brand of paper towel. 
 3. The 3 brands I tested are Bounty, Country Soft, and Charmin (I was not able to obtain another brand of paper towel). I cut 2 sheets of paper towel from each brand in half to get 4 smaller sheets of paper towel for each brand. Using the dropper, I will drop 10 drops of water in the center of each of the paper towels. I will wait for a minute to allow the paper towels to absorb the water, and then I will measure the distance from the center of the paper towel to the farthest edge of the wet part of the towel. The brand with the smallest distance is the most absorbent.
 4. Using the dropper, I conducted trials for each piece of paper towel, where each brand was tested 4 times for the 4 sheets of paper towel.
-5. ![[IMG_1521.jpg|400|rotate="90"]]
-6. 
-7. ----
+5. ![[IMG_1521 1.jpg|400]]
+6. My hypothesis was proven incorrect. The 
