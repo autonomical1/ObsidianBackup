@@ -6,4 +6,6 @@ The 6 steps of the Scientific Method:
 5. Gather data.
 6. Draw a conclusion.
 
-**Independent Variable**: 
+**Independent Variable**: Variable that is changed or manipulated by the experimenter.
+**Dependent Variable**: Variable that is counted, measured, or observed.
+
