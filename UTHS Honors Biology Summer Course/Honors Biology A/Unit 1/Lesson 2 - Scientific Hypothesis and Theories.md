@@ -3,4 +3,5 @@
 3. I can get a car that shows 0 miles on the range calculator, and drive on a track. I can then count the number of laps it can drive until it stops. Then, I can repeat this 2 more times and count the number of laps it takes to stop every time and average it to see the average number of miles it can drive while showing zero inside the car.
 
 - A **hypothesis** is a statement that can be tested through experimentation - a prediction to a question or a problem that can be tested.
-	- it is a prediction
+- Characteristics acquired throughout one's life is not passed down to offspring.
+- 
