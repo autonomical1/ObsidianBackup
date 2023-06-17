@@ -12,9 +12,19 @@
 	- monosaccharide
 
 ## Structure and Function of Biomolecules
+
 ### Carbohydrates
 - made of C, H, and O
 - shaped like a hexagon
 ![[Pasted image 20230616214408.png]]
 
-- monomer of carbohydrates is a monosaccharide (single-sugar)
+- monomer of carbohydrates is a **monosaccharide** (single-sugar)
+- other types of sugar - disaccharides
+	- for example, sucrose - combo of glucose and fructose
+- polymer of carbohydrates - **polysaccharide**
+	- usually in the form of starches
+- **Function:** quick form of energy; converted to ATP for use in cells
+- **Sources:** in most foods
+
+### Lipids
+- in the form of fatr
