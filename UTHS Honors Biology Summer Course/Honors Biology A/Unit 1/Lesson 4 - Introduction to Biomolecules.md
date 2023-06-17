@@ -85,4 +85,4 @@
 4. The mustard oil was very saturated with lipids.
 5. The biscuits had sugars and carbohydrates, most likely because of the flour.
 6. The chicken is one of the foods that most likely contains nucleic acids because it contains animal cells.
-7. There could have been contaminations in the solutions. There could also be preservatives and other impurities in the foods that could cause the results to be skewed. 
+7. There could have been contaminations in the solutions. There could also be preservatives and other impurities in the foods that could cause the results to be skewed. Another source of error is that the solutions could get overheated, so the solutions may not work as expected.
