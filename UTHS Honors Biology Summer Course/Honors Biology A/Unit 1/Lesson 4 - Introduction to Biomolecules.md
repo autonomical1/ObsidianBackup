@@ -51,4 +51,5 @@
 - Structure: CHON
 	- Change in shape of protein can change the protein in function
 - *monomer*: amino acid - 22 different types and many different combinations to create proteins.
-- 
+- amino acids bonded by peptide bonds - polypeptide chains
+- **Function:** provide body with structure, movement of body, repairs cells, and allows movement of molecules
