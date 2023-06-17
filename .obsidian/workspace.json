@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "3e2a17a435c0fa15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 5 - The Origin of Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ebd2d4f01b10a25e",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1.md",
+                "file": "Lesson 5 - The Origin of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +168,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "11de6b7654103162",
+  "active": "3e2a17a435c0fa15",
   "lastOpenFiles": [
+    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1.md",
+    "Lesson 5 - The Origin of Life.md",
     "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 4 - Introduction to Biomolecules.md",
     "Attachments/Pasted image 20230616221037.png",
     "Attachments/Pasted image 20230616220953.png",
@@ -166,7 +180,6 @@
     "Attachments/Pasted image 20230616215221.png",
     "Attachments/Pasted image 20230616215132.png",
     "Attachments/Pasted image 20230616214408.png",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1.md",
     "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 3 - Scientific Method.md",
     "Attachments/IMG_1521 1.jpg",
     "Attachments/IMG_1521.jpg",
