@@ -1,9 +1,7 @@
-KIM Blocks for terms:
-- 1.
-	- K: Structure
-	- I: The arrangement of parts or elements to form something complex
-- 2.
-	- K: Function
-	- I: Work or operate in a particular way
-- 3.
-	- Biomolecule: any molecule found in living organisms. 
+### Key Terms
+- Structure: arrangement of parts/elements to form something complex
+- Function: work or operate in a particular way
+- Biomolecule: any molecule that is part of a living organism
+	- carbohydrates, lipids, proteins, and nucleic acids
+- Monomer: small (singular) molecule that can be bonded to other monomers to create larger, more complex polymers.
+- Polymer: A large molecule composed of many repeating subunits (monomers)
