@@ -32,4 +32,13 @@
 - *monomer*: **triglyceride**
 	- "tri" = 3
 	- glycerol backbone with 3 fatty acid chains
-- Two types: saturated and unsaturate
+- Two types:
+	- Saturated:
+		- fatty acid chains completely saturated with hydrogen, makes carbon chains completely straight and packed together
+		- solid at room temp
+		- ![[Pasted image 20230616215132.png]]
+	- Unsaturated:
+		- fatty acid chains not completely saturated with hydrogen, create double bonds between carbon atoms on chains.
+		- molecules not packed as tightly together
+		- ![[Pasted image 20230616215221.png]]
+- Lipids are polymers of many triglyceride molecules
