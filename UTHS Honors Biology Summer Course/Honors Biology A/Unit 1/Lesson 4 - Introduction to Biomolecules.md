@@ -5,3 +5,14 @@
 	- carbohydrates, lipids, proteins, and nucleic acids
 - Monomer: small (singular) molecule that can be bonded to other monomers to create larger, more complex polymers.
 - Polymer: A large molecule composed of many repeating subunits (monomers)
+- Amino Acid: Organic molecule that serves as a building block for proteins.
+- Nucleotide: Building block of nucleic acids (RNA/DNA)
+	- composed of a sugar, phosphate group, and nitrogen base
+- Glucose: simple sugar necessary for living things to break down and use as an energy source.
+	- monosaccharide
+
+## Structure and Function of Biomolecules
+### Carbohydrates
+- made of C, H, and O
+- shaped like a hexagon
+![[Pasted image 20230616214408.png]]
