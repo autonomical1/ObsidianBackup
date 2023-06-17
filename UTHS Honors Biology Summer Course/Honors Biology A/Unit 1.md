@@ -10,3 +10,6 @@
 
 # Lesson 5 ![[Lesson 5 - The Origin of Life]]
 # Learning Log
+### Unit 1, Lesson 4 (HON BIO A)
+
+1. The objective of this lesson is to introduce you to the four different types of biomolecules found in every living organisms' body. You will learn each ofth
