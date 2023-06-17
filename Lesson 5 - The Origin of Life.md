@@ -5,4 +5,9 @@
 - Prokaryote: single-celled organism, no nucleus or membrane-bound organelles (mitochondria/chloroplast)
 	- Ex. Bacteria
 - Eukaryote: single/multi-celled organism, nucleus and membrane-bound organelles
-	- Ex. Plants, am
+	- Ex. plants, animals, fungi, protists
+- Protocell: organized structure enclosed by a lipid membrane that can grow and divide
+
+## Timeline: 
+**Protocell => Membrane => Prokaryote => Eukaryote**
+
