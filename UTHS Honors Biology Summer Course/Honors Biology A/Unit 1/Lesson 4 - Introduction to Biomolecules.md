@@ -69,12 +69,7 @@
 
 ### Introduction to Biomolecules Lab - Food
 
-|   |   |   |   |
-|---|---|---|---|
-|Test Subject|Benedict’s|Iodine|Sudan III|
-|Biscuits|![](https://lh6.googleusercontent.com/GEx6oDtyNCMM4YG7fEsF6DjH9k7TPtsNAvfw9fVbn-4--P-R7gaGsOSOTqK_cK1VGqSYxVi0nsfg6gBzQYgCuGyMVMWNTtAQ-Qlv8gdtFxZb1aapQr8uPFmlTSC9YeKoKr-ZY16JS-BZUOxC9tElR3o)Orange|![](https://lh6.googleusercontent.com/j6gAnTKe7rXtrWqipHXQuX6XLy3Ac2tjpNZVKmvvLPn0WDLSyqbjsJeCrCK2IROTVauyAcVTYRdl8p6nZ2Q_Kuf1_FZ8BCAMR0hdgsiNhN8z22i-dDRzXX4eujjMPkIflw52GAPn5JCUtyR6IG5nDos)Blue|X|
-|Mustard Oil|X|X|![](https://lh6.googleusercontent.com/PM-59KzNwXLn8eyCe0A9dPiHq58a7lIoxeVuoTR9bjvxz8KCz27rwQ3_FH3Jsf1_f7gEX142V-ETAxvDe3y3MXWI8Vg0mWNXSesGl6_pjgMOjMt4esBbmtLo6MrZTW9jFHg-QuiWVjYndnTJfeLb9Fk) Red-Orange|
-|Potato Starch|X|![](https://lh3.googleusercontent.com/DXWgZwrBKOXEP1sXMyooMTrPQqqkPgjcFVYmsnHVd1DWwdAqRW2SEVTK9ZxRvdPCQZ7xb46DVSvB1mKwDXqyUfYEEb1McqUW7Xj3Bki3eoHyXuyW7D2zOxpZ_FRw4j7YH3WjCO9jn8_agbNdDRpatYo)Black|X|
 
 1. The biscuits were found to have large amounts of simple sugars since the solution turned dark orange.
-2. The 
+2. The biscuits and potato starch had carbohydrates due to the flour content.
+3. 
