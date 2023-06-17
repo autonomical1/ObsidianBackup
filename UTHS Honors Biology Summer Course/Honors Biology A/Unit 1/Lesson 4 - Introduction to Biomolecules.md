@@ -50,4 +50,5 @@
 ### Proteins
 - Structure: CHON
 	- Change in shape of protein can change the protein in function
-- *monomer*: amino acid
+- *monomer*: amino acid - 22 different types and many different combinations to create proteins.
+- 
