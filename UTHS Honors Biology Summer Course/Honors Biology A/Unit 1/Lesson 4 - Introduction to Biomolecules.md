@@ -50,4 +50,4 @@
 ### Proteins
 - Structure: CHON
 	- Change in shape of protein can change the protein in function
-- 
+- *monomer*: amino acid
