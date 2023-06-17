@@ -41,4 +41,7 @@
 		- fatty acid chains not completely saturated with hydrogen, create double bonds between carbon atoms on chains.
 		- molecules not packed as tightly together
 		- ![[Pasted image 20230616215221.png]]
-- Lipids are polymers of many triglyceride molecules
+- Lipids are polymers of many triglyceride molecules that create larger molecules.
+- **Phospholipids**: special type of lipid; distinct shape with round phosphate head and 2 fatty acid tails
+	- ![[Pasted image 20230616215338.png]]
+- **Function:** long-term energy storage; make up membranes that surrounds cells called cell 
