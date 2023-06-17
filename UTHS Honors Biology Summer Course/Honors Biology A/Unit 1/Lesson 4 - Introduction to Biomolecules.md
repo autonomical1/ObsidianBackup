@@ -16,3 +16,5 @@
 - made of C, H, and O
 - shaped like a hexagon
 ![[Pasted image 20230616214408.png]]
+
+- monomer of carbohydrates is a monosaccharide (single-sugar)
