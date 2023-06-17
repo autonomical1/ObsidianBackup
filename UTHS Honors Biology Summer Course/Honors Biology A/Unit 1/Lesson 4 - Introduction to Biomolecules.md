@@ -63,4 +63,7 @@
 - DNA contains all of body's genetic information
 	- Deoxyribonucleic acid
 	- ![[Pasted image 20230616221037.png]]
-- RNA is the molecule responsi
+- RNA is the molecule responsible for building all of the proteins.
+	- Ribonucleic acid
+- **Function:** DNA - genetic information and code for all proteins; RNA - proteins that our DNA codes for
+
