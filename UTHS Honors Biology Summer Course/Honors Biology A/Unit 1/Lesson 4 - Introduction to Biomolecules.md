@@ -83,4 +83,6 @@
 2. The biscuits and potato starch had carbohydrates due to the flour content.
 3. The protein slurry had protein because the biuret solution turned purple.
 4. The mustard oil was very saturated with lipids.
-5. T
+5. The biscuits had sugars and carbohydrates, most likely because of the flour.
+6. The chicken is one of the foods that most likely contains nucleic acids because it contains animal cells.
+7. There could have been contaminations in the solutions. There could also be preservatives and other impurities in the foods that could cause the results to be skewed. 
