@@ -44,4 +44,9 @@
 - Lipids are polymers of many triglyceride molecules that create larger molecules.
 - **Phospholipids**: special type of lipid; distinct shape with round phosphate head and 2 fatty acid tails
 	- ![[Pasted image 20230616215338.png]]
-- **Function:** long-term energy storage; make up membranes that surrounds cells called cell 
+- **Function:** long-term energy storage; make up membranes that surrounds cells called cell membrane.
+- **Sources:** Animal fat, etc.
+
+### Proteins
+- Structure: CHON
+- 
