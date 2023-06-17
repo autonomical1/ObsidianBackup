@@ -49,11 +49,18 @@
 
 ### Proteins
 - Structure: CHON
-	- Change in shape of protein can change the protein in function
-- *monomer*: amino acid - 22 different types and many different combinations to create proteins.
+	- Change in shape of protein can change the protein in function![[Pasted image 20230616220953.png]]
+- *monomer*: amino acid - 22 different types and many different combinations to create proteins.![[Pasted image 20230616220947.png]]
 - amino acids bonded by peptide bonds - polypeptide chains
 - **Function:** provide body with structure, movement of body, repairs cells, and allows movement of molecules
 - **Sources:** meats, beans, dairy
 
 ### Nucleic Acids
-- S
+- Structure: CHONP, made of nucleotides
+	- nucleotide structure: sugar, phosphate group, nitrogen base
+	- ![Nucleotide](https://cedu-spw-p06.austin.utexas.edu/canvas-files/BioA-66431/unit01/lsn04/U01L04EXN08.PNG)
+- Two types: DNA and RNA
+- DNA contains all of body's genetic information
+	- Deoxyribonucleic acid
+	- ![[Pasted image 20230616221037.png]]
+- RNA is the molecule responsi
