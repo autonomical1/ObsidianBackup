@@ -43,3 +43,4 @@
 
 1. The names of the enzymes all end in -ase. They also have names of the things they break down at the start of their names.
 2. ![[RenderedI.jpg]]
+3. **Sucrase** - If the sucrase enzyme in a cell was not functioning properly, the cell would not be able to break down starches and sugars necessary to produce usable energy for the body.
