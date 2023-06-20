@@ -42,4 +42,4 @@
 |Ligase|Connects nucleotides|
 
 1. The names of the enzymes all end in -ase. They also have names of the things they break down at the start of their names.
-2. 
+2. ![[RenderedI.jpg]]
