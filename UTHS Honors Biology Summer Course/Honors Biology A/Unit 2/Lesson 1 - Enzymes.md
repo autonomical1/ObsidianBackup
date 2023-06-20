@@ -15,4 +15,8 @@
 
 - Enzymes are proteins.
 	- Most basic level of protein: primary structure - order of amino acids.
-	- Secondary Struc
+	- Secondary Structure: hydrogen bonds cause chain to spiral/bend
+	- Tertiary Structure: whole chain, including secondary structure, folds up on itself.
+	- Quaternary Structure: 2 amino acid chains fold up and fit together like a puzzle.
+- speed up chemical reactions by building molecules/breaking them down.
+- 
