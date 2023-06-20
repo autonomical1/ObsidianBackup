@@ -22,3 +22,5 @@
 - a.k.a **catalyst**
 - build and break specific molecules because of complex structure. 
 - *active site* allows enzymes to bind to specific molecules (substrates)
+	- this recognition for specific substrates and enzymes lowers activation energy which speeds up reaction
+
