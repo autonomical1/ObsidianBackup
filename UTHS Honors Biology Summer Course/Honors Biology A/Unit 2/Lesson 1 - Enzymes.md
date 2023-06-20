@@ -24,3 +24,6 @@
 - *active site* allows enzymes to bind to specific molecules (substrates)
 	- this recognition for specific substrates and enzymes lowers activation energy which speeds up reaction
 
+1. Enzymes remind me of the cut out part of a puzzle piece.
+2. Substrates are the molecules that fit into enzymes.
+3. The substrate is the insert part ot  a
