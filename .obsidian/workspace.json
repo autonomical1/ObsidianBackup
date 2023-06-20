@@ -4,43 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8abeca55f175bf",
+        "id": "6fd2dda7610dd575",
         "type": "tabs",
         "children": [
           {
-            "id": "9002ec31e86b437f",
+            "id": "f5c079fc8169c44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2.md",
+                "file": "Relativity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8adb09c47a275946",
+            "id": "7c3cbe178b96169b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
+                "file": "Relativity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ebd2d4f01b10a25e",
+            "id": "faff7a606b5751a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Relativity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23dd2ac91e878475",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
+            "id": "38569e77e57e42ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -69,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "width",
+                "query": "gaus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +105,7 @@
             }
           },
           {
-            "id": "5d7a091573ef0380",
+            "id": "cbddf066c4132f12",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,12 +127,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f0f5c3a66501fc6e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "69f1923f4f3cfc33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +150,25 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bd0d63b6187ec617",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Government/AP Government Readings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -132,53 +179,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8adb09c47a275946",
+  "active": "38569e77e57e42ee",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230620005942.png",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
-    "Attachments/IMG_1521 1.jpg",
-    "Attachments/IMG_1521.jpg",
-    "Attachments/U02Glossary.pdf",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 4 - Introduction to Biomolecules.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 5 - The Origin of Life.md",
-    "Attachments/Pasted image 20230616221037.png",
-    "Attachments/Pasted image 20230616220953.png",
-    "Attachments/Pasted image 20230616220947.png",
-    "Attachments/Pasted image 20230616215338.png",
-    "Attachments/Pasted image 20230616215221.png",
-    "Attachments/Pasted image 20230616215132.png",
-    "Attachments/Pasted image 20230616214408.png",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 3 - Scientific Method.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 2 - Scientific Hypothesis and Theories.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 1 - Safety.md",
-    "Attachments/Pasted image 20230614145515.png",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Glossaries/Unit 1 Glossary.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Glossaries",
-    "Attachments/U01Glossary.pdf",
-    "10th Grade/AP Physics 2/Chapter 24.md",
-    "UTHS Honors Biology Summer Course/Honors Biology B",
-    "UTHS Honors Biology Summer Course/Honors Biology A",
-    "UTHS Honors Biology Summer Course",
-    "10th Grade/AP Physics 2/Chapter 23.md",
-    "10th Grade/AP Physics 2/Chapter 22.md",
-    "10th Grade/AP Physics 2/Chapter 18 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 17 Notes.md",
-    "10th Grade/AP Physics 2/Relativity.md",
-    "10th Grade/AP Physics 2/Nuclear Physics.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
-    "10th Grade/AP Physics 2/Chapter 25 Notes.md",
-    "10th Grade/World History/Unit 8 Extra Credit.md",
-    "10th Grade/World History",
-    "10th Grade/Language/Moscow downplays significance of Biden's visit to Kyiv.md",
-    "10th Grade/Language/Weekly News Project 2.20.23.md",
-    "10th Grade/AP Physics 2/Chapter 16 Notes.md",
-    "10th Grade/Language/Weekly News Project 2.12.23.md",
-    "10th Grade/Language/Weekly News Project 2.5.23.md",
-    "10th Grade/Language/Weekly News Project 1.8.23.md"
+    "Relativity.md",
+    "Chapter 25 Notes.md",
+    "Chapter 18 Notes.md",
+    "10th Grade/AP Physics 2/Chapter 23.md",
+    "Nuclear Physics.md",
+    "Attachments/Pasted image 20230426151317.png",
+    "Chapter 17 Notes.md",
+    "Chapter 16 Notes.md",
+    "10th Grade/AP Physics 2/Chapter 20.md",
+    "10th Grade/AP Physics 2/Chapter 21.md",
+    "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
+    "10th Grade/AP Physics 2/Notes/20.3 - Coulomb's Law.md",
+    "10th Grade/AP Physics 2/Notes/20.4 -  The Concept of the Electric Field.md",
+    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
+    "10th Grade/AP Physics 2/Chapter 11.md",
+    "10th Grade/AP Physics 2/Chapter 12.md",
+    "10th Grade/AP Physics 2/Chapter 13.md",
+    "10th Grade/Language/Weekly News Project 8.28.md"
   ]
 }
