@@ -8,4 +8,11 @@
   
 ![[Pasted image 20230620005942.png]]
 
-1. Enzyme
+1. The enzyme and substrate come into contact.
+2. The substrate splits into 2 parts.
+3. The substrate attaches to the enzyme.
+4. The enzyme begins to break down the substrate.
+
+- Enzymes are proteins.
+	- Most basic level of protein: primary structure - order of amino acids.
+	- Secondary Struc
