@@ -19,4 +19,6 @@
 	- Tertiary Structure: whole chain, including secondary structure, folds up on itself.
 	- Quaternary Structure: 2 amino acid chains fold up and fit together like a puzzle.
 - speed up chemical reactions by building molecules/breaking them down.
-- 
+- a.k.a **catalyst**
+- build and break specific molecules because of complex structure. 
+- *active site* allows enzymes to bind to specific molecules (substrates)
