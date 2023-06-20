@@ -44,3 +44,12 @@
 1. The names of the enzymes all end in -ase. They also have names of the things they break down at the start of their names.
 2. ![[RenderedI.jpg]]
 3. **Sucrase** - If the sucrase enzyme in a cell was not functioning properly, the cell would not be able to break down starches and sugars necessary to produce usable energy for the body.
+
+
+# Enzymes Lab
+
+### Pre-lab Questions
+- 1. Quaternary protein structure is necessary for enzyme function, because it creates larger complexity, therefore "programming" the enzyme for that specific substrate.
+- 2. Heating an enzyme will decrease its activation energy, since the energy that it already requires is added. 
+- 3. High pH will cause the reaction to go much slower, and low pH will cause the reaction to move faster, since there is already acid present to break down molecules.
+- 4. The enzyme will not be as effective at low temperatures, because the activation energy for the reaction will be much larger, since it will require more energy to reach it.
