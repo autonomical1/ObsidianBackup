@@ -26,4 +26,20 @@
 
 1. Enzymes remind me of the cut out part of a puzzle piece.
 2. Substrates are the molecules that fit into enzymes.
-3. The substrate is the insert part ot  a
+3. The substrate is the insert part of a puzzle piece, and the enzyme is the puzzle piece with the cut out part.
+4. Enzymes decrease the activation energy of a certain reaction, and its function is denotated by the shape of the protein.
+
+## Table of common enzymes and their functions:
+
+|   |   |
+|---|---|
+|Enzyme|Function|
+|Lactase|Breaks down lactose|
+|Sucrase|Breaks down starches and sugars|
+|Maltase|Breaks down sugars|
+|Catalase|Breaks down hydrogen peroxide|
+|Primase|Builds RNA sequences|
+|Ligase|Connects nucleotides|
+
+1. The names of the enzymes all end in -ase. They also have names of the things they break down at the start of their names.
+2. 
