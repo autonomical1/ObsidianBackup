@@ -71,4 +71,5 @@
 - 3. The reaction rate decreased drastically as the temperature increased.
 - 4. There were bubbles of oxygen gas that formed as the reaction occured.
 - 5. The enzyme catalase was present, since there were bubbles of oxygen gas that were formed as the reaction occurred.
-- 6. 
+- 6. ![[RenderedI 1.jpg]]
+- 7. The optimal pH is towards the basic side, since the reactions go much faster when the system is basic.

@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6fd2dda7610dd575",
+        "id": "cc1df40f42b3ba17",
         "type": "tabs",
         "children": [
           {
-            "id": "23dd2ac91e878475",
+            "id": "a9315238ad303e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
+                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 3 - Specialized Cells.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "553f778e8a859f4c",
+            "id": "c826b854a3c3c3cf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,50 +145,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "553f778e8a859f4c",
+  "active": "c826b854a3c3c3cf",
   "lastOpenFiles": [
-    "Attachments/RenderedI (1).jpg",
-    "Attachments/U02Glossary.pdf",
-    "Attachments/U01Glossary.pdf",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
-    "Attachments/RenderedI.jpg",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 5 - The Origin of Life.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 4 - Introduction to Biomolecules.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 2 - Scientific Hypothesis and Theories.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 3 - Scientific Method.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 1 - Safety.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Glossaries/Unit 1 Glossary.md",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1",
-    "UTHS Honors Biology Summer Course/Honors Biology A/Glossaries",
-    "UTHS Honors Biology Summer Course/Honors Biology A",
-    "UTHS Honors Biology Summer Course",
-    "Attachments/Pasted image 20230620005942.png",
-    "Attachments/Pasted image 20230616221037.png",
-    "Attachments/Pasted image 20230616220953.png",
-    "Attachments/Pasted image 20230616220947.png",
-    "Attachments/Pasted image 20230616215338.png",
-    "Attachments/Pasted image 20230616215221.png",
-    "Attachments/Pasted image 20230616215132.png",
-    "Attachments/Pasted image 20230616214408.png",
-    "Attachments/Pasted image 20230614145515.png",
-    "10th Grade/AP Physics 2/Relativity.md",
-    "10th Grade/AP Physics 2/Nuclear Physics.md",
-    "10th Grade/AP Physics 2/Chapter 25 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 18 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 17 Notes.md",
-    "10th Grade/AP Physics 2/Chapter 16 Notes.md",
+    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 3 - Specialized Cells.md",
     "conflict-files-obsidian-git.md",
+    "Attachments/RenderedI (3).jpg",
+    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2.md",
+    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 2 - Cell Structure and Function.md",
+    "Attachments/Pasted image 20230620231944.jpg",
+    "Attachments/Pasted image 20230620231834.jpg",
+    "Attachments/RenderedI (1) 1.jpg",
+    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 2/Lesson 1 - Enzymes.md",
+    "Attachments/RenderedI 1.jpg",
+    "UTHS Honors Biology Summer Course/Honors Biology A/Unit 1/Lesson 5 - The Origin of Life.md",
+    "Attachments/RenderedI.jpg",
+    "Attachments/RenderedI (1).jpg",
     "Relativity.md",
     "Chapter 25 Notes.md",
     "Chapter 18 Notes.md",
     "10th Grade/AP Physics 2/Chapter 23.md",
     "Nuclear Physics.md",
+    "Attachments/Pasted image 20230426151317.png",
     "Chapter 17 Notes.md",
     "Chapter 16 Notes.md",
     "10th Grade/AP Physics 2/Chapter 20.md",
-    "10th Grade/AP Physics 2/Chapter 21.md"
+    "10th Grade/AP Physics 2/Chapter 21.md",
+    "10th Grade/AP Physics 2/Notes/20.1 - Charges and Forces.md",
+    "10th Grade/AP Physics 2/Notes/20.3 - Coulomb's Law.md",
+    "10th Grade/AP Physics 2/Notes/20.4 -  The Concept of the Electric Field.md",
+    "10th Grade/AP Physics 2/Homework/Chapter 20 Homework.md",
+    "10th Grade/AP Physics 2/Chapter 11.md",
+    "10th Grade/AP Physics 2/Chapter 12.md",
+    "10th Grade/AP Physics 2/Chapter 13.md",
+    "10th Grade/Language/Weekly News Project 8.28.md"
   ]
 }
