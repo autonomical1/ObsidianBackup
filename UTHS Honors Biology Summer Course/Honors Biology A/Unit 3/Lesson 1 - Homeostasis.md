@@ -41,4 +41,22 @@
 - Specific organ systems work together to maintain homeostasis
 - Ex. regulation of blood pH through relationship b/w circulatory and respiratory systems
 	- circulatory - brings O<sub>2</sub> to tissues and exch. waste/gasses. respiratory system expels gas wase and brings in new oxygen
-	- 
+- Ex: osmotic balance
+
+## Homeostasis in Plants
+- plants can regulate water content
+	- through the use of *stomata* - pores on underside of leaves that regulate water and gasses
+		- surrounded by guard cells - open or close based on amount of water within plant cell
+- also regulate water content through the *xylem* - found throughout root and shoot systems of plant
+
+# Venn Diagram
+![[Pasted image 20230623170909.png]]
+
+## Feedback Loops
+- Negative feedback loop:
+	- control center reverses current condition of body either higher or lower than set point and return body to normal state
+		- blood sugar/temp
+		- ![[Pasted image 20230623171233.jpg]]
+- Positive feedback loop
+	- increase change from set point
+	- ex: childbirth - contractions stimulate hypothalamus and oxytocin causes more contractions
