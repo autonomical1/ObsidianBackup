@@ -78,4 +78,6 @@
 My hypothesis for the control was partially correct since most of the leaves stayed afloat, however, I think one of them sank since there could have been contamination.
 My hypothesis for trial 1 was also correct since most of the leaves sank. My hypothesis for trial 2 was partially correct, but there could have been some light leakage.
 
-Photosynthesis would produce oxygen gas and glucose within the cells. As the cells produce oxygen, the process of cellular respiration occurs, which uses that oxygen to create ATP and CO<sub>2</sub> gas. Trial 1 was the fastest rate since there was presence of both carbon dioxide and light energy. Trial 2 was the slowest since there was no light but CO<sub>2</sub>
+Photosynthesis would produce oxygen gas and glucose within the cells. As the cells produce oxygen, the process of cellular respiration occurs, which uses that oxygen to create ATP and CO<sub>2</sub> gas. Trial 1 was the fastest rate since there was presence of both carbon dioxide and light energy. Trial 2 was the slowest since there was no light but CO<sub>2</sub> was present. 
+
+This experiment could be improved by making the area that has trial 2 is fully covered from light, and the control and trial 1 are closer to a light source.

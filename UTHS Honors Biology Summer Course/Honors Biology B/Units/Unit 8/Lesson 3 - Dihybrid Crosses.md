@@ -1,0 +1,14 @@
+- Steps to solve a dihybrid cross
+	- Identify which allele is dominant and recessive
+	- Write the corresponding phenotype for each allele
+	- Write the parents' genotypes
+	- Number the alleles for the mother and father (1-4)
+		- YYRR and yyrr
+		- 1234 and 1234
+	- Draw 4x4 punnett square
+	- Write mother's alleles for numbers 1+3, 1+4, 2+3, and 2+4 above the columns
+		- YR, YR, YR, YR
+	- Write father's alleles for numbers 1+3, 1+4, 2+3, and 2+4 next to rows
+		- yr, yr, yr, yr
+	- Fill in punnett squares
+	- Write dominant before recessive

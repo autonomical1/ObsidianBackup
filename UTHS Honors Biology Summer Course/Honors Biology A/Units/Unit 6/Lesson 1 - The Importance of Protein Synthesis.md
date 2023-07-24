@@ -1,0 +1,26 @@
+- Proteins are basis for every biological function a cell performs.
+- DNA stores instructions to make proteins. 
+- 3 important molecules: **DNA, RNA, and Proteins**
+- Initial DNA strand:
+	![[Pasted image 20230710162606.png|100]]
+- To create proteins, the cell creates a strand of RNA - nucleic acid and stores genetic information like DNA, but uses info for protein synthesis.
+	- instead of Thymine (T), has Uracil (U)
+- Complementary RNA strand:
+	- ![[Pasted image 20230710162858.png|200]]
+- This process is **transcription**: complementary strand of RNA from DNA
+	- this specific RNA is called **messenger RNA (mRNA)**
+		- carries message of gene from DNA to ribosome to be translated to protein.
+- protein made of amino acids, sequence of amino acids determine structure and function of protein
+- 20 different types of amino acids
+- each 3 nitrogen bases on mRNA is **codon**
+	- each codon codes for a specific AA
+- ![[Pasted image 20230710163159.png|100]]
+- ![[Pasted image 20230710163634.jpg]]
+	- This is the list and key for what codons represent which amino acids
+
+- Process of transcription (DNA -> mRNA) depends on H-bonding
+	- For DNA: A=T, G=C
+	- For RNA: A=U, G=C
+- true for all organisms
+- Process of translation (mRNA -> protein) also depends on H-bonding between each codon and appropriate amino acid
+- 

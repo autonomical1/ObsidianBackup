@@ -1,0 +1,4 @@
+- Gene regulation allows organisms to respond to their environments and have specialized cells.
+- happens at every level of protein synthesis:
+	- ![[Pasted image 20230710183819.jpg]]
+- 

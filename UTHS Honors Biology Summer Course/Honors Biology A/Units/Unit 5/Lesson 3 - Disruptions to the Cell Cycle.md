@@ -1,0 +1,5 @@
+- The cell cycle is regulated by specific proteins called *regulatory proteins*, which send a signal directly to the cell to speed up or slow down the cell cycle. 
+	- they can also act like checkpoints
+		- preventing steps from being skipped over
+- Cell cycle is either promoted or inhibited by proteins like *cyclin*. 
+- If these regulatory proteins become defective, could lead to disease - cancer
