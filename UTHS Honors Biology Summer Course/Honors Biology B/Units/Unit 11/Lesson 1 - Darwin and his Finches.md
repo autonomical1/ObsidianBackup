@@ -1,0 +1,12 @@
+- Finch - small bird, distinctive beak shape
+	- 10+ species that differ in size, beak shape, color, diet, etc.
+	- Charles Darwin went on a journey around the world where he found that finches had different beak shapes and diets
+- Charles Darwin was a well-to-do man that specialized in being a naturalist
+	- offered a position on the H.M.S. Beagle
+		- sailed around of 5 years and studied natural world at all of the new places he went
+		- this is where he developed the theory about how organisms change
+		- most influential stop - Galapagos Islands
+			- saw creatures not seen anywhere else
+				- intrigued by the finches - they were all related, but had different beak shapes based on where they were located within the Galapagos chain
+			- some had large, thick beaks, and others had small, skinny beaks
+			- each island had different food sources for the finches - this led him to believe that the finches had their beak shapes conform to what food was available

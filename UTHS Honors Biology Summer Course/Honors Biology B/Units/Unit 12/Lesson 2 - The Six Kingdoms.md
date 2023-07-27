@@ -1,0 +1,97 @@
+- The characteristics of life: 
+	- composed of cells
+	- use energy
+	- contain DNA
+	- grow and develop
+	- reproduce
+	- maintain homeostasis
+	- adapt and evolve
+	- respond to stimuli
+- Ways that organisms differ (useful in catergorization)
+	- cell type: prokaryote vs. eukaryote
+	- number of cells: unicellular vs. multicellular
+		- bacteria are unicellular, most eukaryotes are multicellular
+		- prokaryotes are all unicellular
+	- mode of nutrition: autotroph vs. heterotroph
+	- cell composition: cell wall vs. no cell wall
+		- prokaryotic bacteria, plants, and fungi have cell walls
+	- ability to move: motile vs. non-motile
+		- some move freely and spontaneously at some point - *motile*
+		- plants can't move on their own - *non-motile*
+
+- All life can be categorized into one of 3 domains: *Bacteria, Archaea, and Eukarya*
+
+#### Domain Archaea
+- bacteria that live in extremely violent, hostile environments
+- hypothesized that they were the first organisms to evolve on this planet
+- can be further categorized based on the specific environments they favor
+	- *thermophiles* - extreme temps
+	- *acidophiles* - very acidic environments
+	- *halophiles* - very salty environments
+- unicellular, prokaryotic, and have cell walls
+- can be either autotrophic or heterotrophic
+- **Kingdom Archaebacteria**:
+	- only kingdom in Domain Archaea
+	- archaea = ancient
+
+#### Domain Bacteria
+- appear almost everywhere on the planet
+- prokaryotic, unicellular organisms
+- smallest organisms on Earth
+- 3 basic shapes:
+	- coccus (sphere-shaped)
+	- bacillus (rod-shaped)
+	- spirillus (spiral)
+- can be either autotrophs or heterotrophs
+- cyanobacteria
+	- autotrophic
+	- thought to be the first photosynthesizers on earth
+- many ecological processes depend on them
+- help digestive processes for many organisms
+- some are pathogenic and act as parasites
+- **Kingdom Eubacteria**:
+	- only kingdom in bacteria
+	- refers to the fact that bacteria in this kingdom are extremely common and exist almost everywhere
+
+#### Domain Eukarya
+- includes all eukaryotic organisms
+- most diverse of the domains
+- can be subdivided into 4 different kingdoms based on size, motility, cell composition, and mode of nutrition
+- evolved much more recently than other organisms
+- larger and more complex
+- **Kingdom Protista**:
+	- small compared to other eukaryotes
+	- mostly unicellular
+		- still 10x larger than prokaryotic cells
+	- includes amoebas, paramecia, molds, algae, etc.
+	- some form colonies
+	- most protists don't contain cell wall, some do
+	- some are parasitic and can infect other organisms
+	- can live in almost any environment that contains liquid water
+- **Kingdom Plantae**:
+	- autotrophic producers in environment
+	- multicellular
+	- contain cell wall that is used for structure and support
+		- made of cellulose
+	- contain photosynthetic chloroplasts
+	- non-motile
+	- important to carbon and nitrogen cycles
+	- includes all trees, grasses, flowers, tubers, ferns, and mosses
+	- rely on sunlight and environment to perform photosynthesis
+- **Kingdom Fungi**:
+	- decomposing heterotrophs
+	- contain cell wall for structure and support
+		- made of chitin (exoskeletons of arthropods also made of chitin)
+	- don't contain chloroplasts
+	- multicellular, also has unicellular yeast
+	- non-motile
+	- referred to as absorptive heterotrophs since they decompose organic matter in the environment and digest it outside of their bodies
+	- some are parasitic and can cause infection
+	- includes all mushrooms and yeasts
+- **Kingdom Animalia**:
+	- heterotrophic consumers
+	- don't have cell wall or chloroplasts
+	- ingestive heterotrophs - ingest food and digest it inside their bodies
+	- some are parasitic
+	- includes all sponges, coral, insects, fish, etc
+
