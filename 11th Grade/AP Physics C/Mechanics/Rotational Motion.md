@@ -68,3 +68,44 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 
 ### I for a hoop: Assume mass M and radius R.
 ![[Pasted image 20231018111853.png]]
+
+
+### Example: I for a uniform ring: "onion ring" method
+![[Pasted image 20231019105756.png]]
+
+### Example: Problem 55.a., p.332
+![[Pasted image 20231019110620.png]]
+# Parallel Axis Theorem
+- Suppose we know $I_{cm}$ about the center of mass of an object.
+- We want to know $I$ through another parallel axis a distance $d$ away.
+- General:
+	- ![[Pasted image 20231023105706.png]]
+	- Statement: $$I = I_{cm} + Md^{2}$$
+		- Parallel Axis Theorem
+- Proof (1-D):
+	- ![[Pasted image 20231023110554.png]]
+	- ![[Pasted image 20231023110526.png]]
+
+### Example: Find the moment of inertia for a thin rod pivoted at the end.
+![[Pasted image 20231023111243.png]]
+### Example: Uniform disk pivoted about its edge
+![[Pasted image 20231023111413.png]]
+
+# Torque
+- Mathematically: $$\tau = rF \sin \phi$$
+	- Units: $N \cdot m$
+- Ability of a force to cause rotation: 
+	- the magnitude F of the force
+	- the distance r is large
+	- $\sin \phi > 0$
+
+### Cross product of two vectors:
+- a.k.a Vector Product
+- Given two vectors $\overrightarrow{A}$ and $\overrightarrow{B}$
+- Define $\overrightarrow{C} = \overrightarrow{A} \text{ x } \overrightarrow{B}$
+- ![[Pasted image 20231023112046.png]]
+- Notes:
+- $\overrightarrow{A} \text { x } \overrightarrow{B} \ne \overrightarrow{B} \text{ x } \overrightarrow{a}$
+- Cross product vanishes if: $\phi = 0 \degree \text{ or } 180\degree$ 
+- Cross product is mutually 1 to both vectors
+- 
