@@ -98,7 +98,9 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 	- the magnitude F of the force
 	- the distance r is large
 	- $\sin \phi > 0$
-
+- In AP1: $\tau = rFsin\phi$
+	- dir: CCW +, CW -
+- In APC: $\overrightarrow{\tau} = \overrightarrow{r} \text { x}$
 ### Cross product of two vectors:
 - a.k.a Vector Product
 - Given two vectors $\overrightarrow{A}$ and $\overrightarrow{B}$
@@ -109,4 +111,3 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 - Cross product vanishes if: $\phi = 0 \degree \text{ or } 180\degree$ 
 - Cross product is mutually 1 to both vectors
 - ![[Pasted image 20231023113154.png]]
-- 
