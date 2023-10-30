@@ -113,3 +113,6 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 - Cross product vanishes if: $\phi = 0 \degree \text{ or } 180\degree$ 
 - Cross product is mutually 1 to both vectors
 - ![[Pasted image 20231023113154.png]]
+
+# Rotational Dynamics
+- 
