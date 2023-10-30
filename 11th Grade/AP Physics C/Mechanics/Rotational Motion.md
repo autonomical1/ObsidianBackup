@@ -115,4 +115,11 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 - ![[Pasted image 20231023113154.png]]
 
 # Rotational Dynamics
+- Newton's 2nd Law: 
+	- Translation: $$a = \frac{F_{net}}{m} = \frac{\sum\limits F}{m} \rightarrow \sum\limits F = m\cdot a$$
+	- Rotation: $$\sum\limits \tau = I \cdot\alpha$$
+- Static Equilibrium:
+	- 2 Conditions:
+		- 1) $\sum\limits F = 0$
+		- 2) $\sum\limits \tau = 0$
 - 
