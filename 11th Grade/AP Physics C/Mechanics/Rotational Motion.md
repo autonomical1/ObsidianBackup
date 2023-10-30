@@ -100,7 +100,9 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 	- $\sin \phi > 0$
 - In AP1: $\tau = rFsin\phi$
 	- dir: CCW +, CW -
-- In APC: $\overrightarrow{\tau} = \overrightarrow{r} \text { x}$
+- In APC: $\overrightarrow{\tau} = \overrightarrow{r} \text { x } \overrightarrow{F}$
+- ![[Pasted image 20231023113635.png]]
+- 
 ### Cross product of two vectors:
 - a.k.a Vector Product
 - Given two vectors $\overrightarrow{A}$ and $\overrightarrow{B}$
