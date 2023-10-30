@@ -125,3 +125,5 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 
 ### Example: Balancing a Meterstick
 - Find the amount of mass to add at the end of a 100g meterstick to balance it at the 30cm mark.
+- ![[Pasted image 20231030110731.png]]
+-  
