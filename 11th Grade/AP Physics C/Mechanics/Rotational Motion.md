@@ -129,3 +129,4 @@ $$X_{cm}= \frac{\int xdm}{\int dm} = \frac{3}{4}L$$
 
 # Rolling without Slipping
 - Rolling is a combination of rotation and translation. For an object that rolls without slipping, the translation of the center of mass is related to the angular velocity by $$V_{cm} = R\omega$$
+# Kinetic Energy
