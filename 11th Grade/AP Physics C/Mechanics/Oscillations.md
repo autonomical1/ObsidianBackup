@@ -12,3 +12,8 @@
 		- Assume $\cos(x)$ with an initial condition (phase angle $\phi_{0}$)
 		- $x(t) = A\cos(\omega t + \phi_{0})$
 - Frequency: $f = \frac{\omega}{2\pi} \rightarrow f \ \frac{1}{2\pi} \sqrt{\frac{k}{m}}$ 
+- Period: $T = \frac{1}{f} \rightarrow T = 2\pi  /sqrt{\frac{m}{k}}$
+- $[f] = \text{Hz} = \frac{\text{cycles}}{\text{second}}$
+
+# Conservation of Energy
+- Spring fore
