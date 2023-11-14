@@ -7,5 +7,5 @@
 - Newton's Second Law: 
 	- $$\sum\limits F_{x} = ma_{x} = F_{s}$$where $F_{s} = -kx$ is the spring force and $a_{x} = \frac{d^{2}x}{dt^{2}}$
 	  substituting, $$$m \frac{d^{2}x}{dt^{2}} = -kx$$ $$\frac{d^{2}x}{dt^{2}} = \frac{-k}{m}x$$
-	  
-	  
+	  Solutions: $$x(t) = A\cos(\omega t) + B\sin(\omega t)$$where $\omega = \sqrt{\frac{k}{m}}$ is the angular frequency.
+- 
