@@ -16,4 +16,5 @@
 - $[f] = \text{Hz} = \frac{\text{cycles}}{\text{second}}$
 
 # Conservation of Energy
-- Spring fore
+- Spring force is conservative, so: $E = K+U =$ constant, where $K = \frac{1}{2}mv^{2}$ and $U = \frac{1}{2} kx^{2}$
+- $$F_{s} = \frac{-dU_{s}}{dx}$$$$dU_{s} = -F_{s}dx$$$$U_{s}(x) = \int_{0}^{x}dU_{s} = -\int_{0}^{x} F_{s} dx$$$$U_{s}(x) = -\int_{0}^{x} (-kx)dx$$$$U_{s}(x) = k\int_{0}^{x} xdx$$$$U_{s}(x) = k[\frac{x^{2}}{2}]_0}_$$
