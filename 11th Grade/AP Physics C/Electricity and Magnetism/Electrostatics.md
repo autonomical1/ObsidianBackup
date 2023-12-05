@@ -19,4 +19,8 @@
 ## Charging by Friction
 - Two objects can be charged by rubbing them together.
 	- Ex: Rubber & Fur
-	- Ex: Glass **
+	- Ex: Glass & Silk
+
+## Charging by conduction:
+- Consider a charged rubber rod and a neutral conducting sphere.
+- 
