@@ -1,0 +1,3 @@
+- Electric effects were first noticed by the ancient Greeks.
+- Discovered that amber could pick up small pieces of cloth or straw.
+- 
