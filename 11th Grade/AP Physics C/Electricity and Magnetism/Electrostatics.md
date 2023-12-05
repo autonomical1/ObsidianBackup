@@ -15,4 +15,8 @@
 	- *Proton*: $q_{p} = +e$
 	- *Electron:* $q_{e} = -e$
 	- $e$: Fundamental unit of charge
+
+## Charging by Friction
+- Two objects can be charged by rubbing them together.
+	- Ex: Rubber & Fur
 - 
