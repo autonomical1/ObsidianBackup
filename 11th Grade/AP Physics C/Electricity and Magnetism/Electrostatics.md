@@ -3,4 +3,7 @@
 - Benjamin Franklin (18th C)
 	- Discovered two types of charge:
 	- Named them "positive" and "negative"
+- Most matter is electrically **neutral**
+	- **Neutral**: equal numbers of + (protons) and - (electrons)
+		- *no net charge*
 	- 
