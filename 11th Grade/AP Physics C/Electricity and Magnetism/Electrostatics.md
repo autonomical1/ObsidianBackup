@@ -2,4 +2,5 @@
 - Discovered that amber could pick up small pieces of cloth or straw.
 - Benjamin Franklin (18th C)
 	- Discovered two types of charge:
-		- 
+	- Named them "positive" and "negative"
+	- 
