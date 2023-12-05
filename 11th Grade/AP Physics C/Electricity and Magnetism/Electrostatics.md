@@ -19,4 +19,4 @@
 ## Charging by Friction
 - Two objects can be charged by rubbing them together.
 	- Ex: Rubber & Fur
-- 
+	- Ex: Glass **
