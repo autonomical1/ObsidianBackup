@@ -10,4 +10,4 @@
 - Properties of charge:
 	- **conserved**
 	- **quantized**
-	-  
+	-  Any charge, q, has specific values so that $q = Ne$ where $N$ is an integer and $e$ is the magnitude of electron charge.
