@@ -6,4 +6,8 @@
 - Most matter is electrically **neutral**
 	- **Neutral**: equal numbers of + (protons) and - (electrons)
 		- *no net charge*
-	- 
+- Charged Objects: **Always have +/- imbalance** **Always transfer electrons** 
+- Properties of charge:
+	- **conserved**
+	- **quantized**
+	-  
