@@ -11,3 +11,8 @@
 	- **conserved**
 	- **quantized**
 	-  Any charge, q, has specific values so that $q = Ne$ where $N$ is an integer and $e$ is the magnitude of electron charge.
+- **Charged Particles**:
+	- *Proton*: $q_{p} = +e$
+	- *Electron:* $q_{e} = -e$
+	- $e$: Fundamental unit of charge
+- 
