@@ -45,3 +45,6 @@
 - Ground: enforces no net charge
 	- ![[Pasted image 20231206111912.png]]
 
+## Electrostatic force between two point-charges
+- **point-charge**: size of the object is very small compared to the separation distance
+- 
