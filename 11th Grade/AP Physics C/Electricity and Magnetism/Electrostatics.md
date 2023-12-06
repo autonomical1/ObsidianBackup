@@ -34,4 +34,6 @@
 - **Insulators**: Do not allow charge to move freely; tend to be nonmetallic
 
 ## Polarization of an Insulator
-
+![[Pasted image 20231206110639.png]]
+## Polarization of a conductor: 
+- 
