@@ -47,4 +47,5 @@
 
 ## Electrostatic force between two point-charges
 - **point-charge**: size of the object is very small compared to the separation distance
-- 
+- Empirical (Charles Coulomb):
+	- found that: $$F_{E} \propto \frac{1}{r^{2}}$$
