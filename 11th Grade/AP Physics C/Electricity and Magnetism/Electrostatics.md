@@ -42,4 +42,5 @@
 
 ## Charge by induction:
 - Connect one side of conductor to an electrical ground
-- Ground: 
+- Ground: enforces no net charge
+- 
