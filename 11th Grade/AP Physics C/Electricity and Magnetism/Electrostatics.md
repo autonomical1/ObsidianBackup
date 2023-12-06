@@ -30,4 +30,6 @@
 - Opposite charges attract ($+/-$ or $-/+$)
 
 ## Conductors and Insulators
-- **Conductors**: Allow charges to move freely throughout the material
+- **Conductors**: Allow charges to move freely throughout the material; tend to be metallic
+- **Insulators**: Do not allow charge to move freely; tend to be nonmetallic
+- 
