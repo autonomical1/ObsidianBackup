@@ -36,4 +36,10 @@
 ## Polarization of an Insulator
 ![[Pasted image 20231206110639.png]]
 ## Polarization of a conductor: 
-- 
+- Assume conductor is initially neutral
+	- no net charge
+- ![[Pasted image 20231206111050.png]]
+
+## Charge by induction:
+- Connect one side of conductor to an electrical ground
+- Ground: 
