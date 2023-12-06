@@ -23,4 +23,11 @@
 
 ## Charging by conduction:
 - Consider a charged rubber rod and a neutral conducting sphere.
-- 
+
+## Electrostatic Force:
+- Recall that electric charges exert forces on one another (Newton's 3rd Law).
+- Like charges repel ($+/+$ or $-/-$)
+- Opposite charges attract ($+/-$ or $-/+$)
+
+## Conductors and Insulators
+- **Conductors**: Allow charges to move freely throughout the material
