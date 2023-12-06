@@ -48,4 +48,6 @@
 ## Electrostatic force between two point-charges
 - **point-charge**: size of the object is very small compared to the separation distance
 - Empirical (Charles Coulomb):
-	- found that: $$F_{E} \propto \frac{1}{r^{2}}$$
+	- found that: $$F_{E} \propto \frac{1}{r^{2}}$$$$F_{E}= |q_{1}||q_{2}|$$
+		- combine with constant of proportionality ($k_{e}$: coulomb constant)
+- Coulomb's Law: $$ |F_{E}| = k_{E} \frac{q_{1}q_{2}}{r^{2}}$$where $$k_{E} = 9.0 * 10^{9}\frac{N\cdot m^{2}}{C^{2}}$$
