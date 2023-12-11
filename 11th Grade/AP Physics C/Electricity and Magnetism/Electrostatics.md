@@ -59,4 +59,5 @@
 
 
 ## Electric Field
+- Consider very large source charge, Q, and a very small test charge, $q_0$
 - 
