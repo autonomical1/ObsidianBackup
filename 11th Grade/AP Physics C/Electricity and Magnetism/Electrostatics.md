@@ -55,4 +55,8 @@
 ### Example: Electric Force due to Multiple Charges
 - Consider three identical charges that form an equilateral triangle
 - Find the electrical force on one of the charges due to the other two:
+- ![[Pasted image 20231211111312.png]]
+
+
+## Electric Field
 - 
