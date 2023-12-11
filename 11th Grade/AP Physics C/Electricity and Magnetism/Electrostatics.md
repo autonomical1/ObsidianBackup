@@ -63,4 +63,7 @@
 - ![[Pasted image 20231211112354.png]]
 - We define the electric field at point P in terms of electric force experienced by charge $q_0$
 	- $$\overrightarrow{E} = \frac{F_{E}}{q_{0}}$$
-	- 
+
+## Electric Field Due to a Point Charge
+- $$E = \frac{F_{E}}{q_{0}} = \frac{1}{q_{0}} [k_{E} (\frac{Qq_{0}}{r^{2}} \hat{r})]$$therefore: $$E = k_{E} \frac{Q}{r^{2}}\hat{r}$$
+- 
