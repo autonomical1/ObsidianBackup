@@ -60,5 +60,7 @@
 
 ## Electric Field
 - Consider very large source charge, Q, and a very small test charge, $q_0$
-- ![[Pasted image 20231211111921.png]]
-- 
+- ![[Pasted image 20231211112354.png]]
+- We define the electric field at point P in terms of electric force experienced by charge $q_0$
+	- $$\overrightarrow{E} = \frac{F_{E}}{q_{0}}$$
+	- 
