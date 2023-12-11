@@ -51,3 +51,6 @@
 	- found that: $$F_{E} \propto \frac{1}{r^{2}}$$$$F_{E}= |q_{1}||q_{2}|$$
 		- combine with constant of proportionality ($k_{e}$: coulomb constant)
 - Coulomb's Law: $$ |F_{E}| = k_{E} \frac{q_{1}q_{2}}{r^{2}}$$where $$k_{E} = 9.0 * 10^{9}\frac{N\cdot m^{2}}{C^{2}}$$but the real constant: $$k_{E} = \frac{1}{4\pi\epsilon_{0}}$$ where $\epsilon_{0} = 8.854 * 10^{-12} \frac{C^{2}}{N\cdot m^{2}}$ is the permittivity of free space
+
+### Example: Electric Force due to Multiple Charges
+- 
