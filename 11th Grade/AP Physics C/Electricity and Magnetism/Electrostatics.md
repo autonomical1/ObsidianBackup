@@ -80,4 +80,6 @@
 - Linear: $$\lambda (x) = \frac{dq}{dx} \rightarrow dq = \lambda (x)dx$$
 - Surface (area): $$\sigma (A) = \frac{dq}{dA} \rightarrow dq = \sigma (A)da$$
 	- (Book uses $\eta$)
+
+### Example: Uniform Ring of Charge
 - 
