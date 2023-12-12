@@ -77,4 +77,7 @@
 		- $\hat{r}$: radial (outward $+$, inward $-$)
 
 ## Charge Densities:
-- Linear: $$\lambda (x) = \frac{dq}{dx}$$
+- Linear: $$\lambda (x) = \frac{dq}{dx} \rightarrow dq = \lambda (x)dx$$
+- Surface (area): $$\sigma (A) = \frac{dq}{dA} \rightarrow dq = \sigma (A)da$$
+	- (Book uses $\eta$)
+- 
