@@ -67,7 +67,7 @@
 ## Electric Field Due to a Point Charge
 - $$E = \frac{F_{E}}{q_{0}} = \frac{1}{q_{0}} [k_{E} (\frac{Qq_{0}}{r^{2}} \hat{r})]$$therefore: $$E = k_{E} \frac{Q}{r^{2}}\hat{r}$$
 - Electric field due to an extended (continuous) charge distribution:
-	- Find $E$ at point $P$.![[Pasted image 20231212105401.png]]
 	- Then: $\Delta E$, due to $\Delta q$ is: $$\Delta E = k_{E} \frac{\Delta q}{r^{2}}\hat{r}$$
 	- And: $$E \approx \sum\limits_{i} \frac{\Delta q_{i}}{r_{i}^{2}} \hat{r_{i}}$$
-	- 
+	- Becomes exact when: $$E = \lim_{\Delta q \rightarrow 0} k_{E} \frac{\Delta q_{i}}{r_{i}^{2}}\hat{r_{i}} = k_{E} \int \frac{dq}{r^{2}}\hat{r}$$
+- Example:Find $E$ at point $P$.![[Pasted image 20231212105401.png]]
