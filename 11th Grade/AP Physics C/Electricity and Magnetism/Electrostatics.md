@@ -82,4 +82,7 @@
 	- (Book uses $\eta$)
 
 ### Example: Uniform Ring of Charge
+- ![[Pasted image 20231212112028.png]]
+	- Symmetry: $y$ and $z$ components cancel, $x$-components add.
+	- Then: $$E = \int \frac{dq}{r^{2}}\hat{r}$$$$E = E_{x} = k_{E} \int \frac{dq}{r^{2}}cos\theta \hat{i}$$where $$r^{2} = (x^{2} + R^{2})$$and$$cos \theta = \frac{x}{r} = \frac{x}{ (x^{2} + R^{2})^{\frac{1}{2}}}$$
 - 
