@@ -67,4 +67,5 @@
 ## Electric Field Due to a Point Charge
 - $$E = \frac{F_{E}}{q_{0}} = \frac{1}{q_{0}} [k_{E} (\frac{Qq_{0}}{r^{2}} \hat{r})]$$therefore: $$E = k_{E} \frac{Q}{r^{2}}\hat{r}$$
 - Electric field due to an extended (continuous) charge distribution:
-	- 
+	- Find $E$ at point $P$.![[Pasted image 20231212105401.png]]
+	- Then: $\Delta E$, due to $\Delta q$ is: $$\Delta E = k_{E} (\Delta q)$$
