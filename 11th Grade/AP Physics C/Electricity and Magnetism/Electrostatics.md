@@ -75,4 +75,6 @@
 		- $dq$: differential piece of charge
 		- $r$: distance from $dq$ to $P$
 		- $\hat{r}$: radial (outward $+$, inward $-$)
-		- 
+
+## Charge Densities:
+- Linear: $$\lambda (x) = \frac{dq}{dx}$$
