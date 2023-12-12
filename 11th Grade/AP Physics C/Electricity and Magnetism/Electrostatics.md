@@ -70,4 +70,9 @@
 	- Then: $\Delta E$, due to $\Delta q$ is: $$\Delta E = k_{E} \frac{\Delta q}{r^{2}}\hat{r}$$
 	- And: $$E \approx \sum\limits_{i} \frac{\Delta q_{i}}{r_{i}^{2}} \hat{r_{i}}$$
 	- Becomes exact when: $$E = \lim_{\Delta q \rightarrow 0} k_{E} \frac{\Delta q_{i}}{r_{i}^{2}}\hat{r_{i}} = k_{E} \int \frac{dq}{r^{2}}\hat{r}$$
-- Example:Find $E$ at point $P$.![[Pasted image 20231212105401.png]]
+- Example: Find $E$ at point $P$.![[Pasted image 20231212105401.png]]
+	- Answer: $$E = k_{E} \int \frac{dq}{r^{2}}\hat{r}$$
+		- $dq$: differential piece of charge
+		- $r$: distance from $dq$ to $P$
+		- $\hat{r}$: radial (outward $+$, inward $-$)
+		- 
