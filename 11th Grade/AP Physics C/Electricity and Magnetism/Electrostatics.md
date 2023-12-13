@@ -89,4 +89,5 @@
 		- Test: $x = 0 \rightarrow E = 0$
 
 ### Example: Find $E$ at the origin force for a very long wire with charge density $\lambda_{0}$ along the x-axis starting at $x_{0}$
-- 
+
+- Symmetry:$$E = E_{x}\hat{i}$$$$E_{x} = k_{E} \int \frac{dq}{x^{2}}$$$$\lambda (x) = \lambda_{0}  = \frac{dq}{dx} \rightarrow dq = \lambda_{0}dx$$$$E_{x} = k_{E} \int_{x_{0}}^{\infty} (\lambda_)$$
