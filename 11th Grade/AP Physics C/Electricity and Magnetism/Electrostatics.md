@@ -89,5 +89,6 @@
 		- Test: $x = 0 \rightarrow E = 0$
 
 ### Example: Find $E$ at the origin force for a very long wire with charge density $\lambda_{0}$ along the x-axis starting at $x_{0}$
+![[Pasted image 20231213110611.png]]
+- Symmetry:$$E = E_{x}\hat{i}$$$$E_{x} = k_{E} \int \frac{dq}{x^{2}}$$$$\lambda (x) = \lambda_{0}  = \frac{dq}{dx} \rightarrow dq = \lambda_{0}dx$$$$E_{x} = k_{E} \int_{x_{0}}^{\infty} \frac{\lambda_{0} dx}{x^{2}}$$$$E_{x}  = k_{E} \lambda_{0} \int_{x_{0}}^{\infty} \frac{dx}{x^{2}}$$$$E_{x} = k_{E}\lambda_{0} [\frac{-1}{x} |_{x_{0}}^\infty]$$$$E_{x} = k_{E}\lambda_{0} [0 - \frac{-1}{x_{0}}]$$$$E_{x} = \frac{k_{E}\lambda_{0}}{x_{0}}$$$$E = \frac{k_{E}\lambda_{0}}{x_{0}}(-\hat{i})$$$$E = -k_{E} \frac{\lambda_{0}}{x_{0}}\hat{i}$$
 
-- Symmetry:$$E = E_{x}\hat{i}$$$$E_{x} = k_{E} \int \frac{dq}{x^{2}}$$$$\lambda (x) = \lambda_{0}  = \frac{dq}{dx} \rightarrow dq = \lambda_{0}dx$$$$E_{x} = k_{E} \int_{x_{0}}^{\infty} \frac{\lambda_{0} dx}{x^{2}}$$$$E_{x}  = k_{E} \lambda_{0} \int_{x_{0}}^{\infty} \frac{dx}{x^{2}}$$$$E_{x} = k_{E}\lambda_{0} [\frac{-1}{x} |_{x_{0}}^\infty]$$$$E_{x} = k_{E}\lambda_{0} [0 - \frac{-1}{x_{0}}]$$$$E_{x} = \frac{k_{E}\lambda_{0}}{x_{0}}$$
