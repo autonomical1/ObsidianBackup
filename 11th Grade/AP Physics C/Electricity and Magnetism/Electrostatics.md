@@ -87,3 +87,6 @@
 	- Then: $$E = \int \frac{dq}{r^{2}}\hat{r}$$$$E = E_{x} = k_{E} \int \frac{dq}{r^{2}}cos\theta \hat{i}$$where $$r^{2} = (x^{2} + R^{2})$$and$$cos \theta = \frac{x}{r} = \frac{x}{ (x^{2} + R^{2})^{\frac{1}{2}}}$$Substituting, we obtain: $$E = k_{E} \int \frac{dq}{x^{2} + R^{2}}\cdot \frac{x}{(x^{2}+ R^{2})^{\frac{1}{2}}} \hat{i}$$$$E = k_{E} \frac{x\hat{i}}{(x^{2} + R^{2})^{\frac{3}{2}}} \int dq$$$$E = k_{E} \frac{Qx}{(x^{2} + R^{2})^{\frac{3}{2}}\hat{i}}$$
 	- Uniform ring of radius R.
 		- Test: $x = 0 \rightarrow E = 0$
+
+### Example: Find $E$ at the origin force for a very long wire with charge density $\lambda_{0}$ along the x-axis starting at $x_{0}$
+- 
