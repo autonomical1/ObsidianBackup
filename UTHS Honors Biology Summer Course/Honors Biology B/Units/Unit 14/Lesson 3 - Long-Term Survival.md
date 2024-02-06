@@ -1,0 +1,2 @@
+- populations change because there are changes in the amount of reproduction, number of deaths, and if there is migration in/out of the habitat
+- 

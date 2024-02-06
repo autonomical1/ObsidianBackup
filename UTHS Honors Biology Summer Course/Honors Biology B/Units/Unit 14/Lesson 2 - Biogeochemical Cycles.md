@@ -1,0 +1,17 @@
+- Carbon is the basis for all life on Earth.
+	- in all macromolecules
+	- CO2
+	- photosynthetic organisms take in CO2
+- **Biogeochemical cycle**: the way carbon enters organisms, exchanged between them, and is returned to the atmosphere
+	- ![[Pasted image 20230728184330.png]]
+- **Nitrogen Cycle**:
+	- chemical makeup of air:
+		- ![[Pasted image 20230728184424.png]]
+		- most of the air is nitrogen
+		- important component of DNA, RNA, and proteins.
+		- ![[Pasted image 20230728184449.png]]
+		- balance within N cycle is important since organisms need usable source of N to make nucleic and amino acids, but too much N can wash into water supplies.
+		- microorganisms "fix" the nitrogen
+			- **nitrogen fixing** - chemical reaction that some microorganisms do that converts N2 to usable compounds like nitrate, nitrite, and ammonia
+				- live in a symbiotic relationship with legume plants.
+	- 

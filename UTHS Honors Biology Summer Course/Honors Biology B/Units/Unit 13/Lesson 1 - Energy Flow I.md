@@ -1,0 +1,16 @@
+- one way organisms get energy is by consuming other organisms
+	- can be described by what they eat - carnivores, herbivores, omnivores
+- energy enters ecosystems through autotrophs (plants, some protists and bacteria)
+	- capture energy and store it into macromolecules
+	- photosynthesis vs chemosynthesis
+- heterotrophs are not able to capture and store light/chemical energy - therefore they depend on autotrophs for energy and nutrients
+- energy enters from producers and flows from producer to consumer
+- food chains show how organisms transfer energy and matter by consumption from one trophic level to the next.
+	- ![[Pasted image 20230727200904.jpg]]
+- primary consumers consume producers, secondary consumers consume primary consumers, and then it goes on
+- ![[Pasted image 20230727200938.jpg]]
+	- food web shows interdependent network of feeding interactions
+	- collection of food chains that interlock
+- scavengers (vultures) hunt and feed on dead plant/animal material
+- decomposers - consume dead plants and animals, break down nutrients to return to the environment
+

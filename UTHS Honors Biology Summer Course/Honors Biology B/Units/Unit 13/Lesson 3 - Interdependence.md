@@ -1,0 +1,15 @@
+- food webs and chains show predator-prey interaction
+	- **predation**: predator species capture and feed on prey species
+		- regulate size and growth of prey population to maintain homeostasis at ecosystem level
+- **symbiosis** - close interdependent relationship between 2 species
+	- 1. Mutualism
+		- both species benefit
+		- ex: oxpecker bird landing on zebra, bird eats ticks and parasites off zebra, zebras get pest control, birds get food
+	- 2. Commensalism
+		- one species benefits while the other is neither harmed or helped
+			- woodpeckers in cacti
+	- 3. Parasitism
+		- one species benefits, one serves as host and is harmed
+			- parasites benefit
+			- don't immediately kill host
+

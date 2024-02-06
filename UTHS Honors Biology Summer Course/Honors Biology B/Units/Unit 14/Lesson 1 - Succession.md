@@ -1,0 +1,11 @@
+- Take a wildfire in a forest as an example, where all of the organisms die. The **pioneer species** are the toughest species that can grow in harsh conditions. They inhabit ecosystem soon after a disaster/new land is formed. Grow and die quickly.
+- the decomposing matter from these organisms enriches the soil which allows the **intermediate** species to grow, which are slightly larger plants. 
+- Then, a **climax community** forms, after many, many years, which will have the maximum amount of biodiversity and is similar in makeup to the initial ecosystem.
+
+- **Succession**: arrival of species in a habitat after it has been created or destroyed by a environmental disturbance
+- happens differently after different types of disturbances
+	- volcanic eruptions will create environment w/ very little biodiversity, with little nutrients in the soil.
+		- primary succession occurs, pioneer species is small, short lifespan, and live in harsh conditions
+	- after fire/flood, nutrients remain in soil, so secondary succession occurs
+		- pioneer species are small plants that were already present
+		- 
