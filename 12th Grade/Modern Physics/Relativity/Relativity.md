@@ -103,3 +103,7 @@
 		- Observers always note time running at a normal rate in their own frame of reference.
 		- In frames moving relative to an observer, time will appear to run slower.
 		- For non-relativistic speeds, $v \lt\lt 1$ and $\Delta t \approx \Delta t_{0}$. Therefore, time dilation is only noticeable when relativistic speeds are involved. 
+
+### Proper Time
+- The quantity $\Delta t_{0}$ is known as the **proper time** and is the time interval between two events in the reference frame where those events occur at the **same location in space.**
+- The proper time is the shortest possible time interval bewteen two events and the 
