@@ -88,4 +88,5 @@
 ### Time Dilation
 - Lack of simultaneity in different reference frames suggests time is not absolute and may pass at different rates in different reference frames.
 - Gedanken experiment:
-	- Consider spaceshi
+	- Consider spaceship travelling past Earth at high speed.
+	- On ship, light ray reflected off a mirror, round-trip transit time recorded.
