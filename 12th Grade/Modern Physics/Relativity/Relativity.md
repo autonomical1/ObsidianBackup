@@ -97,4 +97,7 @@
 		- Therefore, $$\Delta t = \frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}} \Delta t_{0}$$
 		- The quantity occurs very often in Special Relativity, so we define the *relativistic gamma-factor* as: $$\gamma\equiv 1/\sqrt{1- \frac{v^{2}}{c^{2}}}$$
 			- Note that $\gamma = 1$ if $v = 0$ and $\gamma \gt 1$ if $v \gt 0$, so $\gamma \geq 1$ always. 
-	- 
+	- Our final result for light transit time in rest frame of earth is: $$\Delta t= \gamma\Delta t_{0} \text { where } \gamma \geq 1$$
+		- this is time dilation
+	- Notes:
+		- Observers always note time running at a nr
