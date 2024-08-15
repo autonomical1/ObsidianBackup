@@ -92,4 +92,5 @@
 	- On ship, light ray reflected off a mirror, round-trip transit time recorded.
 	- By the second postulate: 
 		- $$\Delta t = \frac{2D'}{c} - \frac{2\sqrt{D^{2}+L^{2}}}{c} \text { where } L = \frac{v\Delta t}{2}$$
-		- Substituting for L and 
+		- Substituting for $L$ and simplifying, we obtain: $$\Delta t = 1/\sqrt{1- \frac{v^{2}}{c^{2}}}(\frac{2D}{c})$$
+			- Transit time
