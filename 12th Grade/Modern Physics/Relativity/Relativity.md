@@ -80,4 +80,4 @@
 - Consider train platform in frame $S$ and train in frame $S'$ moving with speed $v$ relative to $S$.
 - Let points $A'$ and $B'$ represent ends of a train car with observer $O'$ in the middle of the train car.
 - At time $t = 0$ , points $A$, $B$, and $O$ in frame $S$ coincide with points $A'$, $B'$, and $O'$ in the frame $S'$.
-
+- 
