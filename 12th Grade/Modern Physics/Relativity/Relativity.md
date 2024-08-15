@@ -95,5 +95,5 @@
 		- Substituting for $L$ and simplifying, we obtain: $$\Delta t = 1/\sqrt{1- \frac{v^{2}}{c^{2}}}(\frac{2D}{c})$$
 			- Transit time: $$\Delta t_{0} = \frac{2D}{c}$$
 		- Therefore, $$\Delta t = \frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}} \Delta t_{0}$$
-		- The quantity occurs very often in Special Relativiyt, so we define the *relativistic gamma-factor* as: $$\gamma\equiv 1/\sqrt{1- \frac{v^{2}}{c^{2}}}$$
-			- Note that 
+		- The quantity occurs very often in Special Relativit, so we define the *relativistic gamma-factor* as: $$\gamma\equiv 1/\sqrt{1- \frac{v^{2}}{c^{2}}}$$
+			- Note that $\gamma = 1$ if $v = 0$ and $\gamma \gt 1$ if $v \gt 0$, so $\gamma \geq 1$ always. 
