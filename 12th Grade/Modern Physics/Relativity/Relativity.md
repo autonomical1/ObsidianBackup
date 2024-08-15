@@ -107,3 +107,4 @@
 ### Proper Time
 - The quantity $\Delta t_{0}$ is known as the **proper time** and is the time interval between two events in the reference frame where those events occur at the **same location in space.**
 - The proper time is the shortest possible time interval between two events and the time interval will be larger when measured in any other frame of reference.
+
