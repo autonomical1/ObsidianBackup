@@ -93,4 +93,6 @@
 	- By the second postulate: 
 		- $$\Delta t = \frac{2D'}{c} - \frac{2\sqrt{D^{2}+L^{2}}}{c} \text { where } L = \frac{v\Delta t}{2}$$
 		- Substituting for $L$ and simplifying, we obtain: $$\Delta t = 1/\sqrt{1- \frac{v^{2}}{c^{2}}}(\frac{2D}{c})$$
-			- Transit time
+			- Transit time: $$\Delta t_{0} = \frac{2D}{c}$$
+		- Therefore, $$\Delta t = \frac{1}{\sqrt{1- \frac{v^{2}}{c^{2}}}} \Delta t_{0}$$
+		- The quantity
