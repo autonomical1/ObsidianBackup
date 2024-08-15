@@ -101,5 +101,5 @@
 		- this is time dilation
 	- Notes:
 		- Observers always note time running at a normal rate in their own frame of reference.
-		- In frames moving relative to an observer, timewill appear to run slower.
-		- For non-relativistic speeds, $v \lt\lt 1$ and $\Delta t \approx \Delta t_{0}$  
+		- In frames moving relative to an observer, time will appear to run slower.
+		- For non-relativistic speeds, $v \lt\lt 1$ and $\Delta t \approx \Delta t_{0}$. Therefore, time dilation is only noticeable when relativistic speeds are involved. 
