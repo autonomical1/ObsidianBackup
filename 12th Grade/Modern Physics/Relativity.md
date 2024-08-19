@@ -115,4 +115,8 @@
 - **_Conclusion_**: Upon returning to Earth, space-bound twin will age less than Earth-bound twin because less time elapsed in their rest frame. 
 - **Paradox**: 
 	- Can't the space-bound twin make the same argument about the earth bound twin?
-	- if observations in all reference frames are equally valid, then each twin s
+	- if observations in all reference frames are equally valid, then each twin should observe the other as being younger, but that can't possibly be the case
+- **Resolution**:
+	- There are two problems with this scenario:
+		- Space bound twin must accelerate in order to turn around for the return voyage to the earth which means that their reference frame is not always inertial. 
+		- *Length contraction* will also occur.
