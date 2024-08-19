@@ -122,5 +122,8 @@
 		- *Length contraction* will also occur.
 
 ## The Relativistic Doppler Effect
-- Recall tha tfor sound, if there is relative motion between the source of the sound and the observer, the frequency detected by the observer is different from that measured at the source. THe situation for light (emr) is similar with two primary differences.
-	- emr does not require a phyiscal medium, hence, no effects due to motion of the medium wrt source and observer as was the case with sound. relativistic speeds are involved, so we must take relativisitc effects (time d))
+- Recall that for sound, if there is relative motion between the source of the sound and the observer, the frequency detected by the observer is different from that measured at the source.
+- The situation for light (EMR) is similar with two primary differences.
+	- EMR does not require a physical medium, hence, no effects due to motion of the medium w.r.t. source and observer as was the case with sound. 
+	- Relativistic speeds are involved, so we must take relativistic effects (time dilation) into account in calculations.
+- 
