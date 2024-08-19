@@ -120,3 +120,6 @@
 	- There are two problems with this scenario:
 		- Space bound twin must accelerate in order to turn around for the return voyage to the earth which means that their reference frame is not always inertial. 
 		- *Length contraction* will also occur.
+
+## The Relativistic Doppler Effect
+- Recall tha tfor sound, if there is relative motion between the source of the sound and the observer, the frequency detected by th
