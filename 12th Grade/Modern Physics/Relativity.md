@@ -110,3 +110,6 @@
 
 ## The Twin Paradox
 - Consider two young twins of the same age
+- One lives on earth, one travels far away from Earth at a relativistic speed and returns. 
+- Because of time dilation, Earth-bound twin will observe time running more slowly in the space-bound twin's reference frame. 
+- **_Conclusion_**: Upon returning to Earth, space-bound twin will age less than Earth-bound
