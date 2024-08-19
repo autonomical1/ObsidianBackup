@@ -85,7 +85,7 @@
 	- since all IRFs equivalent by 1st postulate (no preferred IRF), both observers at $O$ and $O'$ are correct, observations equally valid.
 	- Lack of agreement noticeable as $v$ approaches $c$
 
-### Time Dilation
+## Time Dilation
 - Lack of simultaneity in different reference frames suggests time is not absolute and may pass at different rates in different reference frames.
 - Gedanken experiment:
 	- Consider spaceship travelling past Earth at high speed.
@@ -108,4 +108,5 @@
 - The quantity $\Delta t_{0}$ is known as the **proper time** and is the time interval between two events in the reference frame where those events occur at the **same location in space.**
 - The proper time is the shortest possible time interval between two events and the time interval will be larger when measured in any other frame of reference.
 
-# The Twin Paradox
+## The Twin Paradox
+- Consider two young twins of the same age
