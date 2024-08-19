@@ -1,4 +1,4 @@
-## Classical Relativity
+# Classical Relativity
 - Relativity Principles = all inertial reference frames (IRFs) hold
 - Reference frames ($S, S'$)
 	- $S$ = rest frame
@@ -10,7 +10,7 @@
 	- $$u'_{x} = u_{x} - v$$
 		- velocities of moving frames and object is subtracted
 - $$a_{x} = a'_{x} \text{ because IRFs have the no acceleration}$$
-#### Galilean Invariance of Newton's Laws
+## Galilean Invariance of Newton's Laws
 - Solve problem using Newton's laws in frame $S$
 - Add constant velocity (transformation to frame $S'$)
 - Solve problem using Newton's Laws in frame $S'$
@@ -23,7 +23,7 @@
 	- invariant force ($ma$)
 - (not always valid)
 
-### Problem with Galilean Relativity
+## Problem with Galilean Relativity
 - Maxwell's equations
 	- ![[Pasted image 20240813115641.png]]
 		- Gauss's law for Magnetism indicates that magnetic monopoles do not exist.
@@ -31,7 +31,7 @@
 - Correction term predicts speed, $c$, of EM waves in free space is $c = \frac{1}{\sqrt{\epsilon_{0}\mu_{0}}}$, confirmed by experiment
 - Predict single value for $c$, but Galilean transformations yield diff values in diff reference frames.
 
-### Ether
+## Ether
 - In the 19th century, all known waves were mechanical waves, propagated through some physical medium.
 - EM waves assumed to propagate through medium
 	- This was called *ether* - assumed to permeate all space
@@ -39,7 +39,7 @@
 	- This means that Maxwell's equations do not satisfy Relativity Principle
 	- Einstein's Second Postulate of Special Relativity would later resolve this.
 
-### Experimentation
+## Experimentation
 - Several experiments:
 	- attempts to measure differences in $c$ with different orientations
 	- should depend on Earth's orientation w.r.t ether
@@ -108,3 +108,4 @@
 - The quantity $\Delta t_{0}$ is known as the **proper time** and is the time interval between two events in the reference frame where those events occur at the **same location in space.**
 - The proper time is the shortest possible time interval between two events and the time interval will be larger when measured in any other frame of reference.
 
+# The Twin Paradox
