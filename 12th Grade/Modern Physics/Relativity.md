@@ -126,3 +126,4 @@
 - The situation for light (EMR) is similar with two primary differences.
 	- EMR does not require a physical medium, hence, no effects due to motion of the medium w.r.t. source and observer as was the case with sound. 
 	- Relativistic speeds are involved, so we must take relativistic effects (time dilation) into account in calculations.
+- General: $$v = \lambda\cdot f$$$$\text{E-M }$$
