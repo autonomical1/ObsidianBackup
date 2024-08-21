@@ -127,4 +127,9 @@
 	- EMR does not require a physical medium, hence, no effects due to motion of the medium w.r.t. source and observer as was the case with sound. 
 	- Relativistic speeds are involved, so we must take relativistic effects (time dilation) into account in calculations.
 - General: $$v = \lambda\cdot f \text{ (any wave)}$$$$\text{E-M : } c =\lambda f$$
+
+### The Train/Tunnel Paradox:
+- Consider a tunnel that is 800 feet long in its rest frame and a train that is 1000 feet long in its rest frame as shown below. 
+- Tunnel has doors at either end that can be closed, goal is to contain entire train in the tunnel with both doors closed.
+- Train has spee
 - 
