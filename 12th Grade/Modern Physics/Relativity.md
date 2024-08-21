@@ -131,5 +131,6 @@
 ### The Train/Tunnel Paradox:
 - Consider a tunnel that is 800 feet long in its rest frame and a train that is 1000 feet long in its rest frame as shown below. 
 - Tunnel has doors at either end that can be closed, goal is to contain entire train in the tunnel with both doors closed.
-- Train has spee
+- Train has speed $0.8 \cdot c (\gamma = 1.67)$ w.r.t. tunnel rest frame.
+- 
 - 
